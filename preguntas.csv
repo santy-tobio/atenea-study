@@ -668,3 +668,103 @@ id,pregunta,respuesta,categoria,dificultad,asignado_a,estado,notas,fecha_revisio
 322,¿Qué civilización precolombina habitaba en el actual México central?,Azteca (o Mexica),historia_universal,media,marcos,nueva,,,opentriviaqa
 489,¿Cuál es la montaña más alta de Europa?,Elbrus,geografia,media,tiziano,no_sabia,,2026-03-17,generada
 80,�Qu� esquiador sueco gan� dos medallas de oro en los Juegos Ol�mpicos de Invierno de 1890 en Lake Placid?,Ingemar Stenmark,deportes,facil,todos,nueva,,,trivial2b
+670,"Si un avión se estrella justo en la frontera entre Argentina y Chile, ¿dónde se entierran los sobrevivientes?",Los sobrevivientes no se entierran,logica,facil,todos,nueva,,,generada
+671,"¿Qué número sigue en la secuencia: 1, 1, 2, 3, 5, 8, ...?",13 (secuencia de Fibonacci),logica,facil,todos,nueva,,,generada
+672,¿Qué pesa más: un kilo de plomo o un kilo de plumas?,Pesan lo mismo: un kilogramo,logica,facil,todos,nueva,,,generada
+673,"Si tenés 3 manzanas y te sacan 2, ¿cuántas manzanas tenés?",2 (las que te sacaron las tenés vos),logica,facil,todos,nueva,,,generada
+674,¿Cuántos meses del año tienen 28 días?,Todos (los 12 meses tienen al menos 28 días),logica,facil,todos,nueva,,,generada
+675,"Un granjero tiene 17 ovejas y se le mueren todas menos 9, ¿cuántas le quedan?",9,logica,facil,todos,nueva,,,generada
+676,¿Cuántas veces se puede restar 5 de 25?,Una sola vez (después ya no es 25),logica,facil,todos,nueva,,,generada
+677,"Si un médico te da 3 pastillas y te dice que tomes una cada media hora, ¿en cuánto tiempo se terminan?",En 1 hora (0 min la primera; 30 min la segunda; 60 min la tercera),logica,facil,todos,nueva,,,generada
+678,¿Qué se moja más cuanto más seca?,La toalla,logica,facil,todos,nueva,,,generada
+679,"El padre de María tiene 5 hijas: Nana, Nene, Nini, Nono. ¿Cómo se llama la quinta?",María,logica,facil,todos,nueva,,,generada
+680,"¿Qué es lo que se rompe sin que nadie lo toque, sin manos y sin fuerza?",Una promesa,logica,facil,todos,nueva,,,generada
+681,¿Cuál es el animal que camina con las patas en la cabeza?,El piojo,logica,facil,todos,nueva,,,generada
+682,"Si un pastor tiene 15 ovejas y un rayo mata a todas menos 9, ¿cuántas ovejas vivas quedan?",9,logica,facil,todos,nueva,,,generada
+683,"Dos padres y dos hijos van a pescar. Cada uno pesca un pez, pero solo traen 3 peces. ¿Cómo es posible?","Son tres personas: abuelo, padre e hijo",logica,facil,todos,nueva,,,generada
+684,"Antes del Monte Everest, ¿cuál era la montaña más alta del mundo?",El Everest (ya existía aunque no se hubiera descubierto),logica,facil,todos,nueva,,,generada
+685,"¿Qué número sigue en la secuencia: 2, 6, 12, 20, 30, ...?",42 (n×(n+1): diferencias crecientes de 4+2n),logica,media,santiago,nueva,,,generada
+686,"Tenés una vela, un fósforo y un diario. ¿Qué encendés primero?",El fósforo,logica,media,santiago,nueva,,,generada
+687,"En una carrera, si adelantás al que va segundo, ¿en qué posición quedás?",Segundo,logica,media,santiago,nueva,,,generada
+688,"¿Qué número sigue: 1, 4, 9, 16, 25, ...?",36 (cuadrados perfectos),logica,media,santiago,nueva,,,generada
+689,¿Cuántos cuadrados hay en un tablero de ajedrez?,204 (cuadrados de todos los tamaños posibles),logica,media,santiago,nueva,,,generada
+690,"Si 5 máquinas tardan 5 minutos en hacer 5 piezas, ¿cuánto tardan 100 máquinas en hacer 100 piezas?",5 minutos,logica,media,santiago,nueva,,,generada
+691,Un ladrillo pesa 1 kg más medio ladrillo. ¿Cuánto pesa el ladrillo?,2 kg,logica,media,santiago,nueva,,,generada
+692,Un reloj de campanadas tarda 5 segundos en dar 6 campanadas. ¿Cuánto tarda en dar 12?,11 segundos (el tiempo es entre campanadas: 5 intervalos en 5 s = 1 s cada uno; 11 intervalos = 11 s),logica,media,santiago,nueva,,,generada
+693,"¿Qué número sigue: 1, 11, 21, 1211, 111221, ...?",312211 (secuencia 'look and say'),logica,media,santiago,nueva,,,generada
+694,"Si tenés un cubo de 3×3×3 formado por 27 cubitos, y pintás todas las caras externas, ¿cuántos cubitos no tienen pintura en ninguna cara?",1 (el del centro),logica,media,santiago,nueva,,,generada
+695,Tres interruptores en una habitación controlan tres lámparas en otra. Solo podés entrar una vez a la habitación de las lámparas. ¿Cómo sabés cuál interruptor va con cada lámpara?,"Encendés uno 10 min, lo apagás, encendés otro, y entrás: la caliente apagada es el primero, la encendida el segundo, la fría apagada el tercero",logica,media,santiago,nueva,,,generada
+696,"¿Qué número sigue: 0, 1, 1, 2, 4, 7, 13, ...?",24 (tribonacci: cada número es la suma de los tres anteriores),logica,media,santiago,nueva,,,generada
+697,En una isla hay dos tribus: una siempre dice la verdad y otra siempre miente. ¿Qué pregunta le harías a cualquiera para saber cuál es el camino correcto?,"'Si le preguntara a alguien de la otra tribu cuál es el camino correcto, ¿qué me diría?' — y tomás el camino contrario",logica,media,santiago,nueva,,,generada
+698,¿Cuántos triángulos hay en un pentágono con todas sus diagonales dibujadas?,35,logica,media,santiago,nueva,,,generada
+699,"Un barco tiene una escalera de 10 peldaños separados por 30 cm. El agua cubre 2 peldaños. Si la marea sube 1 metro, ¿cuántos peldaños quedan cubiertos?",2 (el barco sube con la marea),logica,media,santiago,nueva,,,generada
+700,"¿Qué número sigue: 3, 3, 5, 4, 4, 3, 5, 5, 4, ...?","3 (número de letras de uno, dos, tres, cuatro...)",logica,media,santiago,nueva,,,generada
+701,"Si tenés 9 monedas iguales y una es más liviana, ¿cuántas pesadas en balanza necesitás como mínimo para encontrarla?","2 (dividís en 3 grupos de 3, pesás dos grupos)",logica,media,santiago,nueva,,,generada
+702,¿Cuántas caras tiene un icosaedro?,20,logica,media,santiago,nueva,,,generada
+703,"Tres cajas: una tiene manzanas, otra naranjas, otra ambas. Las etiquetas están todas MAL. Sacás UNA fruta de UNA caja. ¿Podés etiquetar todas correctamente?","Sí: sacás de la caja etiquetada 'ambas' (como está mal, tiene solo un tipo), y deducís las otras",logica,media,santiago,nueva,,,generada
+704,Estás en una habitación con dos puertas: una lleva a la libertad y otra a la muerte. Hay dos guardias: uno siempre miente y otro siempre dice la verdad. Podés hacer UNA pregunta a UNO. ¿Qué preguntás?,"'Si le preguntara al otro guardia cuál es la puerta a la libertad, ¿qué me diría?' — y elegís la puerta contraria",logica,dificil,santiago,nueva,,,generada
+705,"¿Cuál es el menor número de cortes para dividir un cubo en 27 cubitos iguales, si podés reacomodar piezas entre cortes?",6 (se necesitan 6 cortes sin importar el reacomodo),logica,dificil,santiago,nueva,,,generada
+706,"Tenés 12 monedas idénticas y una es diferente (no sabés si pesa más o menos). Con una balanza de dos platillos y solo 3 pesadas, ¿podés identificar la moneda falsa y si pesa más o menos?","Sí, dividiendo en grupos de 4 y usando un esquema lógico de descarte",logica,dificil,santiago,nueva,,,generada
+707,¿Cuántos ceros tiene al final el factorial de 100 (100!)?,24,logica,dificil,santiago,nueva,,,generada
+708,"Cinco piratas deben repartir 100 monedas de oro. El más veterano propone un reparto y todos votan. Si no se aprueba por mayoría (incluyendo su voto), lo tiran al mar y el siguiente propone. ¿Qué propone el pirata más veterano para maximizar su ganancia?","98 para él, 0 para el segundo, 1 para el tercero, 0 para el cuarto, 1 para el quinto",logica,dificil,santiago,nueva,,,generada
+709,¿Cuántos apretones de mano se dan si 10 personas se saludan todas entre sí?,45 (combinaciones de 10 tomados de a 2),logica,dificil,santiago,nueva,,,generada
+710,"La paradoja del barbero: en un pueblo, el barbero afeita a todos los que no se afeitan a sí mismos. ¿Quién afeita al barbero?",Es una paradoja sin solución (formulada por Bertrand Russell),logica,dificil,santiago,nueva,,,generada
+711,¿Cuántos números primos hay entre 1 y 100?,25,logica,dificil,santiago,nueva,,,generada
+712,Tenés 8 bolas de billar idénticas y una pesa un poco más. ¿Cuál es el mínimo de pesadas en una balanza de platillos para encontrarla?,2,logica,dificil,santiago,nueva,,,generada
+713,"En el problema de Monty Hall, si elegís una puerta y el presentador abre otra mostrando una cabra, ¿conviene cambiar de puerta?","Sí, cambiar da 2/3 de probabilidad de ganar",logica,dificil,santiago,nueva,,,generada
+714,"¿Qué número sigue: 1, 2, 4, 8, 16, 32, ...?",64 (potencias de 2),logica,media,santiago,nueva,,,generada
+715,Dos trenes separados por 200 km van uno hacia el otro a 100 km/h cada uno. Una mosca vuela entre ambos a 150 km/h. ¿Cuánto recorre la mosca antes de que choquen?,150 km (los trenes se encuentran en 1 hora),logica,dificil,santiago,nueva,,,generada
+716,¿Cuántas diagonales tiene un decágono (polígono de 10 lados)?,35,logica,dificil,santiago,nueva,,,generada
+717,"Si lanzás dos dados, ¿cuál es la probabilidad de que la suma sea 7?",1/6 (6 combinaciones favorables de 36 posibles),logica,dificil,santiago,nueva,,,generada
+718,La paradoja de Zenón de Aquiles y la tortuga plantea que Aquiles nunca alcanza a la tortuga. ¿Por qué es una paradoja y no un hecho?,"Porque la suma infinita de intervalos converge a un valor finito, por lo que Aquiles sí la alcanza",logica,dificil,santiago,nueva,,,generada
+719,Un caracol sube 3 metros de día y baja 2 metros de noche por una pared de 10 metros. ¿Cuántos días tarda en llegar arriba?,8 días (al séptimo día está a 7 m; al octavo día sube 3 y llega a 10),logica,dificil,santiago,nueva,,,generada
+720,¿Qué movimiento artístico se caracteriza por el uso de la perspectiva y el redescubrimiento de la antigüedad clásica?,Renacimiento,arte,facil,todos,nueva,,,generada
+721,¿En qué museo se encuentra la Mona Lisa?,Museo del Louvre (París),arte,facil,todos,nueva,,,generada
+722,¿Qué artista es famoso por sus pinturas de latas de sopa Campbell?,Andy Warhol,arte,facil,todos,nueva,,,generada
+723,¿Quién esculpió el David de mármol expuesto en Florencia?,Miguel Ángel,arte,facil,todos,nueva,,,generada
+724,¿Qué pintor holandés se cortó parte de la oreja?,Vincent van Gogh,arte,facil,todos,nueva,,,generada
+725,¿Qué artista mexicana es conocida por sus autorretratos y sus cejas unidas?,Frida Kahlo,arte,facil,todos,nueva,,,generada
+726,¿Qué movimiento artístico representa la obra 'Impresión: sol naciente' de Monet?,Impresionismo,arte,facil,todos,nueva,,,generada
+727,¿Quién diseñó la cúpula de la Catedral de Florencia (Santa María del Fiore)?,Filippo Brunelleschi,arte,facil,todos,nueva,,,generada
+728,"¿Qué técnica pictórica usa pequeños puntos de color para formar una imagen, típica de Seurat?",Puntillismo,arte,media,marcos,nueva,,,generada
+729,¿Qué pintor argentino es famoso por su serie 'Juanito Laguna'?,Antonio Berni,arte,media,marcos,nueva,,,generada
+730,¿Qué movimiento artístico lideró André Breton y se basa en el subconsciente y los sueños?,Surrealismo,arte,media,marcos,nueva,,,generada
+731,"¿Quién pintó 'La joven de la perla', también conocida como la 'Mona Lisa del Norte'?",Johannes Vermeer,arte,media,marcos,nueva,,,generada
+732,¿Qué movimiento artístico se caracteriza por formas geométricas y múltiples perspectivas simultáneas?,Cubismo,arte,media,marcos,nueva,,,generada
+733,¿Quién pintó los famosos murales del Palacio Nacional de México sobre la historia mexicana?,Diego Rivera,arte,media,marcos,nueva,,,generada
+734,¿Qué arquitecto diseñó el Museo Guggenheim de Nueva York?,Frank Lloyd Wright,arte,media,marcos,nueva,,,generada
+735,¿Qué pintor es autor de 'El jardín de las delicias'?,El Bosco (Hieronymus Bosch),arte,media,marcos,nueva,,,generada
+736,¿Qué artista argentino es conocido por sus pinturas neocriollas y sus escrituras inventadas?,Xul Solar,arte,media,marcos,nueva,,,generada
+737,¿Qué técnica usaba Leonardo da Vinci para lograr transiciones suaves entre colores y tonos?,Sfumato,arte,media,marcos,nueva,,,generada
+738,¿Qué movimiento artístico de principios del siglo XX se caracteriza por el uso de colores intensos y puros?,Fauvismo,arte,media,marcos,nueva,,,generada
+739,¿Quién diseñó el edificio de la Ópera de Sídney?,Jørn Utzon,arte,media,marcos,nueva,,,generada
+740,"¿En qué ciudad está el museo El Prado, donde se exhibe 'Las meninas' de Velázquez?",Madrid,arte,media,marcos,nueva,,,generada
+741,¿Qué escultor colombiano es famoso por sus figuras voluminosas y redondeadas?,Fernando Botero,arte,media,marcos,nueva,,,generada
+742,¿Quién pintó 'La ronda nocturna'?,Rembrandt,arte,dificil,marcos,nueva,,,generada
+743,¿Qué movimiento artístico italiano de principios del siglo XX exaltaba la velocidad y la tecnología?,Futurismo,arte,dificil,marcos,nueva,,,generada
+744,¿Qué pintor español es autor de 'El entierro del Conde de Orgaz'?,El Greco,arte,dificil,marcos,nueva,,,generada
+745,¿Qué artista es conocido por envolver edificios y paisajes con tela?,Christo (y Jeanne-Claude),arte,dificil,marcos,nueva,,,generada
+746,¿Quién pintó el tríptico 'Tres estudios de Lucian Freud' que se vendió por más de 142 millones de dólares?,Francis Bacon,arte,dificil,marcos,nueva,,,generada
+747,¿Qué arquitecto brasileño diseñó los principales edificios de Brasilia?,Oscar Niemeyer,arte,dificil,marcos,nueva,,,generada
+748,¿Qué movimiento artístico abstracto lideró Piet Mondrian con líneas rectas y colores primarios?,Neoplasticismo (o De Stijl),arte,dificil,marcos,nueva,,,generada
+749,¿Qué pintor renacentista es autor de 'La escuela de Atenas' en el Vaticano?,Rafael Sanzio,arte,dificil,marcos,nueva,,,generada
+750,¿Qué premio Nobel de Literatura ganó Gabriel García Márquez?,El de 1982,literatura,facil,todos,nueva,,,generada
+751,¿Quién escribió 'El túnel'?,Ernesto Sábato,literatura,facil,todos,nueva,,,generada
+752,¿De qué nacionalidad era el poeta Pablo Neruda?,Chilena,literatura,facil,todos,nueva,,,generada
+753,¿Quién es el autor de 'El Aleph' y 'El jardín de senderos que se bifurcan'?,Jorge Luis Borges,literatura,facil,todos,nueva,,,generada
+754,¿Qué obra literaria argentina es considerada la principal del género gauchesco?,Martín Fierro (de José Hernández),literatura,facil,todos,nueva,,,generada
+755,¿Quién escribió 'Veinte poemas de amor y una canción desesperada'?,Pablo Neruda,literatura,media,marcos,nueva,,,generada
+756,¿Qué movimiento literario latinoamericano de los años 60 incluye a García Márquez y Cortázar?,El Boom latinoamericano,literatura,media,marcos,nueva,,,generada
+757,"¿Quién escribió 'La invención de Morel', obra que influyó en Borges y en la serie Lost?",Adolfo Bioy Casares,literatura,media,marcos,nueva,,,generada
+758,¿Qué poetisa argentina escribió 'Voy a dormir' antes de suicidarse en Mar del Plata?,Alfonsina Storni,literatura,media,marcos,nueva,,,generada
+759,¿Qué autor argentino escribió 'Operación Masacre' como pionero del periodismo narrativo?,Rodolfo Walsh,literatura,media,marcos,nueva,,,generada
+760,¿Quién ganó el Premio Nobel de Literatura en 2010 siendo el primer latinoamericano en 20 años?,Mario Vargas Llosa,literatura,media,marcos,nueva,,,generada
+761,¿Qué autora chilena escribió 'La casa de los espíritus'?,Isabel Allende,literatura,media,marcos,nueva,,,generada
+762,¿Qué escritor argentino es autor de 'Los siete locos' y 'El juguete rabioso'?,Roberto Arlt,literatura,media,marcos,nueva,,,generada
+763,¿Qué técnica literaria caracteriza a 'Cien años de soledad' mezclando lo fantástico con lo cotidiano?,Realismo mágico,literatura,media,marcos,nueva,,,generada
+764,¿Quién fue la primera mujer latinoamericana en ganar el Nobel de Literatura (1945)?,Gabriela Mistral,literatura,media,marcos,nueva,,,generada
+765,¿Qué poeta mexicano ganó el Nobel de Literatura en 1990 y escribió 'El laberinto de la soledad'?,Octavio Paz,literatura,dificil,marcos,nueva,,,generada
+766,¿Qué escritora argentina fue esposa de Bioy Casares y autora de 'La furia' y 'Cornelia frente al espejo'?,Silvina Ocampo,literatura,dificil,marcos,nueva,,,generada
+767,¿Qué autor uruguayo escribió 'Las venas abiertas de América Latina'?,Eduardo Galeano,literatura,dificil,marcos,nueva,,,generada
+768,¿Qué escritor español ganó el Nobel en 1989 y es autor de 'La familia de Pascual Duarte'?,Camilo José Cela,literatura,dificil,marcos,nueva,,,generada
+769,¿Qué autor mexicano escribió 'Pedro Páramo' e influyó profundamente en el realismo mágico?,Juan Rulfo,literatura,dificil,marcos,nueva,,,generada

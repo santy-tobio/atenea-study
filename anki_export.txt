@@ -1,669 +1,769 @@
-¿Cual es el planeta mas grande del sistema solar?	Júpiter	atenea::ciencia::facil
-¿Cuanto tarda la Tierra en dar una vuelta completa alrededor del sol?	365 días	atenea::ciencia::facil
-Las estrellas agrupadas forman...	Constelaciones	atenea::ciencia::facil
-¿Cuanto pesa el cerebro de un ser humano adulto?	1 Kg	atenea::ciencia::facil
-¿Cuantos dientes permanentes tiene un ser humano adulto?	32	atenea::ciencia::facil
-Aproximadamente ¿cuántos pelos tenemos en la cabeza?	Entre 100.000 y 200.000	atenea::ciencia::facil
-¿Cuantos metros miden los intestinos?	Entre 8 y 9	atenea::ciencia::facil
-¿Cuantos huesos hay en el cuerpo humano?	206	atenea::ciencia::facil
-¿Cuantas veces se calcula que latirá el corazón a lo largo de toda la vida de un humano?	3.000 millones de veces	atenea::ciencia::facil
-¿Dónde realizan las plantas la fotosíntesis?	En las hojas	atenea::ciencia::facil
-¿Que es la biodiversidad o riqueza de un ecosistema?	El número de especies	atenea::ciencia::facil
-¿Que es la sucesión ecológica?	La maduración del ecosistema	atenea::ciencia::facil
-¿Cual de los siguientes recursos energéticos no tiene por origen exclusivo la radiación solar?	La energía nuclear	atenea::ciencia::facil
-¿En que año se publicó "El origen de las especies" de Charles Darwin?	1859	atenea::ciencia::facil
-¿Que pasó con la primera edición de "El origen de las especies", en el que Darwin explicaba su teoría de la evolución?	Se agotó el primer día	atenea::ciencia::facil
-El oxigeno es el comburente mas habitual, ¿Que porcentaje hay de este en el aire?	21%	atenea::ciencia::facil
-¿Por que apagan el fuego los extintores?	Cortan el oxígeno del fuego	atenea::ciencia::facil
-¿Que es el pistilo de una flor?	El verticilo fértil femenino	atenea::ciencia::facil
-¿Como se llaman los gametos masculinos en un rosal?	Núcleos espermáticos	atenea::ciencia::facil
-¿Que son plantas monoicas?	Las que tienen flores masculinas y femeninas	atenea::ciencia::facil
-¿En donde se encuentra el gametofito en la amapola?	En el interior del óvulo	atenea::ciencia::facil
-¿Que función tiene la semilla de una planta?	La dispersión y nacimiento de la futura planta	atenea::ciencia::facil
-Un triángulo equilátero se caracteriza por tener...	Sus tres lados son iguales	atenea::ciencia::facil
-¿Que han de tener dos objetos para que entre ellos exista gravedad?	Masa	atenea::ciencia::facil
-¿Cual es la intensidad de la gravedad en la Tierra a nivel del mar?	9,8 m/s2	atenea::ciencia::facil
-¿Debajo de que árbol se encontraba Newton cuando, según la leyenda, descubrió la ley de la gravedad?	Manzano	atenea::ciencia::facil
-¿En que lugar de la Tierra se ha de estar para no verse influido por la fuerza gravitacional?	En el centro	atenea::ciencia::facil
-La gravedad es una de las "fuerzas fundamentales" que considera la Física moderna. ¿Cuantas son en total?	4	atenea::ciencia::facil
-¿Cual es el hueso mas largo en el cuerpo humano?	Fémur	atenea::ciencia::facil
-¿Que son los hematíes?	Glóbulos rojos	atenea::ciencia::facil
-¿Como se llama la primera capa de las meninges?	Duramadre	atenea::ciencia::facil
-¿Que tipo de musculo es el bíceps?	Esquelético estriado	atenea::ciencia::facil
-¿Como se llama la arteria mas grande del cuerpo humano?	Aorta	atenea::ciencia::facil
-¿Que función tienen los marcapasos?	Acelerar el ritmo cardiaco	atenea::ciencia::facil
-¿El corazón es miogenético ¿que significa eso?	Que se excita a si mismo	atenea::ciencia::facil
-¿Que pesa mas ¿el corazón de un hombre o el de una mujer?	El de un hombre	atenea::ciencia::facil
-¿Que instrumento mide la presión atmosférica?	Barómetro	atenea::ciencia::facil
-¿Que pierde el que sufre de anosmia?	Olfato	atenea::ciencia::facil
-¿Cual de estos compuestos tiene una menos cantidad de átomos de carbono?	Hexano	atenea::ciencia::facil
-¿Cual de estos compuestos orgánicos NO es oxigenado?	Aminas	atenea::ciencia::facil
-El elemento presente en todos los compuestos orgánicos es el...	Carbono	atenea::ciencia::facil
-¿De que tipo de reptiles surgieron los mamíferos?	Terápsidos	atenea::ciencia::facil
-¿Que edad se calculo que presente nuestro planeta?	4.600 millones de años	atenea::ciencia::facil
-¿Como se formó la Tierra?	Por un proceso de acreción gravitatoria	atenea::ciencia::facil
-�En qu� a�o se incorpora el nado sincronizado como disciplina ol�mpica?	Los �ngeles 1984	atenea::deportes::facil
-�C�mo se llama la jugadora de v�ley cubana que obtuvo m�s medallas ol�mpicas?	Ana Ibis Fern�ndez	atenea::deportes::facil
-En el sistema de puntos ol�mpicos �cu�ntos puntos se concede por cada medalla de bronce obtenida en una prueba?	4	atenea::deportes::facil
-Kyong-go es un t�rmino utilizado en Taekwondo. �Qu� denomina?	Un tipo de penalizaci�n	atenea::deportes::facil
-�Qu� equipo obtuvo la medalla de plata en baloncesto en los Juegos de Los �ngeles 1984?	Espa�a	atenea::deportes::facil
-�Cu�ntos animales fueron las mascotas en los Juegos de Pek�n 2008?	5	atenea::deportes::facil
-�En qu� edici�n de los Juegos Ol�mpicos obtuvo la medalla de oro en 400 m vallas, el dominicano F�lix S�nchez?	Atenas 2004	atenea::deportes::facil
-�Cu�nto duran los juegos ol�mpicos para la juventud de invierno?	9 d�as	atenea::deportes::facil
-�Cu�ntas fueron las mascotas de los Juegos Ol�mpicos de Londres 2012?	2	atenea::deportes::facil
-�Qu� duraci�n tienen los Juegos de la Juventud de verano?	12 d�as	atenea::deportes::facil
-�Qu� mediofondista logr� la medalla de oro en los Juegos de M�xico 68 y en M�nich 72?	Kip Keino	atenea::deportes::facil
-�Qu� patinador art�stico obtuvo la medalla de oro en los Juegos Ol�mpicos de Invierno celebrados en Calgary en 1988?	Brian Boitano	atenea::deportes::facil
-�Cu�l es el �nico deporte acu�tico que estuvo presente en todos los Juegos Ol�mpicos?	Nataci�n	atenea::deportes::facil
-�Qui�n dirigi� la ceremonia de apertura de los Juegos Ol�mpicos de Londres 2012?	Danny Boyle	atenea::deportes::facil
-�Cu�ntos a�os ten�a la gimnasta Nadia Comaneci cuando encant� al mundo en los Juegos Ol�mpicos de Canad�, en 1976?	14	atenea::deportes::facil
-�Qu� animal fue la mascota ol�mpica de los Juegos de Mosc� de 1980?	Un oso	atenea::deportes::facil
-�Cu�l es la primera naci�n que debe ingresar en el estadio en la ceremonia de apertura de cada edici�n de los Juegos Ol�mpicos?	Grecia	atenea::deportes::facil
-�En qu� mes se han celebrado normalmente los Juegos Ol�mpicos de Invierno, hasta 1994?	Febrero	atenea::deportes::facil
-�Cu�l de los siguientes deportes NO se disputa en los Juegos Ol�mpicos?	Hockey sobre hielo	atenea::deportes::facil
-�C�mo se llamaba el �guila que fue mascota en los Juegos Ol�mpicos de Los �ngeles 1984?	Sam	atenea::deportes::facil
-�Cu�l es la ciudad griega que dio inicio al transporte de la antorcha ol�mpica?	Olimpia	atenea::deportes::facil
-�Con qu� nombre es conocido el Himno Paral�mpico?	Himno del futuro	atenea::deportes::facil
-Despu�s de Estados Unidos, �qu� selecci�n se encuentra segunda en el medallero ol�mpico de Baloncesto?	Uni�n Sovi�tica	atenea::deportes::facil
-�Qu� selecci�n latinoamericana de Hockey sobre c�sped femenino obtuvo medallas en las �ltimas 4 olimpiadas?	Argentina	atenea::deportes::facil
-�Cu�l fue el primer pa�s asi�tico en que se realiz� una edici�n de los Juegos Ol�mpicos en 1968?	Jap�n	atenea::deportes::facil
-�De qu� pa�s es originario el Curling, practicado en los Juegos Ol�mpicos de Invierno?	Escocia y Pa�ses Bajos	atenea::deportes::facil
-�En qu� continente nunca se ha realizado una edici�n de los Juegos Ol�mpicos?	�frica	atenea::deportes::facil
-�Qui�n obtuvo la medalla de oro en ciclismo en los juegos de Atlanta 1996, en la prueba contrarreloj individual?	Miguel Indur�in	atenea::deportes::facil
-�Qu� atleta estadounidense fue el primer campe�n ol�mpico de la historia?	James Connolly	atenea::deportes::facil
-�Cu�les fueron los primeros Juegos Ol�mpicos en ser transmitidos por televisi�n?	Berl�n 1936	atenea::deportes::facil
-�En qu� edici�n de los Juegos Ol�mpicos participaron por primera vez las mujeres en Gimnasia Ol�mpica?	�msterdam 1928	atenea::deportes::facil
-�Qui�n fund� en 1960 los juegos Paral�mpicos?	Ludwig Guttmann	atenea::deportes::facil
-�Cu�nto debe pesar el disco en la disciplina ol�mpica de Lanzamiento de disco?	2	atenea::deportes::facil
-�De qu� nacionalidad es el campe�n ol�mpico de esqu�, en 1972, Gustavo Thoeni?	Italiano	atenea::deportes::facil
-�C�mo se llama la deportista que obtuvo m�s medallas ol�mpicas en la disciplina Ciclismo de ruta?	Leontien Van Moorsel	atenea::deportes::facil
-�Qu� esquiador sueco gan� dos medallas de oro en los Juegos Ol�mpicos de Invierno de 1890 en Lake Placid?	Ingemar Stenmark	atenea::deportes::facil
-�Qu� mascotas fueron escogidas para los juegos paral�mpicos 2014?	Rayo de sol y mu�eco de nieve	atenea::deportes::facil
-�Qu� atleta italiano gan� la medalla de oro en los 200 metros llanos, en los Juegos Ol�mpicos de Roma de 1960?	Livio Berruti	atenea::deportes::facil
-�De qu� jugador de f�tbol el ex velocista Ben Johnson fue entrenador personal, en 1997?	Maradona	atenea::deportes::facil
-�Cual de estos deportes se practica dentro del agua?	Nataci�n	atenea::deportes::facil
-En los Juegos de Los �ngeles, en 1984, �cu�ntos pa�ses del bloque sovi�tico no participaron en las competencias?	15	atenea::deportes::facil
-�En qu� ciudad se celebraron los Juegos Ol�mpicos de 1984?	Los �ngeles	atenea::deportes::facil
-�Qu� deporte debut� como deporte ol�mpico en los Juegos de Berl�n 1936?	Balonmano	atenea::deportes::facil
-En la serie Hora De Aventuras �Cuantos hijos tiene Jake?	Ninguna es correcta	atenea::otro::facil
-En la serie Hora De Aventuras �Como se llama el coraz�n del Rey Helado?	Ricardio	atenea::otro::facil
-En la serie Hora De Aventuras �Cuantas veces muri� Jake?	1	atenea::otro::facil
-Qui�n es el creador y cual fue la fecha de lanzamiento de Hora De Aventuras	Pendleton Ward, 2010	atenea::otro::facil
-En la serie Hora De Aventuras �Como se llama la princesa chicle?	Bonibelle	atenea::otro::facil
-En la serie Hora De Aventuras �Como se llama el episodio donde Jake conoce a los padres de Lady Arco�ris?	Los suegros	atenea::otro::facil
-En la serie Hora De Aventuras �De qui�n est� enamorado Finn?	Princesa Llama	atenea::otro::facil
-En la serie Hora De Aventuras �Como se llama el libro de los h�roes?	El Enchiridi�n	atenea::otro::facil
-En la serie Hora De Aventuras �como se llama Marseline cuando se convierte en chico?	Marshall Lee	atenea::otro::facil
-En la serie Hora De Aventuras, cuando la princesa lodo le dice a Finn que quiere casarse con �l, �que le dice Jake para quitarle esa idea de la cabeza?	Que Finn se mea encima todo el rato	atenea::otro::facil
-En la serie Hora De Aventuras �cuantos a�os tiene Finn?	13	atenea::otro::facil
-En la serie Hora De Aventuras �que otro animal sale en todos los cap�tulos aparte de Jake?	Un caracol saludando	atenea::otro::facil
-En la serie Hora De Aventuras �en que pa�s viven los protagonistas?	En el pa�s de Ooo	atenea::otro::facil
-En la serie Hora De Aventuras �como se llama la consola de Finn y Jake?	Bmo	atenea::otro::facil
-En la serie de los Simpsons �que est� escrito en las escaleras de la comisar�a?	El Barto	atenea::otro::facil
-En la serie de los Simpsons �a que juegan Homer y sus amigos cuando Marge es oficial de polic�a?	P�ker	atenea::otro::facil
-En la serie de los Simpsons �cuantos hijos tienen Homer y Marge?	3	atenea::otro::facil
-En la serie de los Simpsons �como se apellida el tabernero Moe?	Sislark	atenea::otro::facil
-�Como se llama el mat�n de Phineas y Ferb?	Buford	atenea::otro::facil
-En la serie de Phineas y Ferb que construyen en el primer d�a de vacaciones?	Una monta�a rusa	atenea::otro::facil
-En la serie de Pokemon �a que pokemon evoluciona Dratini?	Dragonair	atenea::otro::facil
-En la serie de Pokemon �como se llama el protagonista principal?	Ash	atenea::otro::facil
-En la serie de Pokemon �cual es el pokemon que siempre acompa�a a Ash en todos sus episodios?	Pikachu	atenea::otro::facil
-En el juego de Mario Bross �como se llama, en ingles, la princesa que ha de rescatar el jugador que controla a Mario?	Melocot�n	atenea::otro::facil
-�Qui�n es Koji Kondo en relaci�n a S�per Mario Bross?	El creador de la BSO	atenea::otro::facil
-�Que pasa si Mario Bross coge una flor roja?	Lanza bolas de fuego	atenea::otro::facil
-�Qui�n es Luigi, el personaje que siempre acompa�a a Mario Bross en casi todas sus aventuras?	Su hermano	atenea::otro::facil
-�?Como se llama el reino por el que se mueven Mario Bross y sus amigos?	Reino Champi��n	atenea::otro::facil
-�Cual es la profesi�n de Mario Bross?	Fontanero	atenea::otro::facil
-�E la m�sica de que compositor se bas� Disney para realizar la pel�cula El aprendiz de brujo?	Dukas	atenea::otro::facil
-�En que n�mero del Paseo de la Fama de Hollywood tiene su huella Mickey Mouse?	6925	atenea::otro::facil
-�Qui�n puso la voz de Mickey Mouse los primeros a�os de vida del personaje?	Walt Disney	atenea::otro::facil
-�Como se llama el perro de Mickey Mouse?	Pluto	atenea::otro::facil
-En la serie de animada de Heidi �de que raza de pero es Niebla?	San Bernardo	atenea::otro::facil
-�En que a�o apareci� el libro de Heidi?	1880	atenea::otro::facil
-�En qu� a�o se estren� la pel�cula de Disney "Pinocho"?	1940	atenea::otro::facil
-�C�mo se llamaba el personaje que interpretaba John Travolta en "Grease"?	Danny Zuko	atenea::otro::facil
-�Qui�n es la mascota de SEGA?	Sonic	atenea::otro::facil
-�Qui�n es Bella en la saga �Crep�sculo�?	Kristen Stewart	atenea::otro::facil
-�A qu� pel�cula de Disney pertenece la canci�n "Un mundo ideal"?	Aladd�n	atenea::otro::facil
-�C�mo se llama el protagonista de la saga Indiana Jones?	Harrison Ford	atenea::otro::facil
-�A qui�n se considera el Rey del Pop?	Michael Jackson	atenea::otro::facil
-�C�mo se llama el actor protagonista de "Solo en casa"?	Macaulay Culkin	atenea::otro::facil
-�C�mo se llama el p�jaro s�mbolo de los Juegos del Hambre?	Sinsajo	atenea::otro::facil
-�Qu� grupo c�mico dobl� al espa�ol a los protagonistas de "Shrek"?	Cruz y Raya	atenea::otro::facil
-La capital de Brasil es ...	Brasilia	atenea::geografia::facil
-La capital de Bulgaria es...	Sof�a	atenea::geografia::facil
-La capital de Camer�n es...	Yaund�	atenea::geografia::facil
-La capital de Canad� es...	Ottawa	atenea::geografia::facil
-La capital de Chile es...	Santiago	atenea::geografia::facil
-La capital de Colombia es...	Bogot�	atenea::geografia::facil
-La capital del Congo es...	Kinshasa	atenea::geografia::facil
-La capital de Corea del sur es...	Se�l	atenea::geografia::facil
-La capital de Costa de Marfil es...	Yamusukro	atenea::geografia::facil
-La capital de Croacia es...	Zagreb	atenea::geografia::facil
-La capital de Cuba es...	Habana	atenea::geografia::facil
-�Cual es el r�o mas largo del Asia?	Yangts�	atenea::geografia::facil
-�Cual es la cadena monta�osa considerada m�s antigua y de menor relieve de entre las siguientes?	C�ucaso	atenea::geografia::facil
-�En que cordillera se encuentra el monte Everest?	Himalaya	atenea::geografia::facil
-�A que pa�s pertenece al Ant�rtida?	A ninguno	atenea::geografia::facil
-�Cu�l de estos tipos de climas no se encuentra entre los m�s habituales en Europa?	Ecuatorial	atenea::geografia::facil
-�Que tipo de climas predominan en el norte del continente americano?	Templados	atenea::geografia::facil
-�Cual de estos r�os americanos desemboca en el �rtico?	Yuk�n	atenea::geografia::facil
-�Cual de estos r�os europeos no desemboca en la vertiente atl�ntica?	Danubio	atenea::geografia::facil
-�A qu� pa�s pertenece la isla de Eubea?	Grecia	atenea::geografia::facil
-�Sobre qu� mar tiene sus costas N�ger?	Ninguno	atenea::geografia::facil
-�Qu� r�o Europeo al final de su recorrido, forma la frontera entre Austria y Alemania?	Inn	atenea::geografia::facil
-�Cu�l es la capital de la Rep�blica Centroafricana?	Bangui	atenea::geografia::facil
 �En d�nde desemboca el r�o europeo Bug Meridional?	Mar Negro	atenea::geografia::facil
-�Cu�l es el principal r�o de Hungr�a?	Tisza	atenea::geografia::facil
-�Cu�l es la capital de la Rep�blica Isl�mica de Mauritania?	Roma	atenea::geografia::facil
-�A qu� monta�a, la m�s elevada de �frica, pertenecen los picos volc�nicos Kibo y Mawensi?	Kilimanjaro	atenea::geografia::facil
-�De qu� oc�ano forma parte el mar de Bering?	Pac�fico	atenea::geografia::facil
-�Cu�l es el mayor r�o que fluye por Brasil?	Amazonas	atenea::geografia::facil
-�Cu�l es la capital de Irlanda?	Dubl�n	atenea::geografia::facil
-�Cu�l es la cima m�s elevada de las antiguas rep�blicas sovi�ticas?	Ismail Samani	atenea::geografia::facil
-�Qu� sistema monta�oso se extiende a lo largo de la frontera septentrional de la Rep�blica Checa?	Sudetes	atenea::geografia::facil
-�Cu�l es la cima m�s alta en la cordillera centroeuropea Sudetes?	Sriezka	atenea::geografia::facil
-�En qu� pa�s se encuentra el r�o Arkansas?	Estados Unidos	atenea::geografia::facil
-�Cu�les son los colores de la bandera de Letonia?	Rojo y blanco	atenea::geografia::facil
-�En qu� pa�s nace el r�o Kabul?	Afganist�n	atenea::geografia::facil
-�Cu�ntas islas componen el grupo de las Islas V�rgenes de los Estados Unidos?	3	atenea::geografia::facil
-�En qu� continente se encuentra el r�o Tocantins?	Am�rica	atenea::geografia::facil
-�Cu�l es el pa�s m�s peque�o de Centroam�rica?	El Salvador	atenea::geografia::facil
-�En qu� pa�s de Europa se encuentra el misterioso Lago de Ness?	Escocia	atenea::geografia::facil
-�En qu� pa�s se encuentra la ciudad de Avi��n?	Francia	atenea::geografia::facil
-�Cu�l es el r�o m�s largo de Lituania?	Niemen	atenea::geografia::facil
-�En qu� continente se encuentra el r�o Kasai?	�frica	atenea::geografia::facil
-�Sobre qu� oc�ano se encuentran las islas Maldivas?	�ndico	atenea::geografia::facil
-�C�mo se llamaba realmente el famoso nativo americano "Ger�nimo"?	Goyahkla	atenea::historia_universal::facil
-�Cuanto lleg� a medir el gigante de Altzo?	2.4 metros	atenea::historia_universal::facil
-�Qui�n fue la primera cient�fica de la historia?.	Agnocide	atenea::historia_universal::facil
-�Cu�ntos a�os duro la guerra de los 100 a�os?	116 a�os	atenea::historia_universal::facil
-�Cu�ntos pa�ses africanos eran independientes en el a�o 1900?	2	atenea::historia_universal::facil
-�Qu� fue la niebla asesina?	Un producto de la contaminaci�n que mat� a 12.000 personas	atenea::historia_universal::facil
-�Qui�nes eran los shogunes?	Dictadores militares en el Jap�n medieval	atenea::historia_universal::facil
-�Cu�ntas personas fueron ejecutadas en los juicios de Salem en 1692?	20	atenea::historia_universal::facil
-�Qu� rey cre� la Inquisici�n?	Los reyes cat�licos	atenea::historia_universal::facil
-�Quien cre� el primer coche del mundo?.	Karl Benz	atenea::historia_universal::facil
-�En que a�o se descubri� la m�scara de Agamen�n?	1876	atenea::historia_universal::facil
-�Cuando termin� la segunda guerra mundial?	1945	atenea::historia_universal::facil
-�Qui�n fue el m�s poderoso rey de la tribu de los Hunos?	Atila	atenea::historia_universal::facil
-�Cu�l de estas ciudades fue designada capital de la colonia francesa en el territorio americano en 1722?	Nueva Orleans	atenea::historia_universal::facil
-�Qu� papa presidi� el IV Concilio de Letr�n?	Inocencio III	atenea::historia_universal::facil
-�C�mo se llamaba en la Espa�a del 1400 a los jud�os que por coerci�n o presi�n social se hab�an convertido al cristianismo?	Marranos	atenea::historia_universal::facil
-�C�mo se llamaba el barco en el que los peregrinos (puritanos ingleses) escaparon al nuevo mundo en 1620?	Mayflower	atenea::historia_universal::facil
-�C�mo se conoce a la persecuci�n sufrida por artistas norteamericanos por su posible afiliaci�n al partido comunista?	Caza de brujas	atenea::historia_universal::facil
-�Qu� papa confirm� la creaci�n de la Orden de Santa Mar�a de la Merced, para la redenci�n de los cautivos?	Gregorio IX	atenea::historia_universal::facil
-�De qu� color era la cinta de cuero que ataba las varas de los fasces romanos?	Rojo	atenea::historia_universal::facil
-De acuerdo al antiguo testamento �Cu�l es el nombre de la esposa de David y madre del rey Salom�n?	Betsab�	atenea::historia_universal::facil
-�De qu� origen era el rey de Babilonia, Nabopolasar?	Caldeo	atenea::historia_universal::facil
-�Qui�n fue el primer presidente que present� una dimisi�n de la historia de Estados Unidos?	Richard Nixon	atenea::historia_universal::facil
-�C�mo se llamaban en la mitolog�a griega las divinidades inspiradoras de las artes?	Musas	atenea::historia_universal::facil
-De acuerdo a la historiograf�a alemana �qu� imperio desarrollado entre el 800 y 1806, equivaldr�a al I Reich?	Sacro imperio romano germ�nico	atenea::historia_universal::facil
-�A qu� general independentista cedi� el mando de sus tropas Manuel Belgrano en 1814?	Jos� de San Mart�n	atenea::historia_universal::facil
-�Qu� zar ruso orden� la edificaci�n de la catedral San Basilio en 1555 para conmemorar la victoria sobre los t�rtaros?	Iv�n IV, el terrible	atenea::historia_universal::facil
-�Qu� actual territorio fue tomado por Pedro �lvarez Cabral en el 1500, en nombre del rey Manuel de Portugal?	Bah�a	atenea::historia_universal::facil
-�Qui�n fue el primer emperador del Sacro Imperio Romano Germ�nico?	Carlomagno	atenea::historia_universal::facil
 �Que tipo de gobierno se implanta en Francia en 1791 al comienzo de la revoluci�n francesa?	Monarqu�a Constitucional	atenea::historia_universal::facil
-�C�mo se llama el libro sagrado propio de la tradici�n cat�lica?	La Biblia	atenea::historia_universal::facil
-�Qu� te�logo y fraile alem�n fue el principal l�der de la reforma protestante?	Mat�n Lutero	atenea::historia_universal::facil
-�Qui�n lider� la resistencia que derrot� al ej�rcito chino en 1428, restaurando la independencia de Vietnam?	Le Loi	atenea::historia_universal::facil
-�Cu�l de estos pa�ses NO firm� la Paz de Breda en 1667?	Grecia	atenea::historia_universal::facil
-�Qu� rey de Babilonia entre el 605 y 562 a.C.es conocido como el gran constructor de las principales ciudades de Babilonia?	Nabucodonosor II	atenea::historia_universal::facil
-Napole�n Bonaparte nombr� a su hermano Jos� I rey �de qu� pa�s?	Espa�a	atenea::historia_universal::facil
-�Cu�l fue el invento fundamental con el que el hombre pudo transportar sus implementos de un lugar a otro?	La rueda	atenea::historia_universal::facil
-�Qui�n fue el primer soberano germ�nico de la pen�nsula it�lica?	Constantino I	atenea::historia_universal::facil
-�Qu� emperador romano convoc� al concilio de Nicea, en el a�o 325?	Odoacro	atenea::historia_universal::facil
-�Durante el gobierno de qu� monarca franc�s fue firmada la Paz de los Pirineos con Espa�a?	Luis XIV	atenea::historia_universal::facil
-�Cu�l era el nombre del d�cimo fara�n de la dinast�a XVIII de Egipto, esposo de Nefertiti?	Akenat�n	atenea::historia_universal::facil
-De estas formas de gobierno, �en cual de estas el poder lo comparten cuatro personas?	Tetrarqu�a	atenea::historia_universal::facil
-�Qu� rey Borb�n promulg� el edicto de Nantes en 1598, que favorec�a la tolerancia hacia los hugonotes o protestantes?	Enrique IV	atenea::historia_universal::facil
-¿Quién fue el primer presidente de Argentina?	Bernardino Rivadavia	atenea::historia_argentina::facil
-¿Qué famosa cantante argentina es conocida como "La Voz del Tango"?	Libertad Lamarque	atenea::musica::facil
 ¿En qué provincia se encuentra la ciudad de Mar del Plata?	Buenos Aires	atenea::geografia::facil
-¿En qué ciudad se celebra anualmente el Festival Nacional de la Vendimia?	Mendoza	atenea::geografia::facil
-¿Quién es considerado el "Padre de la Patria" en Argentina?	José de San Martín	atenea::historia_argentina::facil
-¿En qué año se declaró la independencia de Argentina?	1816	atenea::historia_argentina::facil
-¿Cuál es la montaña más alta de Argentina?	Aconcagua	atenea::historia_argentina::facil
-¿En qué año murió Eva Perón?	1952	atenea::historia_argentina::facil
-¿Qué músico argentino fue el líder de la banda Soda Stereo?	Gustavo Cerati	atenea::historia_argentina::facil
-¿Cuál es el deporte más popular en Argentina?	Fútbol	atenea::historia_argentina::facil
-¿Cuál es la capital de Argentina?	Buenos Aires	atenea::historia_argentina::facil
-¿Qué famoso autor argentino escribió 'El Aleph'?	Jorge Luis Borges	atenea::historia_argentina::facil
-¿En qué ciudad se encuentra el Obelisco?	Buenos Aires	atenea::geografia::facil
-¿Qué bebida tradicional argentina se toma en una calabaza con una bombilla?	Mate	atenea::historia_argentina::facil
-¿Quién escribió el poema épico 'Martín Fierro'?	José Hernández	atenea::historia_argentina::facil
-¿Cuál es la capital de Afganistán?	Kabul	atenea::geografia::media
-¿Cuál es la capital de Australia?	Canberra	atenea::geografia::facil
-¿Cuál es la capital de Bélgica?	Bruselas	atenea::geografia::facil
-¿Cuál es la capital de Grecia?	Atenas	atenea::geografia::facil
-¿Cuál es la capital de Italia?	Roma	atenea::geografia::facil
-¿Cuál es la capital de Japón?	Tokio	atenea::geografia::facil
-¿Cuál es la capital de Kenia?	Nairobi	atenea::geografia::media
-¿Cuál es la capital de Noruega?	Oslo	atenea::geografia::facil
-¿Cuál es la capital de Portugal?	Lisboa	atenea::geografia::facil
-¿Cuál es la capital de Suecia?	Estocolmo	atenea::geografia::facil
-¿Cuál es la capital de Tailandia?	Bangkok	atenea::geografia::media
-¿Cuál es la capital de Turquía?	Ankara	atenea::geografia::media
-¿Cuál es la capital de Vietnam?	Hanói	atenea::geografia::media
-¿Cuál es la capital de Canadá?	Ottawa	atenea::geografia::media
-¿Cuál es la capital de Brasil?	Brasilia	atenea::geografia::facil
-¿En qué continente se encuentra el desierto del Sahara?	África	atenea::geografia::facil
-¿Cuál es el río más largo de Europa?	Volga	atenea::geografia::media
-¿Qué país tiene la mayor cantidad de islas en el mundo?	Suecia	atenea::geografia::dificil
-¿Cuál es el lago más grande del mundo por superficie?	Mar Caspio	atenea::geografia::media
-¿Qué país tiene forma de bota?	Italia	atenea::geografia::facil
-¿En qué océano se encuentra Madagascar?	Océano Índico	atenea::geografia::media
-¿Cuál es el país más pequeño del mundo?	Ciudad del Vaticano	atenea::geografia::facil
-¿Cuál es la montaña más alta de África?	Kilimanjaro	atenea::geografia::media
-¿Qué estrecho separa Europa de África?	Estrecho de Gibraltar	atenea::geografia::facil
-¿En qué país se encuentra el Monte Fuji?	Japón	atenea::geografia::facil
-¿Cuál es el desierto más grande del mundo?	Sahara	atenea::geografia::facil
-¿Qué río atraviesa la ciudad de Londres?	Támesis	atenea::geografia::facil
-¿Cuál es la isla más grande del mundo?	Groenlandia	atenea::geografia::media
-¿En qué continente se encuentra el río Amazonas?	América del Sur	atenea::geografia::facil
-¿Qué país es conocido como la Tierra del Sol Naciente?	Japón	atenea::geografia::facil
-¿Cuál es la capital de Egipto?	El Cairo	atenea::geografia::facil
-¿Qué cordillera separa Europa de Asia?	Montes Urales	atenea::geografia::media
-¿Cuál es el punto más profundo del océano?	Fosa de las Marianas	atenea::geografia::media
-¿En qué país se encuentra Machu Picchu?	Perú	atenea::geografia::facil
-¿Cuál es el río más largo de Asia?	Yangtsé	atenea::geografia::media
-¿Qué país tiene la mayor superficie del mundo?	Rusia	atenea::geografia::facil
-¿Cuál es la capital de Nueva Zelanda?	Wellington	atenea::geografia::media
-¿Cuál es la capital de Sudáfrica (sede del gobierno)?	Pretoria	atenea::geografia::dificil
-¿Qué canal conecta el Océano Atlántico con el Pacífico?	Canal de Panamá	atenea::geografia::facil
-¿En qué país se encuentra el lago Titicaca además de Perú?	Bolivia	atenea::geografia::media
-¿Cuál es el volcán más alto del mundo?	Ojos del Salado	atenea::geografia::dificil
-¿Qué país europeo tiene más habitantes?	Rusia	atenea::geografia::media
-¿Cuál es la capital de Filipinas?	Manila	atenea::geografia::media
-¿En qué país se encuentra la Gran Barrera de Coral?	Australia	atenea::geografia::facil
-¿Cuál es la capital de Marruecos?	Rabat	atenea::geografia::media
-¿Cuál es la capital de Pakistán?	Islamabad	atenea::geografia::dificil
-¿Qué río pasa por París?	Sena	atenea::geografia::facil
-¿Cuál es la capital de Irak?	Bagdad	atenea::geografia::media
-¿Qué país es el mayor productor de café del mundo?	Brasil	atenea::geografia::media
-¿Cuál es la capital de Corea del Sur?	Seúl	atenea::geografia::facil
-¿Cuál es la capital de Polonia?	Varsovia	atenea::geografia::facil
-¿Qué mar baña las costas de Croacia?	Mar Adriático	atenea::geografia::media
-¿Cuál es la capital de Hungría?	Budapest	atenea::geografia::facil
-¿Cuál es el río más largo de África?	Nilo	atenea::geografia::facil
-¿Cuál es la capital de Irlanda?	Dublín	atenea::geografia::facil
-¿Cuál es la capital de Finlandia?	Helsinki	atenea::geografia::media
-¿Cuál es la capital de Dinamarca?	Copenhague	atenea::geografia::facil
-¿Cuál es la capital de Rumania?	Bucarest	atenea::geografia::media
-¿En qué país se encuentra Angkor Wat?	Camboya	atenea::geografia::media
-¿Cuál es la capital de Etiopía?	Adís Abeba	atenea::geografia::dificil
-¿En qué año cayó el Muro de Berlín?	1989	atenea::historia_universal::facil
-¿Quién fue el primer emperador romano?	Augusto	atenea::historia_universal::media
-¿En qué año comenzó la Primera Guerra Mundial?	1914	atenea::historia_universal::facil
-¿En qué año terminó la Segunda Guerra Mundial?	1945	atenea::historia_universal::facil
-¿Quién descubrió América en 1492?	Cristóbal Colón	atenea::historia_universal::facil
-¿En qué año se produjo la Revolución Francesa?	1789	atenea::historia_universal::facil
-¿Qué imperio construyó el Coliseo de Roma?	Imperio Romano	atenea::historia_universal::facil
-¿Quién fue el líder de la Alemania nazi?	Adolf Hitler	atenea::historia_universal::facil
-¿En qué año llegó el hombre a la Luna?	1969	atenea::historia_universal::facil
-¿Qué civilización construyó las pirámides de Giza?	Egipcia	atenea::historia_universal::facil
-¿Quién fue Napoleón Bonaparte?	Emperador de Francia	atenea::historia_universal::facil
-¿En qué siglo se inventó la imprenta de tipos móviles en Europa?	Siglo XV	atenea::historia_universal::media
-¿Quién fue Mahatma Gandhi?	Líder independentista de la India	atenea::historia_universal::facil
-¿Qué tratado puso fin a la Primera Guerra Mundial?	Tratado de Versalles	atenea::historia_universal::media
-¿En qué año se firmó la Carta Magna en Inglaterra?	1215	atenea::historia_universal::media
-¿Qué imperio dominó gran parte del Medio Oriente hasta 1922?	Imperio Otomano	atenea::historia_universal::media
-¿Quién fue el primer presidente de los Estados Unidos?	George Washington	atenea::historia_universal::facil
-¿En qué año se abolió la esclavitud en Estados Unidos?	1865	atenea::historia_universal::media
-¿Qué evento histórico ocurrió el 11 de septiembre de 2001?	Atentados terroristas contra las Torres Gemelas	atenea::historia_universal::facil
-¿Qué país lanzó las bombas atómicas sobre Hiroshima y Nagasaki?	Estados Unidos	atenea::historia_universal::facil
-¿En qué año comenzó la Guerra Fría?	1947	atenea::historia_universal::media
-¿Qué revolución industrial comenzó en Inglaterra en el siglo XVIII?	La Primera Revolución Industrial	atenea::historia_universal::facil
 ¿Quién fue Julio César?	Dictador y general romano	atenea::historia_universal::facil
-¿En qué año Constantinopla cayó en manos de los otomanos?	1453	atenea::historia_universal::media
-¿Qué guerra enfrentó al Norte y al Sur de Estados Unidos?	Guerra Civil (o Guerra de Secesión)	atenea::historia_universal::facil
-¿Quién fue Cleopatra?	Última reina del Antiguo Egipto (dinastía ptolemaica)	atenea::historia_universal::facil
-¿En qué siglo se produjeron las Cruzadas?	Siglos XI al XIII	atenea::historia_universal::media
-¿Qué civilización precolombina habitaba en el actual México central?	Azteca (o Mexica)	atenea::historia_universal::media
-¿Qué imperio fue derrotado en la Batalla de Waterloo?	El Imperio francés de Napoleón	atenea::historia_universal::facil
-¿En qué año se independizó la India de Gran Bretaña?	1947	atenea::historia_universal::media
-¿Quién lideró la revolución rusa de 1917?	Vladimir Lenin	atenea::historia_universal::media
-¿Qué país fue dividido en dos por el paralelo 38?	Corea	atenea::historia_universal::media
-¿En qué año Colón llegó a América?	1492	atenea::historia_universal::facil
-¿Qué civilización inventó la escritura cuneiforme?	Sumeria	atenea::historia_universal::dificil
-¿Quién fue Alejandro Magno?	Rey de Macedonia que conquistó un vasto imperio	atenea::historia_universal::facil
-¿En qué año se disolvió la Unión Soviética?	1991	atenea::historia_universal::media
-¿Qué imperio construyó la Gran Muralla China?	Varios (iniciada por Qin Shi Huang)	atenea::historia_universal::media
-¿Quién fue Martín Lutero?	Reformador religioso que inició la Reforma Protestante	atenea::historia_universal::media
-¿En qué siglo se produjo el Renacimiento?	Siglos XV y XVI	atenea::historia_universal::media
-¿Qué potencias formaron el Eje en la Segunda Guerra Mundial?	Alemania, Italia y Japón	atenea::historia_universal::media
-¿Quién fue Marco Polo?	Explorador veneciano que viajó a China	atenea::historia_universal::facil
-¿En qué año se produjo la Revolución Cubana?	1959	atenea::historia_universal::media
-¿Qué faraón egipcio es famoso por su tumba descubierta intacta en 1922?	Tutankamón	atenea::historia_universal::facil
-¿Cuál fue la primera civilización de Mesopotamia?	Sumeria	atenea::historia_universal::media
-¿Quién fue Nelson Mandela?	Líder anti-apartheid y primer presidente negro de Sudáfrica	atenea::historia_universal::facil
-¿En qué año fue asesinado John F. Kennedy?	1963	atenea::historia_universal::media
-¿Qué imperio controló gran parte de Sudamérica antes de la conquista española?	Imperio Inca	atenea::historia_universal::facil
-¿Quién fue Gengis Kan?	Fundador y primer emperador del Imperio Mongol	atenea::historia_universal::media
-¿En qué siglo vivió Leonardo da Vinci?	Siglo XV (1452-1519)	atenea::historia_universal::media
-¿Qué país fue el primero en usar armas nucleares en un conflicto bélico?	Estados Unidos	atenea::historia_universal::facil
-¿Cuál es el elemento químico más abundante en el universo?	Hidrógeno	atenea::ciencia::facil
-¿Quién formuló la teoría de la relatividad?	Albert Einstein	atenea::ciencia::facil
-¿Cuál es la velocidad de la luz en el vacío (aproximadamente)?	300.000 km/s	atenea::ciencia::media
-¿Qué gas es esencial para la respiración humana?	Oxígeno	atenea::ciencia::facil
-¿Quién descubrió la penicilina?	Alexander Fleming	atenea::ciencia::facil
-¿Cuántos cromosomas tiene una célula humana?	46	atenea::ciencia::media
-¿Qué partícula subatómica tiene carga negativa?	Electrón	atenea::ciencia::facil
-¿Cuál es el hueso más largo del cuerpo humano?	Fémur	atenea::ciencia::facil
-¿Qué planeta es conocido como el planeta rojo?	Marte	atenea::ciencia::facil
-¿Quién es considerado el padre de la computación moderna?	Alan Turing	atenea::ciencia::media
-¿Cuál es la unidad de medida de la fuerza en el SI?	Newton	atenea::ciencia::facil
-¿Qué órgano produce la insulina?	Páncreas	atenea::ciencia::media
-¿Cuál es el metal más abundante en la corteza terrestre?	Aluminio	atenea::ciencia::media
-¿Qué científico formuló las leyes del movimiento planetario?	Johannes Kepler	atenea::ciencia::media
-¿Cuál es la fórmula química del agua?	H₂O	atenea::ciencia::facil
-¿Qué es el ADN?	Ácido desoxirribonucleico	atenea::ciencia::facil
-¿Qué vitamina produce el cuerpo al exponerse al sol?	Vitamina D	atenea::ciencia::media
-¿Cuántos huesos tiene el cuerpo humano adulto?	206	atenea::ciencia::media
-¿Qué científica descubrió la radiactividad junto con su esposo Pierre?	Marie Curie	atenea::ciencia::facil
-¿Cuál es el planeta más cercano al Sol?	Mercurio	atenea::ciencia::facil
-¿Qué tipo de animal es una ballena?	Mamífero	atenea::ciencia::facil
-¿Qué gas forma la mayor parte de la atmósfera terrestre?	Nitrógeno	atenea::ciencia::media
-¿Quién inventó la bombilla eléctrica?	Thomas Edison	atenea::ciencia::facil
-¿Cuál es el órgano más grande del cuerpo humano?	La piel	atenea::ciencia::facil
-¿Qué teoría propuso Charles Darwin?	La teoría de la evolución por selección natural	atenea::ciencia::facil
-¿Cuántos planetas tiene el Sistema Solar?	8	atenea::ciencia::facil
-¿Qué tipo de estrella es el Sol?	Enana amarilla (tipo G)	atenea::ciencia::media
-¿Cuál es la unidad de medida de la energía en el SI?	Joule	atenea::ciencia::facil
-¿Qué científico formuló la ley de gravitación universal?	Isaac Newton	atenea::ciencia::facil
-¿Cuál es el componente principal de los huesos?	Calcio (fosfato de calcio)	atenea::ciencia::media
-¿Qué enfermedad causa el virus VIH?	SIDA	atenea::ciencia::facil
-¿Cuál es la temperatura de ebullición del agua al nivel del mar?	100 °C	atenea::ciencia::facil
-¿Qué proceso usan las plantas para convertir luz solar en energía?	Fotosíntesis	atenea::ciencia::facil
-¿Cuál es el planeta más grande del Sistema Solar?	Júpiter	atenea::ciencia::facil
-¿Qué estructura celular contiene el material genético?	Núcleo	atenea::ciencia::facil
-¿Cuántos litros de sangre tiene aproximadamente un adulto?	5 litros	atenea::ciencia::media
-¿Qué científico es famoso por su gato en un experimento mental?	Erwin Schrödinger	atenea::ciencia::media
-¿Cuál es la partícula fundamental de la luz?	Fotón	atenea::ciencia::media
-¿Qué ley de Newton dice que toda acción tiene una reacción igual y opuesta?	Tercera ley de Newton	atenea::ciencia::media
-¿Qué planeta tiene los anillos más visibles del Sistema Solar?	Saturno	atenea::ciencia::facil
-¿Cuál es el símbolo químico del oro?	Au	atenea::ciencia::facil
-¿Qué tipo de enlace químico comparten los átomos de una molécula de agua?	Enlace covalente	atenea::ciencia::media
-¿Cuál es la galaxia más cercana a la Vía Láctea (de gran tamaño)?	Andrómeda	atenea::ciencia::media
-¿Qué gas liberan las plantas durante la fotosíntesis?	Oxígeno	atenea::ciencia::facil
-¿Qué invento se atribuye a Nikola Tesla?	La corriente alterna	atenea::ciencia::media
-¿Cuál es el animal más grande que ha existido?	Ballena azul	atenea::ciencia::facil
-¿Qué mide el sismógrafo?	Movimientos sísmicos (terremotos)	atenea::ciencia::facil
-¿Cuál es el elemento más pesado que se encuentra naturalmente?	Uranio	atenea::ciencia::dificil
-¿Qué científico propuso el modelo heliocéntrico del universo?	Nicolás Copérnico	atenea::ciencia::media
-¿Cuál es la unidad de medida de la corriente eléctrica?	Amperio	atenea::ciencia::media
-¿Quién compuso las Cuatro Estaciones?	Antonio Vivaldi	atenea::musica::facil
-¿De qué país era originario Mozart?	Austria (Salzburgo)	atenea::musica::facil
-¿Quién compuso la Novena Sinfonía con el 'Himno a la Alegría'?	Ludwig van Beethoven	atenea::musica::facil
-¿Cuántas cuerdas tiene una guitarra clásica?	6	atenea::musica::facil
-¿Qué instrumento tocaba Louis Armstrong?	Trompeta	atenea::musica::media
-¿En qué ciudad se originó el tango?	Buenos Aires (y Montevideo)	atenea::musica::facil
-¿Quién es conocido como el 'Rey del Pop'?	Michael Jackson	atenea::musica::facil
-¿Qué banda británica lideró la 'invasión británica' en los años 60?	The Beatles	atenea::musica::facil
-¿Quién compuso la ópera 'La Flauta Mágica'?	Wolfgang Amadeus Mozart	atenea::musica::media
-¿Qué instrumento musical tiene 88 teclas?	Piano	atenea::musica::facil
-¿De qué país es originario el flamenco?	España	atenea::musica::facil
-¿Quién compuso 'El lago de los cisnes'?	Piotr Chaikovski	atenea::musica::media
-¿Cuál es el registro vocal femenino más agudo?	Soprano	atenea::musica::media
-¿Qué cantante argentino es conocido como 'El Flaco'?	Luis Alberto Spinetta	atenea::musica::media
-¿Qué banda de rock argentino grabó el disco 'Artaud'?	Pescado Rabioso	atenea::musica::media
-¿Quién compuso el 'Bolero'?	Maurice Ravel	atenea::musica::media
-¿Qué género musical se originó en Jamaica?	Reggae	atenea::musica::facil
-¿Quién fue el vocalista de Queen?	Freddie Mercury	atenea::musica::facil
-¿Qué compositor quedó completamente sordo y siguió componiendo?	Ludwig van Beethoven	atenea::musica::facil
-¿Cuál es el himno nacional más antiguo del mundo aún en uso?	Wilhelmus (Países Bajos)	atenea::musica::dificil
-¿Quién fue Carlos Gardel?	Cantante y compositor de tango	atenea::musica::facil
-¿Qué género musical nació en Nueva Orleans a principios del siglo XX?	Jazz	atenea::musica::facil
-¿Quién compuso las 'Gymnopédies'?	Erik Satie	atenea::musica::dificil
-¿Cuántas sinfonías compuso Beethoven?	9	atenea::musica::media
-¿Qué instrumento es el 'rey de los instrumentos'?	Órgano	atenea::musica::media
-¿Quién compuso 'La consagración de la primavera'?	Ígor Stravinski	atenea::musica::dificil
-¿Qué tipo de voz masculina es la más grave?	Bajo	atenea::musica::media
-¿De qué país es originaria la samba?	Brasil	atenea::musica::facil
-¿Quién fue Astor Piazzolla?	Compositor y bandoneonista argentino de tango nuevo	atenea::musica::facil
-¿Qué significa 'forte' en terminología musical?	Fuerte (tocar con intensidad)	atenea::musica::media
-¿Quién escribió 'Don Quijote de la Mancha'?	Miguel de Cervantes	atenea::literatura::facil
-¿Quién escribió 'Hamlet'?	William Shakespeare	atenea::literatura::facil
-¿Quién escribió '1984'?	George Orwell	atenea::literatura::facil
-¿Quién escribió 'Cien años de soledad'?	Gabriel García Márquez	atenea::literatura::facil
-¿Quién escribió 'La Odisea'?	Homero	atenea::literatura::facil
-¿Quién escribió 'El Principito'?	Antoine de Saint-Exupéry	atenea::literatura::facil
-¿Quién escribió 'Crimen y castigo'?	Fiódor Dostoyevski	atenea::literatura::media
-¿Quién escribió 'El Aleph'?	Jorge Luis Borges	atenea::literatura::facil
-¿Quién escribió 'Rayuela'?	Julio Cortázar	atenea::literatura::facil
-¿Quién escribió 'La Divina Comedia'?	Dante Alighieri	atenea::literatura::facil
-¿Quién escribió 'Madame Bovary'?	Gustave Flaubert	atenea::literatura::media
-¿Quién escribió 'Ulises'?	James Joyce	atenea::literatura::media
-¿Quién escribió 'El proceso'?	Franz Kafka	atenea::literatura::media
-¿Quién escribió 'Guerra y paz'?	León Tolstói	atenea::literatura::media
-¿Quién escribió 'Martín Fierro'?	José Hernández	atenea::literatura::facil
-¿Quién escribió 'Ficciones'?	Jorge Luis Borges	atenea::literatura::media
-¿Quién escribió 'El amor en los tiempos del cólera'?	Gabriel García Márquez	atenea::literatura::facil
-¿Quién escribió 'La metamorfosis'?	Franz Kafka	atenea::literatura::facil
-¿Quién escribió 'Las flores del mal'?	Charles Baudelaire	atenea::literatura::media
-¿Quién escribió 'Fausto'?	Johann Wolfgang von Goethe	atenea::literatura::media
-¿Quién pintó la Mona Lisa?	Leonardo da Vinci	atenea::arte::facil
-¿Quién pintó 'La noche estrellada'?	Vincent van Gogh	atenea::arte::facil
-¿Quién pintó el techo de la Capilla Sixtina?	Miguel Ángel	atenea::arte::facil
-¿Quién pintó 'El Guernica'?	Pablo Picasso	atenea::arte::facil
-¿Quién pintó 'La persistencia de la memoria' (los relojes blandos)?	Salvador Dalí	atenea::arte::facil
-¿Quién esculpió 'El pensador'?	Auguste Rodin	atenea::arte::media
-¿Qué movimiento artístico lideró Claude Monet?	Impresionismo	atenea::arte::facil
-¿Quién pintó 'El grito'?	Edvard Munch	atenea::arte::facil
-¿Quién pintó 'Las meninas'?	Diego Velázquez	atenea::arte::media
-¿Qué arquitecto diseñó la Sagrada Familia de Barcelona?	Antoni Gaudí	atenea::arte::facil
-¿Cuáles son los cinco pilares del Islam?	Shahada, oración, limosna, ayuno y peregrinación	atenea::otro::dificil
-¿Qué religión tiene como texto sagrado los Vedas?	Hinduismo	atenea::otro::media
-¿Quién fue Buda?	Siddhartha Gautama, fundador del budismo	atenea::otro::facil
-¿Qué religión practica el Dalái Lama?	Budismo tibetano	atenea::otro::facil
-¿Cuál es el libro sagrado del Islam?	Corán	atenea::otro::facil
-¿Qué religión celebra el Hanukkah?	Judaísmo	atenea::otro::facil
-¿Cuántos mandamientos recibió Moisés según la tradición judeocristiana?	10	atenea::otro::facil
-¿Qué ciudad es sagrada para el judaísmo, el cristianismo y el Islam?	Jerusalén	atenea::otro::facil
-¿Qué religión tiene la mayor cantidad de seguidores en el mundo?	Cristianismo	atenea::otro::facil
-¿Quién fue Mahoma?	Profeta fundador del Islam	atenea::otro::facil
-¿Qué concepto budista significa 'liberación del ciclo de reencarnaciones'?	Nirvana	atenea::otro::media
-¿Qué Papa convocó el Concilio Vaticano II?	Juan XXIII	atenea::otro::dificil
-¿Cuál es el símbolo del judaísmo?	Estrella de David	atenea::otro::facil
-¿Qué significa la palabra 'Islam'?	Sumisión (a Dios)	atenea::otro::media
-¿En qué país se originó el budismo?	India (actual Nepal/India)	atenea::otro::media
-¿Cuál es la capital de Myanmar (Birmania)?	Naipyidó (Naypyidaw)	atenea::geografia::dificil
-¿Cuál es la capital de Sri Lanka?	Sri Jayawardenepura Kotte	atenea::geografia::dificil
-¿Cuál es la capital constitucional de Bolivia?	Sucre	atenea::geografia::dificil
-¿Cuál es la sede de gobierno de Bolivia (capital de facto)?	La Paz	atenea::geografia::media
-¿Cuál es la capital de Mongolia?	Ulán Bator	atenea::geografia::dificil
-¿Cuál es la capital de Kazajistán?	Astaná	atenea::geografia::dificil
-¿Cuál es la capital de Bután?	Timbu	atenea::geografia::dificil
-¿Cuál es la capital de Laos?	Vientián	atenea::geografia::dificil
-¿Cuál es la capital de Nigeria?	Abuya	atenea::geografia::dificil
-¿Cuál es la capital de Tanzania?	Dodoma	atenea::geografia::dificil
-¿Cuál es la capital de Costa de Marfil?	Yamusukro	atenea::geografia::dificil
-¿Cuál es la capital de Belice?	Belmopán	atenea::geografia::dificil
-¿Cuál es la capital de Malaisia?	Kuala Lumpur	atenea::geografia::media
-¿Cuál es la capital de Suiza?	Berna	atenea::geografia::media
-¿Cuál es el río más largo de América del Sur?	Amazonas	atenea::geografia::facil
-¿Cuál es el río más largo de América del Norte?	Misisipi-Misuri	atenea::geografia::media
-¿Cuál es el río más largo de Oceanía?	Murray	atenea::geografia::dificil
-¿Cuál es el río más largo del mundo?	Nilo (o Amazonas según mediciones recientes)	atenea::geografia::facil
-¿Cuál es la montaña más alta de América?	Aconcagua	atenea::geografia::facil
-¿Cuál es la montaña más alta de Europa?	Elbrus	atenea::geografia::media
-¿Cuál es la montaña más alta de Oceanía?	Puncak Jaya	atenea::geografia::dificil
-¿Cuál es la montaña más alta del mundo?	Everest	atenea::geografia::facil
-¿Cuál es la montaña más alta de la Antártida?	Macizo Vinson	atenea::geografia::dificil
-¿Cómo se llama a los habitantes de Río de Janeiro?	Cariocas	atenea::geografia::media
 ¿Cómo se llama a los habitantes de Buenos Aires (ciudad)?	Porteños	atenea::geografia::facil
-¿Cómo se llama a los habitantes de Jerusalén?	Jerosolimitanos	atenea::geografia::dificil
-¿Cómo se llama a los habitantes de Alcalá de Henares?	Complutenses	atenea::geografia::dificil
-¿Cómo se llama a los habitantes de La Haya?	Hagueños	atenea::geografia::dificil
-¿Cómo se llama a los habitantes de Chipre?	Chipriotas	atenea::geografia::media
-¿Cómo se llama a los habitantes de Mónaco?	Monegascos	atenea::geografia::media
-¿Qué estrecho separa Asia de América del Norte?	Estrecho de Bering	atenea::geografia::media
-¿Qué canal conecta el Mar Mediterráneo con el Mar Rojo?	Canal de Suez	atenea::geografia::facil
-¿Qué estrecho conecta el Mar Negro con el Mar de Mármara?	Estrecho del Bósforo	atenea::geografia::media
-¿Qué estrecho separa la isla de Gran Bretaña del continente europeo?	Estrecho de Dover (Paso de Calais)	atenea::geografia::media
-¿Cómo se llama el mar interior entre Europa y África?	Mar Mediterráneo	atenea::geografia::facil
-¿Qué país de América del Sur no tiene salida al mar además de Bolivia?	Paraguay	atenea::geografia::media
-¿Qué dos países europeos son completamente rodeados por otro país?	San Marino y Ciudad del Vaticano (por Italia)	atenea::geografia::dificil
-¿Qué país tiene la frontera terrestre más larga del mundo?	Canadá (con Estados Unidos) o China (por número de vecinos: 14)	atenea::geografia::dificil
-¿Qué país tiene forma de chile (ají)?	Chile	atenea::geografia::facil
-¿Qué país africano tiene forma de cuerno?	Somalia (Cuerno de África)	atenea::geografia::media
-¿Cuál es el país con más idiomas oficiales del mundo?	Sudáfrica (11 idiomas oficiales)	atenea::geografia::dificil
-¿Cuál es la ciudad más poblada del mundo?	Tokio (área metropolitana)	atenea::geografia::media
-¿Qué país tiene la mayor biodiversidad del mundo?	Brasil	atenea::geografia::media
-¿Cuántos países tiene África?	54	atenea::geografia::media
-¿Qué país centroamericano es el más grande en superficie?	Nicaragua	atenea::geografia::dificil
-¿Qué río forma gran parte de la frontera entre Estados Unidos y México?	Río Bravo (o Río Grande)	atenea::geografia::media
-¿En qué país se encuentra el Lago Baikal, el más profundo del mundo?	Rusia	atenea::geografia::media
-¿Qué país insular del océano Índico es el cuarto más grande del mundo?	Madagascar	atenea::geografia::media
-¿Cuál es el único país de Centroamérica cuya lengua oficial es el inglés?	Belice	atenea::geografia::media
-¿Cuál es el punto más bajo de la superficie terrestre?	Orilla del Mar Muerto	atenea::geografia::media
-¿Cómo se llama la afición de coleccionar monedas?	Numismática	atenea::terminologia::media
-¿Cómo se llama la afición de coleccionar estampillas o sellos postales?	Filatelia	atenea::terminologia::media
-¿Cómo se llama la afición de coleccionar libros (especialmente raros)?	Bibliofilia	atenea::terminologia::media
-¿Cómo se llama el estudio y degustación de vinos?	Enología	atenea::terminologia::media
-¿Cómo se llama la afición de coleccionar llaveros?	Copoclefilia	atenea::terminologia::dificil
-¿Cómo se llama la afición de coleccionar posavasos?	Tegestofilia	atenea::terminologia::dificil
-¿Cómo se llama la afición de coleccionar cajas de fósforos?	Filumenia	atenea::terminologia::dificil
-¿Cómo se llama el miedo irracional a las arañas?	Aracnofobia	atenea::terminologia::facil
-¿Cómo se llama el miedo a los espacios cerrados?	Claustrofobia	atenea::terminologia::facil
-¿Cómo se llama el miedo a las alturas?	Acrofobia	atenea::terminologia::facil
-¿Cómo se llama el miedo a los espacios abiertos o multitudes?	Agorafobia	atenea::terminologia::media
-¿Cómo se llama el miedo al agua?	Hidrofobia	atenea::terminologia::media
-¿Cómo se llama el miedo a la oscuridad?	Nictofobia (o escotofobia)	atenea::terminologia::media
-¿Cómo se llama el miedo a volar?	Aerofobia	atenea::terminologia::media
-¿Cómo se llama el miedo a los payasos?	Coulrofobia	atenea::terminologia::media
-¿Cómo se llama el miedo a hablar en público?	Glosofobia	atenea::terminologia::dificil
-¿Qué estudia la entomología?	Los insectos	atenea::terminologia::media
-¿Qué estudia la ornitología?	Las aves	atenea::terminologia::media
-¿Qué estudia la ictiología?	Los peces	atenea::terminologia::dificil
-¿Qué estudia la herpetología?	Los reptiles y anfibios	atenea::terminologia::dificil
-¿Qué estudia la micología?	Los hongos	atenea::terminologia::dificil
-¿Qué estudia la oología?	Los huevos (especialmente de aves)	atenea::terminologia::dificil
-¿Qué estudia la espeleología?	Las cuevas y cavernas	atenea::terminologia::media
-¿Qué estudia la vexilología?	Las banderas	atenea::terminologia::dificil
-¿Qué estudia la heráldica?	Los escudos de armas y blasones	atenea::terminologia::media
+¿Quién formuló la teoría de la relatividad?	Albert Einstein	atenea::ciencia::facil
 ¿Qué instrumento se usa para medir la presión atmosférica?	Barómetro	atenea::terminologia::media
-¿Qué instrumento se usa para medir la humedad relativa del aire?	Higrómetro	atenea::terminologia::media
-¿Qué instrumento se usa para medir la velocidad del viento?	Anemómetro	atenea::terminologia::media
-¿Qué instrumento óptico se usa para observar objetos muy pequeños?	Microscopio	atenea::terminologia::facil
-¿Qué instrumento se usa para medir ángulos en topografía y navegación?	Teodolito (o sextante en navegación)	atenea::terminologia::dificil
-¿Cuál es el símbolo químico del tungsteno?	W	atenea::ciencia::dificil
-¿Cuál es el símbolo químico del antimonio?	Sb	atenea::ciencia::dificil
-¿Cuál es el símbolo químico del sodio?	Na	atenea::ciencia::media
-¿Cuál es el símbolo químico del potasio?	K	atenea::ciencia::media
-¿Cuál es el símbolo químico del hierro?	Fe	atenea::ciencia::media
-¿Cuál es el símbolo químico del plomo?	Pb	atenea::ciencia::media
-¿Cuál es el símbolo químico del estaño?	Sn	atenea::ciencia::dificil
-¿Cuál es el símbolo químico de la plata?	Ag	atenea::ciencia::media
-¿Cuál es el símbolo químico del mercurio?	Hg	atenea::ciencia::media
-¿Cuál es el símbolo químico del cobre?	Cu	atenea::ciencia::media
-¿Qué glándula regula el metabolismo mediante hormonas tiroideas?	Tiroides	atenea::ciencia::media
-¿Cuál es la función principal de los glóbulos rojos?	Transportar oxígeno	atenea::ciencia::facil
-¿Qué órgano filtra la sangre y produce orina?	Riñón	atenea::ciencia::facil
-¿Cuántas cámaras tiene el corazón humano?	4	atenea::ciencia::facil
-¿Qué proteína transporta oxígeno en la sangre?	Hemoglobina	atenea::ciencia::media
-¿Cuál es el planeta más pequeño del Sistema Solar?	Mercurio	atenea::ciencia::media
-¿Qué planeta tiene la Gran Mancha Roja?	Júpiter	atenea::ciencia::media
-¿Cuál es el satélite natural más grande de Júpiter?	Ganímedes	atenea::ciencia::dificil
-¿Qué planeta gira sobre su eje en sentido contrario a los demás?	Venus	atenea::ciencia::dificil
-¿Cuántas lunas tiene Marte?	2 (Fobos y Deimos)	atenea::ciencia::media
-¿Qué establece la primera ley de la termodinámica?	La energía no se crea ni se destruye, solo se transforma	atenea::ciencia::media
-¿Qué establece la primera ley de Newton (ley de inercia)?	Un cuerpo permanece en reposo o movimiento rectilíneo uniforme si no actúa una fuerza externa	atenea::ciencia::media
-¿Cuál es la segunda ley de Kepler?	Los planetas barren áreas iguales en tiempos iguales (ley de las áreas)	atenea::ciencia::dificil
-¿Qué molécula es la principal fuente de energía celular?	ATP (adenosín trifosfato)	atenea::ciencia::media
-¿Qué ácido nucleico lleva la información genética del núcleo al ribosoma?	ARN mensajero (ARNm)	atenea::ciencia::media
-¿Qué tipo de molécula son las enzimas?	Proteínas	atenea::ciencia::media
-¿Qué científico descubrió los rayos X?	Wilhelm Röntgen	atenea::ciencia::media
-¿Quién formuló las leyes de la herencia genética?	Gregor Mendel	atenea::ciencia::media
-¿Quién descubrió la estructura del ADN (doble hélice)?	Watson y Crick (con aportes de Rosalind Franklin)	atenea::ciencia::media
-¿Quién inventó la tabla periódica de los elementos?	Dmitri Mendeléyev	atenea::ciencia::media
-¿Quién propuso el principio de incertidumbre?	Werner Heisenberg	atenea::ciencia::dificil
-¿Qué número atómico tiene el carbono?	6	atenea::ciencia::media
-¿Cuál es la fórmula del ácido sulfúrico?	H₂SO₄	atenea::ciencia::media
-¿Qué propiedad mide el pH?	La acidez o alcalinidad de una solución	atenea::ciencia::facil
-¿Cuántos estados de la materia existen clásicamente?	3 (sólido, líquido, gaseoso); 4 si se cuenta el plasma	atenea::ciencia::facil
-¿Qué fuerza mantiene a los planetas en órbita alrededor del Sol?	Fuerza gravitatoria	atenea::ciencia::facil
-¿Cuál es la unidad de medida de la frecuencia?	Hertz (Hz)	atenea::ciencia::facil
-¿Qué elemento químico tiene el número atómico 1?	Hidrógeno	atenea::ciencia::facil
-¿Qué teoría describe el origen del universo a partir de una gran explosión?	Big Bang	atenea::ciencia::facil
-¿Cuál es la constante gravitacional universal expresada con la letra?	G	atenea::ciencia::media
-¿Quién fue el primer presidente constitucional de Argentina?	Bartolomé Mitre (1862); Justo José de Urquiza fue el primero de la Confederación (1854)	atenea::historia_argentina::media
-¿Quién fue el primer presidente de facto de Argentina en el siglo XX?	José Félix Uriburu (1930)	atenea::historia_argentina::media
-¿Qué presidente argentino impulsó la 'Conquista del Desierto'?	Julio Argentino Roca	atenea::historia_argentina::media
-¿Qué presidente argentino creó el voto secreto, universal y obligatorio?	Roque Sáenz Peña (Ley Sáenz Peña, 1912)	atenea::historia_argentina::media
-¿Qué presidente fue elegido gracias a la Ley Sáenz Peña por primera vez?	Hipólito Yrigoyen (1916)	atenea::historia_argentina::media
-¿Quién fue presidente durante la Guerra de Malvinas?	Leopoldo Galtieri	atenea::historia_argentina::media
-¿Qué presidente asumió tras la caída de la dictadura en 1983?	Raúl Alfonsín	atenea::historia_argentina::facil
-¿En qué año se libró la Batalla de San Lorenzo?	1813	atenea::historia_argentina::media
-¿Quién lideró el Ejército del Norte en las batallas de Tucumán y Salta?	Manuel Belgrano	atenea::historia_argentina::facil
-¿En qué batalla Urquiza derrotó a Rosas?	Batalla de Caseros (1852)	atenea::historia_argentina::media
-¿Qué batalla definió la separación de Buenos Aires de la Confederación en 1861?	Batalla de Pavón	atenea::historia_argentina::dificil
-¿En qué batalla San Martín derrotó a los realistas en Chile?	Batalla de Maipú (1818)	atenea::historia_argentina::media
-¿Qué se conmemora el 25 de mayo en Argentina?	La Revolución de Mayo de 1810 (Primer Gobierno Patrio)	atenea::historia_argentina::facil
-¿Qué se conmemora el 9 de julio en Argentina?	La Declaración de Independencia (1816)	atenea::historia_argentina::facil
-¿Qué se conmemora el 20 de junio en Argentina?	Día de la Bandera (fallecimiento de Manuel Belgrano)	atenea::historia_argentina::facil
-¿Qué se conmemora el 17 de agosto en Argentina?	Paso a la Inmortalidad del General José de San Martín	atenea::historia_argentina::facil
-¿Qué se conmemora el 2 de abril en Argentina?	Día del Veterano y de los Caídos en la Guerra de Malvinas	atenea::historia_argentina::facil
-¿Quién creó la bandera argentina?	Manuel Belgrano	atenea::historia_argentina::facil
-¿Quién cruzó los Andes para liberar Chile y Perú?	José de San Martín	atenea::historia_argentina::facil
-¿Quién fue Mariano Moreno?	Secretario de la Primera Junta y fundador de la Gazeta de Buenos Aires	atenea::historia_argentina::media
-¿Quién fue Domingo Faustino Sarmiento?	Presidente y promotor de la educación pública	atenea::historia_argentina::facil
-¿Quién fue Juan Bautista Alberdi?	Jurista, autor de 'Bases y puntos de partida para la organización política de la Confederación Argentina'	atenea::historia_argentina::media
-¿En qué año se sancionó la primera Constitución Nacional Argentina?	1853	atenea::historia_argentina::media
-¿En qué año se federalizó la ciudad de Buenos Aires?	1880	atenea::historia_argentina::dificil
-¿Qué estableció la reforma constitucional de 1994 respecto al presidente?	Mandato de 4 años con posibilidad de reelección inmediata por un período	atenea::historia_argentina::media
-¿En qué año se produjo la crisis conocida como 'el Rodrigazo'?	1975	atenea::historia_argentina::dificil
-¿Qué presidente privatizó la mayoría de las empresas estatales en los 90?	Carlos Menem	atenea::historia_argentina::facil
-¿En qué año renunció el presidente Fernando de la Rúa?	2001	atenea::historia_argentina::facil
-¿Quién fue Eva Perón?	Esposa de Juan Domingo Perón y líder social, impulsora del voto femenino	atenea::historia_argentina::facil
-¿En qué año se sancionó el voto femenino en Argentina?	1947	atenea::historia_argentina::media
-¿Qué filósofo presocrático afirmó que 'todo fluye' (panta rei)?	Heráclito	atenea::filosofia::media
-¿Qué filósofo consideró al agua como el principio de todas las cosas (arjé)?	Tales de Mileto	atenea::filosofia::media
-¿Qué filósofo presocrático propuso que la realidad es inmutable y el cambio es ilusión?	Parménides	atenea::filosofia::media
-¿Qué filósofo presocrático desarrolló la teoría atomista?	Demócrito (y Leucipo)	atenea::filosofia::media
-¿Qué filósofo dijo que el arjé era el aire?	Anaxímenes	atenea::filosofia::dificil
-¿Cuál es el método filosófico asociado a Sócrates?	La mayéutica (diálogo e interrogación)	atenea::filosofia::media
-¿Cómo se llama la teoría de Platón sobre las realidades perfectas e inmutables?	Teoría de las Ideas (o de las Formas)	atenea::filosofia::media
-¿Qué filósofo distinguió entre acto y potencia?	Aristóteles	atenea::filosofia::media
-¿Cómo se llama la obra de Platón donde describe su Estado ideal?	La República	atenea::filosofia::media
-¿Qué filósofo fue maestro de Alejandro Magno?	Aristóteles	atenea::filosofia::facil
-¿Qué filósofo medieval escribió 'La ciudad de Dios'?	San Agustín de Hipona	atenea::filosofia::media
-¿Qué filósofo medieval unificó la filosofía aristotélica con la teología cristiana?	Santo Tomás de Aquino	atenea::filosofia::media
-¿Qué filósofo dijo 'Pienso, luego existo' (Cogito ergo sum)?	René Descartes	atenea::filosofia::facil
-¿Qué filósofo empirista escribió 'Ensayo sobre el entendimiento humano'?	John Locke	atenea::filosofia::media
-¿Qué filósofo escribió 'Leviatán' y defendió el absolutismo?	Thomas Hobbes	atenea::filosofia::media
-¿Qué filósofo escribió la 'Crítica de la razón pura'?	Immanuel Kant	atenea::filosofia::media
-¿Qué filósofo empirista negó la existencia de la causalidad necesaria?	David Hume	atenea::filosofia::dificil
-¿Qué concepto kantiano describe la ley moral universal que cada uno debe seguir?	Imperativo categórico	atenea::filosofia::media
+¿Cuál fue la primera civilización de Mesopotamia?	Sumeria	atenea::historia_universal::media
+¿Cual de estos compuestos orgánicos NO es oxigenado?	Aminas	atenea::ciencia::facil
+¿Qué famoso autor argentino escribió 'El Aleph'?	Jorge Luis Borges	atenea::historia_argentina::facil
+¿Quién fue Napoleón Bonaparte?	Emperador de Francia	atenea::historia_universal::facil
+�A qui�n se considera el Rey del Pop?	Michael Jackson	atenea::otro::facil
+¿Qué ciudad es sagrada para el judaísmo, el cristianismo y el Islam?	Jerusalén	atenea::otro::facil
+¿De qué país era originario Mozart?	Austria (Salzburgo)	atenea::musica::facil
+¿Cómo se llama el mar interior entre Europa y África?	Mar Mediterráneo	atenea::geografia::facil
+¿Qué mar baña las costas de Croacia?	Mar Adriático	atenea::geografia::media
+¿Qué tratado puso fin a la Primera Guerra Mundial?	Tratado de Versalles	atenea::historia_universal::media
 ¿Qué filósofo declaró que 'Dios ha muerto'?	Friedrich Nietzsche	atenea::filosofia::facil
-¿Qué filósofo escribió 'El Capital'?	Karl Marx	atenea::filosofia::facil
-¿Qué filósofo del lenguaje escribió el 'Tractatus Logico-Philosophicus'?	Ludwig Wittgenstein	atenea::filosofia::media
-¿Qué filósofo existencialista escribió 'El ser y la nada'?	Jean-Paul Sartre	atenea::filosofia::media
-¿Qué filósofo escribió 'Ser y tiempo'?	Martin Heidegger	atenea::filosofia::dificil
-¿Qué concepto de Sartre significa que 'la existencia precede a la esencia'?	Existencialismo (libertad radical del ser humano)	atenea::filosofia::media
-¿Qué filósofo desarrolló el concepto de 'superhombre' (Übermensch)?	Friedrich Nietzsche	atenea::filosofia::media
-¿Cuál es el equivalente romano de Zeus?	Júpiter	atenea::mitologia::facil
-¿Cuál es el equivalente romano de Ares?	Marte	atenea::mitologia::facil
-¿Cuál es el equivalente romano de Afrodita?	Venus	atenea::mitologia::facil
-¿Cuál es el equivalente romano de Poseidón?	Neptuno	atenea::mitologia::facil
-¿Cuál es el equivalente romano de Hermes?	Mercurio	atenea::mitologia::facil
-¿Cuál es el equivalente romano de Atenea?	Minerva	atenea::mitologia::media
-¿Cuál es el equivalente romano de Artemisa?	Diana	atenea::mitologia::media
-¿Cuál es el equivalente romano de Hefesto?	Vulcano	atenea::mitologia::media
-¿Cuál es el equivalente romano de Hades?	Plutón	atenea::mitologia::media
-¿Qué titán robó el fuego de los dioses para dárselo a los humanos?	Prometeo	atenea::mitologia::facil
-¿Qué abrió Pandora que liberó todos los males al mundo?	Una caja (o jarra/pithos)	atenea::mitologia::facil
-¿Qué criatura mitad hombre mitad toro vivía en el laberinto de Creta?	Minotauro	atenea::mitologia::facil
-¿Qué gorgona convertía en piedra a quien la mirara?	Medusa	atenea::mitologia::facil
-¿Qué héroe mató al Minotauro en el laberinto?	Teseo	atenea::mitologia::media
-¿Cuántos trabajos tuvo que completar Heracles (Hércules)?	12	atenea::mitologia::facil
-¿Cuál era el punto débil de Aquiles?	Su talón	atenea::mitologia::facil
-¿Qué héroe griego ideó el caballo de Troya?	Odiseo (Ulises)	atenea::mitologia::media
-¿Qué héroe mató a Medusa?	Perseo	atenea::mitologia::media
-¿Cómo se llamaba la esposa de Odiseo que lo esperó 20 años?	Penélope	atenea::mitologia::media
-¿Qué criatura mitológica tiene cabeza de mujer, cuerpo de león y alas de águila?	Esfinge	atenea::mitologia::media
-¿Qué monstruo de múltiples cabezas fue vencido por Heracles?	Hidra de Lerna	atenea::mitologia::media
-¿Qué criatura mitológica es mitad hombre mitad caballo?	Centauro	atenea::mitologia::facil
-¿Quién era Cronos en la mitología griega?	Titán padre de Zeus, dios del tiempo	atenea::mitologia::media
-¿Quién era Gea en la mitología griega?	La diosa primordial de la Tierra	atenea::mitologia::media
+¿Cuál es la capital de Irak?	Bagdad	atenea::geografia::media
+¿Quién fue Mahoma?	Profeta fundador del Islam	atenea::otro::facil
 ¿Quién era Urano en la mitología griega?	El dios primordial del cielo, esposo de Gea	atenea::mitologia::media
+¿En qué ciudad se originó el tango?	Buenos Aires (y Montevideo)	atenea::musica::facil
+¿Quién propuso el principio de incertidumbre?	Werner Heisenberg	atenea::ciencia::dificil
+¿En qué ciudad se celebra anualmente el Festival Nacional de la Vendimia?	Mendoza	atenea::geografia::facil
+¿Quién escribió 'La Divina Comedia'?	Dante Alighieri	atenea::literatura::facil
+¿En qué país se originó el budismo?	India (actual Nepal/India)	atenea::otro::media
+�De qu� jugador de f�tbol el ex velocista Ben Johnson fue entrenador personal, en 1997?	Maradona	atenea::deportes::facil
+�En qu� a�o se estren� la pel�cula de Disney "Pinocho"?	1940	atenea::otro::facil
+¿De que tipo de reptiles surgieron los mamíferos?	Terápsidos	atenea::ciencia::facil
+¿Qué estudia la entomología?	Los insectos	atenea::terminologia::media
+¿Qué estrecho separa la isla de Gran Bretaña del continente europeo?	Estrecho de Dover (Paso de Calais)	atenea::geografia::media
+¿En qué año fue asesinado John F. Kennedy?	1963	atenea::historia_universal::media
+�Qu� selecci�n latinoamericana de Hockey sobre c�sped femenino obtuvo medallas en las �ltimas 4 olimpiadas?	Argentina	atenea::deportes::facil
+¿Cual es el hueso mas largo en el cuerpo humano?	Fémur	atenea::ciencia::facil
+¿Qué científico propuso el modelo heliocéntrico del universo?	Nicolás Copérnico	atenea::ciencia::media
+¿Cuántos litros de sangre tiene aproximadamente un adulto?	5 litros	atenea::ciencia::media
+¿Quién pintó el techo de la Capilla Sixtina?	Miguel Ángel	atenea::arte::facil
+�Qui�n fund� en 1960 los juegos Paral�mpicos?	Ludwig Guttmann	atenea::deportes::facil
+¿Cuál es el único país de Centroamérica cuya lengua oficial es el inglés?	Belice	atenea::geografia::media
+¿El corazón es miogenético ¿que significa eso?	Que se excita a si mismo	atenea::ciencia::facil
+¿Quién fue Martín Lutero?	Reformador religioso que inició la Reforma Protestante	atenea::historia_universal::media
+Napole�n Bonaparte nombr� a su hermano Jos� I rey �de qu� pa�s?	Espa�a	atenea::historia_universal::facil
+¿En qué ciudad se encuentra el Obelisco?	Buenos Aires	atenea::geografia::facil
+¿Qué glándula regula el metabolismo mediante hormonas tiroideas?	Tiroides	atenea::ciencia::media
+¿En qué año terminó la Segunda Guerra Mundial?	1945	atenea::historia_universal::facil
+�En qu� continente se encuentra el r�o Tocantins?	Am�rica	atenea::geografia::facil
+¿Cuál es la partícula fundamental de la luz?	Fotón	atenea::ciencia::media
+�Qui�n fue el primer emperador del Sacro Imperio Romano Germ�nico?	Carlomagno	atenea::historia_universal::facil
+Qui�n es el creador y cual fue la fecha de lanzamiento de Hora De Aventuras	Pendleton Ward, 2010	atenea::otro::facil
+Kyong-go es un t�rmino utilizado en Taekwondo. �Qu� denomina?	Un tipo de penalizaci�n	atenea::deportes::facil
+¿Cuál es la montaña más alta del mundo?	Everest	atenea::geografia::facil
+¿Cuál es el símbolo del judaísmo?	Estrella de David	atenea::otro::facil
+¿Qué faraón egipcio es famoso por su tumba descubierta intacta en 1922?	Tutankamón	atenea::historia_universal::facil
+¿Quién escribió 'Don Quijote de la Mancha'?	Miguel de Cervantes	atenea::literatura::facil
+¿Qué civilización inventó la escritura cuneiforme?	Sumeria	atenea::historia_universal::dificil
+¿Cuál es la capital de Egipto?	El Cairo	atenea::geografia::facil
+¿Cuál es la capital de Finlandia?	Helsinki	atenea::geografia::media
+¿Cómo se llama la afición de coleccionar posavasos?	Tegestofilia	atenea::terminologia::dificil
+¿Qué imperio dominó gran parte del Medio Oriente hasta 1922?	Imperio Otomano	atenea::historia_universal::media
+¿Qué compositor quedó completamente sordo y siguió componiendo?	Ludwig van Beethoven	atenea::musica::facil
+¿Quién escribió 'La metamorfosis'?	Franz Kafka	atenea::literatura::facil
+�Cual es la cadena monta�osa considerada m�s antigua y de menor relieve de entre las siguientes?	C�ucaso	atenea::geografia::facil
+¿Qué gas forma la mayor parte de la atmósfera terrestre?	Nitrógeno	atenea::ciencia::media
+¿Cuál es el equivalente romano de Hermes?	Mercurio	atenea::mitologia::facil
+�Como se llama el perro de Mickey Mouse?	Pluto	atenea::otro::facil
+¿Cuál es la sede de gobierno de Bolivia (capital de facto)?	La Paz	atenea::geografia::media
+¿Cuál es la fórmula química del agua?	H₂O	atenea::ciencia::facil
+¿Qué país europeo tiene más habitantes?	Rusia	atenea::geografia::media
+¿Cuántos cromosomas tiene una célula humana?	46	atenea::ciencia::media
+¿Cuál es la segunda ley de Kepler?	Los planetas barren áreas iguales en tiempos iguales (ley de las áreas)	atenea::ciencia::dificil
+¿Cuál es la capital de Australia?	Canberra	atenea::geografia::facil
+En la serie Hora De Aventuras �cuantos a�os tiene Finn?	13	atenea::otro::facil
+�Cu�l de estos tipos de climas no se encuentra entre los m�s habituales en Europa?	Ecuatorial	atenea::geografia::facil
+¿Cuál es el punto más profundo del océano?	Fosa de las Marianas	atenea::geografia::media
+�Cu�ntos a�os duro la guerra de los 100 a�os?	116 a�os	atenea::historia_universal::facil
+¿Cuál es el libro sagrado del Islam?	Corán	atenea::otro::facil
+�Qu� sistema monta�oso se extiende a lo largo de la frontera septentrional de la Rep�blica Checa?	Sudetes	atenea::geografia::facil
+�Cu�l es la primera naci�n que debe ingresar en el estadio en la ceremonia de apertura de cada edici�n de los Juegos Ol�mpicos?	Grecia	atenea::deportes::facil
+¿Qué imperio fue derrotado en la Batalla de Waterloo?	El Imperio francés de Napoleón	atenea::historia_universal::facil
+¿En qué año cayó el Muro de Berlín?	1989	atenea::historia_universal::facil
+¿Cómo se llamaba la esposa de Odiseo que lo esperó 20 años?	Penélope	atenea::mitologia::media
+¿Quién fue el primer presidente de Argentina?	Bernardino Rivadavia	atenea::historia_argentina::facil
+¿Qué tipo de voz masculina es la más grave?	Bajo	atenea::musica::media
+¿En qué batalla San Martín derrotó a los realistas en Chile?	Batalla de Maipú (1818)	atenea::historia_argentina::media
+Aproximadamente ¿cuántos pelos tenemos en la cabeza?	Entre 100.000 y 200.000	atenea::ciencia::facil
+¿Qué presidente privatizó la mayoría de las empresas estatales en los 90?	Carlos Menem	atenea::historia_argentina::facil
+¿Qué filósofo fue maestro de Alejandro Magno?	Aristóteles	atenea::filosofia::facil
+�Cu�les son los colores de la bandera de Letonia?	Rojo y blanco	atenea::geografia::facil
+¿Quién compuso la Novena Sinfonía con el 'Himno a la Alegría'?	Ludwig van Beethoven	atenea::musica::facil
+¿Qué tipo de animal es una ballena?	Mamífero	atenea::ciencia::facil
+¿Como se llama la arteria mas grande del cuerpo humano?	Aorta	atenea::ciencia::facil
+¿Cuál es la temperatura de ebullición del agua al nivel del mar?	100 °C	atenea::ciencia::facil
+¿Cuál es la capital de Hungría?	Budapest	atenea::geografia::facil
+�De qu� color era la cinta de cuero que ataba las varas de los fasces romanos?	Rojo	atenea::historia_universal::facil
+¿Cuál es la capital de Bélgica?	Bruselas	atenea::geografia::facil
+¿Cómo se llama la afición de coleccionar libros (especialmente raros)?	Bibliofilia	atenea::terminologia::media
+La capital del Congo es...	Kinshasa	atenea::geografia::facil
+¿Qué civilización construyó las pirámides de Giza?	Egipcia	atenea::historia_universal::facil
+¿Cuál es la capital de Japón?	Tokio	atenea::geografia::facil
+�Cual de estos r�os americanos desemboca en el �rtico?	Yuk�n	atenea::geografia::facil
+¿Qué órgano produce la insulina?	Páncreas	atenea::ciencia::media
+¿Cómo se llama el miedo a las alturas?	Acrofobia	atenea::terminologia::facil
+Las estrellas agrupadas forman...	Constelaciones	atenea::ciencia::facil
+¿Quién escribió 'Las flores del mal'?	Charles Baudelaire	atenea::literatura::media
+¿Qué potencias formaron el Eje en la Segunda Guerra Mundial?	Alemania, Italia y Japón	atenea::historia_universal::media
+¿Qué establece la primera ley de la termodinámica?	La energía no se crea ni se destruye, solo se transforma	atenea::ciencia::media
+¿Cuál es la capital de Bután?	Timbu	atenea::geografia::dificil
+¿Cuál es la montaña más alta de África?	Kilimanjaro	atenea::geografia::media
+¿Qué filósofo escribió la 'Crítica de la razón pura'?	Immanuel Kant	atenea::filosofia::media
+¿Cuál es el equivalente romano de Atenea?	Minerva	atenea::mitologia::media
+�A qu� general independentista cedi� el mando de sus tropas Manuel Belgrano en 1814?	Jos� de San Mart�n	atenea::historia_universal::facil
+�De qu� pa�s es originario el Curling, practicado en los Juegos Ol�mpicos de Invierno?	Escocia y Pa�ses Bajos	atenea::deportes::facil
+¿Quién escribió 'Martín Fierro'?	José Hernández	atenea::literatura::facil
+�Qui�n lider� la resistencia que derrot� al ej�rcito chino en 1428, restaurando la independencia de Vietnam?	Le Loi	atenea::historia_universal::facil
+¿Cuál es el órgano más grande del cuerpo humano?	La piel	atenea::ciencia::facil
+¿Cuantos metros miden los intestinos?	Entre 8 y 9	atenea::ciencia::facil
+¿Cuántos estados de la materia existen clásicamente?	3 (sólido, líquido, gaseoso); 4 si se cuenta el plasma	atenea::ciencia::facil
+En la serie de los Simpsons �que est� escrito en las escaleras de la comisar�a?	El Barto	atenea::otro::facil
+¿Quién fue Astor Piazzolla?	Compositor y bandoneonista argentino de tango nuevo	atenea::musica::facil
+¿Qué país lanzó las bombas atómicas sobre Hiroshima y Nagasaki?	Estados Unidos	atenea::historia_universal::facil
+¿Cuántos trabajos tuvo que completar Heracles (Hércules)?	12	atenea::mitologia::facil
+¿Qué molécula es la principal fuente de energía celular?	ATP (adenosín trifosfato)	atenea::ciencia::media
+¿Quién fue el primer presidente de los Estados Unidos?	George Washington	atenea::historia_universal::facil
+Despu�s de Estados Unidos, �qu� selecci�n se encuentra segunda en el medallero ol�mpico de Baloncesto?	Uni�n Sovi�tica	atenea::deportes::facil
+¿Qué invento se atribuye a Nikola Tesla?	La corriente alterna	atenea::ciencia::media
+¿Cómo se llama el miedo a hablar en público?	Glosofobia	atenea::terminologia::dificil
+¿Qué presidente asumió tras la caída de la dictadura en 1983?	Raúl Alfonsín	atenea::historia_argentina::facil
+�Qui�n es Luigi, el personaje que siempre acompa�a a Mario Bross en casi todas sus aventuras?	Su hermano	atenea::otro::facil
+¿En qué siglo se produjeron las Cruzadas?	Siglos XI al XIII	atenea::historia_universal::media
+¿Qué presidente argentino impulsó la 'Conquista del Desierto'?	Julio Argentino Roca	atenea::historia_argentina::media
+�Cuando termin� la segunda guerra mundial?	1945	atenea::historia_universal::facil
+¿Cuál es el equivalente romano de Artemisa?	Diana	atenea::mitologia::media
+¿Qué filósofo escribió 'Ser y tiempo'?	Martin Heidegger	atenea::filosofia::dificil
+De estas formas de gobierno, �en cual de estas el poder lo comparten cuatro personas?	Tetrarqu�a	atenea::historia_universal::facil
+�Cu�l es el r�o m�s largo de Lituania?	Niemen	atenea::geografia::facil
+La capital de Colombia es...	Bogot�	atenea::geografia::facil
+¿Quién es considerado el padre de la computación moderna?	Alan Turing	atenea::ciencia::media
+�Qui�n dirigi� la ceremonia de apertura de los Juegos Ol�mpicos de Londres 2012?	Danny Boyle	atenea::deportes::facil
+¿En donde se encuentra el gametofito en la amapola?	En el interior del óvulo	atenea::ciencia::facil
+¿Cuál es la capital de Sri Lanka?	Sri Jayawardenepura Kotte	atenea::geografia::dificil
+¿Qué héroe griego ideó el caballo de Troya?	Odiseo (Ulises)	atenea::mitologia::media
+¿Qué cordillera separa Europa de Asia?	Montes Urales	atenea::geografia::media
+�C�mo se llamaban en la mitolog�a griega las divinidades inspiradoras de las artes?	Musas	atenea::historia_universal::facil
+¿Cual de estos compuestos tiene una menos cantidad de átomos de carbono?	Hexano	atenea::ciencia::facil
+�En qu� pa�s nace el r�o Kabul?	Afganist�n	atenea::geografia::facil
+¿Qué país fue el primero en usar armas nucleares en un conflicto bélico?	Estados Unidos	atenea::historia_universal::facil
+¿En qué año se libró la Batalla de San Lorenzo?	1813	atenea::historia_argentina::media
+�A qu� pa�s pertenece la isla de Eubea?	Grecia	atenea::geografia::facil
+¿Qué científico descubrió los rayos X?	Wilhelm Röntgen	atenea::ciencia::media
+¿Cual es el planeta mas grande del sistema solar?	Júpiter	atenea::ciencia::facil
+�C�mo se llama el protagonista de la saga Indiana Jones?	Harrison Ford	atenea::otro::facil
+¿Quién fue Gengis Kan?	Fundador y primer emperador del Imperio Mongol	atenea::historia_universal::media
+¿Cuál es el río más largo de Oceanía?	Murray	atenea::geografia::dificil
+�C�mo se llama el libro sagrado propio de la tradici�n cat�lica?	La Biblia	atenea::historia_universal::facil
+�Cu�l es el �nico deporte acu�tico que estuvo presente en todos los Juegos Ol�mpicos?	Nataci�n	atenea::deportes::facil
+�Como se llama el mat�n de Phineas y Ferb?	Buford	atenea::otro::facil
+¿Cuál es el país más pequeño del mundo?	Ciudad del Vaticano	atenea::geografia::facil
+En la serie Hora De Aventuras �Como se llama la princesa chicle?	Bonibelle	atenea::otro::facil
+�De qu� nacionalidad es el campe�n ol�mpico de esqu�, en 1972, Gustavo Thoeni?	Italiano	atenea::deportes::facil
+¿Cuál es el lago más grande del mundo por superficie?	Mar Caspio	atenea::geografia::media
+¿Cuál es el símbolo químico del plomo?	Pb	atenea::ciencia::media
+�En que a�o apareci� el libro de Heidi?	1880	atenea::otro::facil
+¿De qué país es originario el flamenco?	España	atenea::musica::facil
+¿Cómo se llama la afición de coleccionar cajas de fósforos?	Filumenia	atenea::terminologia::dificil
+�Qu� papa confirm� la creaci�n de la Orden de Santa Mar�a de la Merced, para la redenci�n de los cautivos?	Gregorio IX	atenea::historia_universal::facil
+En la serie de los Simpsons �como se apellida el tabernero Moe?	Sislark	atenea::otro::facil
+¿Cuál es el símbolo químico del sodio?	Na	atenea::ciencia::media
+¿Cuál es la capital de Filipinas?	Manila	atenea::geografia::media
+�En qu� pa�s se encuentra la ciudad de Avi��n?	Francia	atenea::geografia::facil
+¿Cuál es la capital de Brasil?	Brasilia	atenea::geografia::facil
+¿Cuál es la unidad de medida de la fuerza en el SI?	Newton	atenea::ciencia::facil
+�Cu�les fueron los primeros Juegos Ol�mpicos en ser transmitidos por televisi�n?	Berl�n 1936	atenea::deportes::facil
+¿Cuál es el punto más bajo de la superficie terrestre?	Orilla del Mar Muerto	atenea::geografia::media
+¿Qué país tiene la frontera terrestre más larga del mundo?	Canadá (con Estados Unidos) o China (por número de vecinos: 14)	atenea::geografia::dificil
+¿Quién escribió 'El Principito'?	Antoine de Saint-Exupéry	atenea::literatura::facil
+¿Cómo se llama a los habitantes de Mónaco?	Monegascos	atenea::geografia::media
+¿Cuál es la capital constitucional de Bolivia?	Sucre	atenea::geografia::dificil
+�C�mo se llama la jugadora de v�ley cubana que obtuvo m�s medallas ol�mpicas?	Ana Ibis Fern�ndez	atenea::deportes::facil
+¿En qué continente se encuentra el río Amazonas?	América del Sur	atenea::geografia::facil
+�Qui�n obtuvo la medalla de oro en ciclismo en los juegos de Atlanta 1996, en la prueba contrarreloj individual?	Miguel Indur�in	atenea::deportes::facil
+¿Qué filósofo medieval escribió 'La ciudad de Dios'?	San Agustín de Hipona	atenea::filosofia::media
+¿Cuál es la constante gravitacional universal expresada con la letra?	G	atenea::ciencia::media
+¿Qué fuerza mantiene a los planetas en órbita alrededor del Sol?	Fuerza gravitatoria	atenea::ciencia::facil
+¿Qué instrumento es el 'rey de los instrumentos'?	Órgano	atenea::musica::media
+¿Qué país africano tiene forma de cuerno?	Somalia (Cuerno de África)	atenea::geografia::media
+En la serie Hora De Aventuras �Cuantas veces muri� Jake?	1	atenea::otro::facil
+¿Cómo se llama el miedo al agua?	Hidrofobia	atenea::terminologia::media
+�Cu�ntos a�os ten�a la gimnasta Nadia Comaneci cuando encant� al mundo en los Juegos Ol�mpicos de Canad�, en 1976?	14	atenea::deportes::facil
+¿Cuál es la capital de Suecia?	Estocolmo	atenea::geografia::facil
+¿Cuál es el equivalente romano de Afrodita?	Venus	atenea::mitologia::facil
+�C�mo se llamaba en la Espa�a del 1400 a los jud�os que por coerci�n o presi�n social se hab�an convertido al cristianismo?	Marranos	atenea::historia_universal::facil
+�C�mo se llama la deportista que obtuvo m�s medallas ol�mpicas en la disciplina Ciclismo de ruta?	Leontien Van Moorsel	atenea::deportes::facil
+¿Cuál es la capital de Tailandia?	Bangkok	atenea::geografia::media
+¿En qué año se produjo la crisis conocida como 'el Rodrigazo'?	1975	atenea::historia_argentina::dificil
+¿Quién escribió el poema épico 'Martín Fierro'?	José Hernández	atenea::historia_argentina::facil
+¿Quién fue Mahatma Gandhi?	Líder independentista de la India	atenea::historia_universal::facil
+¿Cuál es el río más largo de América del Sur?	Amazonas	atenea::geografia::facil
+¿Qué instrumento óptico se usa para observar objetos muy pequeños?	Microscopio	atenea::terminologia::facil
+¿Qué gorgona convertía en piedra a quien la mirara?	Medusa	atenea::mitologia::facil
+¿Cuál es el hueso más largo del cuerpo humano?	Fémur	atenea::ciencia::facil
+¿En qué año se firmó la Carta Magna en Inglaterra?	1215	atenea::historia_universal::media
+¿Cuál es el satélite natural más grande de Júpiter?	Ganímedes	atenea::ciencia::dificil
+¿Qué enfermedad causa el virus VIH?	SIDA	atenea::ciencia::facil
+¿Cuál es la capital de Etiopía?	Adís Abeba	atenea::geografia::dificil
+¿Cómo se llama el miedo a volar?	Aerofobia	atenea::terminologia::media
+¿Quién descubrió la penicilina?	Alexander Fleming	atenea::ciencia::facil
+¿Qué país tiene forma de chile (ají)?	Chile	atenea::geografia::facil
+�Cu�l era el nombre del d�cimo fara�n de la dinast�a XVIII de Egipto, esposo de Nefertiti?	Akenat�n	atenea::historia_universal::facil
+¿Cuál es la capital de Rumania?	Bucarest	atenea::geografia::media
+¿Quién fue el primer presidente constitucional de Argentina?	Bartolomé Mitre (1862); Justo José de Urquiza fue el primero de la Confederación (1854)	atenea::historia_argentina::media
+¿Qué famosa cantante argentina es conocida como "La Voz del Tango"?	Libertad Lamarque	atenea::musica::facil
+�Qu� actual territorio fue tomado por Pedro �lvarez Cabral en el 1500, en nombre del rey Manuel de Portugal?	Bah�a	atenea::historia_universal::facil
+�Cu�l de los siguientes deportes NO se disputa en los Juegos Ol�mpicos?	Hockey sobre hielo	atenea::deportes::facil
+�Qu� deporte debut� como deporte ol�mpico en los Juegos de Berl�n 1936?	Balonmano	atenea::deportes::facil
+¿En qué siglo vivió Leonardo da Vinci?	Siglo XV (1452-1519)	atenea::historia_universal::media
+¿Cuál es el símbolo químico del potasio?	K	atenea::ciencia::media
+¿Qué órgano filtra la sangre y produce orina?	Riñón	atenea::ciencia::facil
+�En qu� continente se encuentra el r�o Kasai?	�frica	atenea::geografia::facil
+�Quien cre� el primer coche del mundo?.	Karl Benz	atenea::historia_universal::facil
+¿Qué proteína transporta oxígeno en la sangre?	Hemoglobina	atenea::ciencia::media
+¿En qué país se encuentra Angkor Wat?	Camboya	atenea::geografia::media
+¿Qué científico formuló las leyes del movimiento planetario?	Johannes Kepler	atenea::ciencia::media
+¿Qué concepto budista significa 'liberación del ciclo de reencarnaciones'?	Nirvana	atenea::otro::media
+¿Cuál es el planeta más cercano al Sol?	Mercurio	atenea::ciencia::facil
+¿Quién fue Buda?	Siddhartha Gautama, fundador del budismo	atenea::otro::facil
+¿Qué estudia la oología?	Los huevos (especialmente de aves)	atenea::terminologia::dificil
+�Qui�n fue el m�s poderoso rey de la tribu de los Hunos?	Atila	atenea::historia_universal::facil
+En la serie Hora De Aventuras �como se llama la consola de Finn y Jake?	Bmo	atenea::otro::facil
+�Qu� r�o Europeo al final de su recorrido, forma la frontera entre Austria y Alemania?	Inn	atenea::geografia::facil
+¿Cuál es el elemento más pesado que se encuentra naturalmente?	Uranio	atenea::ciencia::dificil
+¿Qué se conmemora el 9 de julio en Argentina?	La Declaración de Independencia (1816)	atenea::historia_argentina::facil
+¿Quién inventó la tabla periódica de los elementos?	Dmitri Mendeléyev	atenea::ciencia::media
+¿Que función tiene la semilla de una planta?	La dispersión y nacimiento de la futura planta	atenea::ciencia::facil
+�Qui�n fue el primer soberano germ�nico de la pen�nsula it�lica?	Constantino I	atenea::historia_universal::facil
+¿Cómo se llama la afición de coleccionar monedas?	Numismática	atenea::terminologia::media
+¿Cuál es la capital de Corea del Sur?	Seúl	atenea::geografia::facil
+¿Qué guerra enfrentó al Norte y al Sur de Estados Unidos?	Guerra Civil (o Guerra de Secesión)	atenea::historia_universal::facil
+¿Cuál es la montaña más alta de la Antártida?	Macizo Vinson	atenea::geografia::dificil
+¿Qué filósofo dijo 'Pienso, luego existo' (Cogito ergo sum)?	René Descartes	atenea::filosofia::facil
+¿Qué estudia la herpetología?	Los reptiles y anfibios	atenea::terminologia::dificil
+¿Cuál es el símbolo químico del tungsteno?	W	atenea::ciencia::dificil
+¿Qué partícula subatómica tiene carga negativa?	Electrón	atenea::ciencia::facil
+La capital de Camer�n es...	Yaund�	atenea::geografia::facil
+�Que pasa si Mario Bross coge una flor roja?	Lanza bolas de fuego	atenea::otro::facil
+¿Qué proceso usan las plantas para convertir luz solar en energía?	Fotosíntesis	atenea::ciencia::facil
+¿Qué río forma gran parte de la frontera entre Estados Unidos y México?	Río Bravo (o Río Grande)	atenea::geografia::media
+¿Quién descubrió América en 1492?	Cristóbal Colón	atenea::historia_universal::facil
+¿Quién pintó 'La persistencia de la memoria' (los relojes blandos)?	Salvador Dalí	atenea::arte::facil
+¿Que tipo de musculo es el bíceps?	Esquelético estriado	atenea::ciencia::facil
+¿En qué año se disolvió la Unión Soviética?	1991	atenea::historia_universal::media
+¿Que pasó con la primera edición de "El origen de las especies", en el que Darwin explicaba su teoría de la evolución?	Se agotó el primer día	atenea::ciencia::facil
+¿Cómo se llama el miedo a los espacios cerrados?	Claustrofobia	atenea::terminologia::facil
+¿Cómo se llama a los habitantes de La Haya?	Hagueños	atenea::geografia::dificil
+�Qu� patinador art�stico obtuvo la medalla de oro en los Juegos Ol�mpicos de Invierno celebrados en Calgary en 1988?	Brian Boitano	atenea::deportes::facil
+¿Quién fue Domingo Faustino Sarmiento?	Presidente y promotor de la educación pública	atenea::historia_argentina::facil
+¿Cuál es la capital de Costa de Marfil?	Yamusukro	atenea::geografia::dificil
+¿Cuál es el desierto más grande del mundo?	Sahara	atenea::geografia::facil
+�Cu�l es la capital de la Rep�blica Centroafricana?	Bangui	atenea::geografia::facil
+¿Quién pintó 'El grito'?	Edvard Munch	atenea::arte::facil
+¿Cuál es el componente principal de los huesos?	Calcio (fosfato de calcio)	atenea::ciencia::media
+En la serie de Pokemon �como se llama el protagonista principal?	Ash	atenea::otro::facil
+¿Qué país fue dividido en dos por el paralelo 38?	Corea	atenea::historia_universal::media
+¿Cómo se llama a los habitantes de Chipre?	Chipriotas	atenea::geografia::media
+¿Cuál es la capital de Mongolia?	Ulán Bator	atenea::geografia::dificil
+En el juego de Mario Bross �como se llama, en ingles, la princesa que ha de rescatar el jugador que controla a Mario?	Melocot�n	atenea::otro::facil
+En los Juegos de Los �ngeles, en 1984, �cu�ntos pa�ses del bloque sovi�tico no participaron en las competencias?	15	atenea::deportes::facil
+¿Cuál es la capital de Suiza?	Berna	atenea::geografia::media
+¿Qué se conmemora el 20 de junio en Argentina?	Día de la Bandera (fallecimiento de Manuel Belgrano)	atenea::historia_argentina::facil
+¿Qué establece la primera ley de Newton (ley de inercia)?	Un cuerpo permanece en reposo o movimiento rectilíneo uniforme si no actúa una fuerza externa	atenea::ciencia::media
+¿Qué héroe mató al Minotauro en el laberinto?	Teseo	atenea::mitologia::media
+¿En qué año se declaró la independencia de Argentina?	1816	atenea::historia_argentina::facil
+¿Cuál es la capital de Laos?	Vientián	atenea::geografia::dificil
+¿En qué país se encuentra la Gran Barrera de Coral?	Australia	atenea::geografia::facil
+¿Que es la sucesión ecológica?	La maduración del ecosistema	atenea::ciencia::facil
+¿Quién escribió 'La Odisea'?	Homero	atenea::literatura::facil
+¿Quién fue Mariano Moreno?	Secretario de la Primera Junta y fundador de la Gazeta de Buenos Aires	atenea::historia_argentina::media
+¿Qué tipo de enlace químico comparten los átomos de una molécula de agua?	Enlace covalente	atenea::ciencia::media
+¿Qué filósofo del lenguaje escribió el 'Tractatus Logico-Philosophicus'?	Ludwig Wittgenstein	atenea::filosofia::media
+¿En qué año llegó el hombre a la Luna?	1969	atenea::historia_universal::facil
+¿En qué año Constantinopla cayó en manos de los otomanos?	1453	atenea::historia_universal::media
+�Qui�n fue el primer presidente que present� una dimisi�n de la historia de Estados Unidos?	Richard Nixon	atenea::historia_universal::facil
+¿Cuál es la capital de Turquía?	Ankara	atenea::geografia::media
+¿Cuál es el planeta más pequeño del Sistema Solar?	Mercurio	atenea::ciencia::media
+La capital de Brasil es ...	Brasilia	atenea::geografia::facil
+¿Qué elemento químico tiene el número atómico 1?	Hidrógeno	atenea::ciencia::facil
+�En qu� edici�n de los Juegos Ol�mpicos obtuvo la medalla de oro en 400 m vallas, el dominicano F�lix S�nchez?	Atenas 2004	atenea::deportes::facil
+¿Qué dos países europeos son completamente rodeados por otro país?	San Marino y Ciudad del Vaticano (por Italia)	atenea::geografia::dificil
+¿En qué año comenzó la Guerra Fría?	1947	atenea::historia_universal::media
+�Qui�n es Koji Kondo en relaci�n a S�per Mario Bross?	El creador de la BSO	atenea::otro::facil
+¿Qué titán robó el fuego de los dioses para dárselo a los humanos?	Prometeo	atenea::mitologia::facil
+¿Quién escribió '1984'?	George Orwell	atenea::literatura::facil
+En la serie de animada de Heidi �de que raza de pero es Niebla?	San Bernardo	atenea::otro::facil
+¿Quién compuso las Cuatro Estaciones?	Antonio Vivaldi	atenea::musica::facil
+En la serie Hora De Aventuras �como se llama Marseline cuando se convierte en chico?	Marshall Lee	atenea::otro::facil
+¿Cuál es el río más largo de América del Norte?	Misisipi-Misuri	atenea::geografia::media
+¿Quién escribió 'Crimen y castigo'?	Fiódor Dostoyevski	atenea::literatura::media
+¿Quién escribió 'Fausto'?	Johann Wolfgang von Goethe	atenea::literatura::media
+¿Qué se conmemora el 17 de agosto en Argentina?	Paso a la Inmortalidad del General José de San Martín	atenea::historia_argentina::facil
+¿Qué filósofo dijo que el arjé era el aire?	Anaxímenes	atenea::filosofia::dificil
+¿Cómo se llama el miedo irracional a las arañas?	Aracnofobia	atenea::terminologia::facil
+¿Quién escribió 'El Aleph'?	Jorge Luis Borges	atenea::literatura::facil
+¿Cuál es el símbolo químico del estaño?	Sn	atenea::ciencia::dificil
+¿Cuál es la montaña más alta de Argentina?	Aconcagua	atenea::historia_argentina::facil
+¿Qué se conmemora el 25 de mayo en Argentina?	La Revolución de Mayo de 1810 (Primer Gobierno Patrio)	atenea::historia_argentina::facil
+¿Qué estructura celular contiene el material genético?	Núcleo	atenea::ciencia::facil
+¿Qué país centroamericano es el más grande en superficie?	Nicaragua	atenea::geografia::dificil
+¿Cuál es el río más largo de Asia?	Yangtsé	atenea::geografia::media
+¿Que es la biodiversidad o riqueza de un ecosistema?	El número de especies	atenea::ciencia::facil
+¿Cuál es el símbolo químico del cobre?	Cu	atenea::ciencia::media
+¿Qué planeta es conocido como el planeta rojo?	Marte	atenea::ciencia::facil
+¿Cómo se llama el miedo a los payasos?	Coulrofobia	atenea::terminologia::media
+¿Qué planeta tiene los anillos más visibles del Sistema Solar?	Saturno	atenea::ciencia::facil
+¿En que lugar de la Tierra se ha de estar para no verse influido por la fuerza gravitacional?	En el centro	atenea::ciencia::facil
+¿Cuál es la capital de Grecia?	Atenas	atenea::geografia::facil
+¿Cuál es el río más largo de África?	Nilo	atenea::geografia::facil
+�A qu� pel�cula de Disney pertenece la canci�n "Un mundo ideal"?	Aladd�n	atenea::otro::facil
+¿Qué filósofo escribió 'El Capital'?	Karl Marx	atenea::filosofia::facil
+�?Como se llama el reino por el que se mueven Mario Bross y sus amigos?	Reino Champi��n	atenea::otro::facil
+�En qu� pa�s se encuentra el r�o Arkansas?	Estados Unidos	atenea::geografia::facil
+�Sobre qu� mar tiene sus costas N�ger?	Ninguno	atenea::geografia::facil
+�Cu�l es el pa�s m�s peque�o de Centroam�rica?	El Salvador	atenea::geografia::facil
+En la serie Hora De Aventuras �De qui�n est� enamorado Finn?	Princesa Llama	atenea::otro::facil
+�Qu� atleta italiano gan� la medalla de oro en los 200 metros llanos, en los Juegos Ol�mpicos de Roma de 1960?	Livio Berruti	atenea::deportes::facil
+¿Qué número atómico tiene el carbono?	6	atenea::ciencia::media
+En la serie de Phineas y Ferb que construyen en el primer d�a de vacaciones?	Una monta�a rusa	atenea::otro::facil
+La capital de Chile es...	Santiago	atenea::geografia::facil
+¿Quién escribió 'Madame Bovary'?	Gustave Flaubert	atenea::literatura::media
+¿Qué criatura mitad hombre mitad toro vivía en el laberinto de Creta?	Minotauro	atenea::mitologia::facil
+�Qui�n puso la voz de Mickey Mouse los primeros a�os de vida del personaje?	Walt Disney	atenea::otro::facil
+¿Cómo se llama a los habitantes de Río de Janeiro?	Cariocas	atenea::geografia::media
+¿Qué religión celebra el Hanukkah?	Judaísmo	atenea::otro::facil
+�Qu� emperador romano convoc� al concilio de Nicea, en el a�o 325?	Odoacro	atenea::historia_universal::facil
+�Cuanto lleg� a medir el gigante de Altzo?	2.4 metros	atenea::historia_universal::facil
+La capital de Croacia es...	Zagreb	atenea::geografia::facil
+¿Quién es considerado el "Padre de la Patria" en Argentina?	José de San Martín	atenea::historia_argentina::facil
+En la serie Hora De Aventuras �que otro animal sale en todos los cap�tulos aparte de Jake?	Un caracol saludando	atenea::otro::facil
+¿Qué filósofo desarrolló el concepto de 'superhombre' (Übermensch)?	Friedrich Nietzsche	atenea::filosofia::media
+En la serie de Pokemon �a que pokemon evoluciona Dratini?	Dragonair	atenea::otro::facil
+�Con qu� nombre es conocido el Himno Paral�mpico?	Himno del futuro	atenea::deportes::facil
+¿Cuál es la montaña más alta de Oceanía?	Puncak Jaya	atenea::geografia::dificil
+�Qui�n es la mascota de SEGA?	Sonic	atenea::otro::facil
+¿Quién es conocido como el 'Rey del Pop'?	Michael Jackson	atenea::musica::facil
+¿Cuál es la montaña más alta de América?	Aconcagua	atenea::geografia::facil
+¿Qué estudia la ornitología?	Las aves	atenea::terminologia::media
+¿En qué año se sancionó la primera Constitución Nacional Argentina?	1853	atenea::historia_argentina::media
+¿En qué océano se encuentra Madagascar?	Océano Índico	atenea::geografia::media
+¿Cuál es la capital de Dinamarca?	Copenhague	atenea::geografia::facil
+¿Cuál es la capital de Nueva Zelanda?	Wellington	atenea::geografia::media
+¿Qué científica descubrió la radiactividad junto con su esposo Pierre?	Marie Curie	atenea::ciencia::facil
+¿Qué filósofo presocrático propuso que la realidad es inmutable y el cambio es ilusión?	Parménides	atenea::filosofia::media
+¿Cuál es la galaxia más cercana a la Vía Láctea (de gran tamaño)?	Andrómeda	atenea::ciencia::media
+¿Qué canal conecta el Mar Mediterráneo con el Mar Rojo?	Canal de Suez	atenea::geografia::facil
+¿Quién compuso 'La consagración de la primavera'?	Ígor Stravinski	atenea::musica::dificil
+¿Qué país de América del Sur no tiene salida al mar además de Bolivia?	Paraguay	atenea::geografia::media
+¿Debajo de que árbol se encontraba Newton cuando, según la leyenda, descubrió la ley de la gravedad?	Manzano	atenea::ciencia::facil
+¿Quién fue el vocalista de Queen?	Freddie Mercury	atenea::musica::facil
+En la serie Hora De Aventuras �Cuantos hijos tiene Jake?	Ninguna es correcta	atenea::otro::facil
+�Cu�l de estos pa�ses NO firm� la Paz de Breda en 1667?	Grecia	atenea::historia_universal::facil
+¿Como se formó la Tierra?	Por un proceso de acreción gravitatoria	atenea::ciencia::facil
+¿En qué año Colón llegó a América?	1492	atenea::historia_universal::facil
+¿Qué se conmemora el 2 de abril en Argentina?	Día del Veterano y de los Caídos en la Guerra de Malvinas	atenea::historia_argentina::facil
+¿Qué instrumento se usa para medir la velocidad del viento?	Anemómetro	atenea::terminologia::media
+¿Qué país tiene forma de bota?	Italia	atenea::geografia::facil
+¿Qué filósofo distinguió entre acto y potencia?	Aristóteles	atenea::filosofia::media
+¿Qué presidente argentino creó el voto secreto, universal y obligatorio?	Roque Sáenz Peña (Ley Sáenz Peña, 1912)	atenea::historia_argentina::media
+¿Qué vitamina produce el cuerpo al exponerse al sol?	Vitamina D	atenea::ciencia::media
+¿Qué estrecho conecta el Mar Negro con el Mar de Mármara?	Estrecho del Bósforo	atenea::geografia::media
+¿Qué héroe mató a Medusa?	Perseo	atenea::mitologia::media
+¿Que instrumento mide la presión atmosférica?	Barómetro	atenea::ciencia::facil
+�En que cordillera se encuentra el monte Everest?	Himalaya	atenea::geografia::facil
+¿Cuál es la capital de Myanmar (Birmania)?	Naipyidó (Naypyidaw)	atenea::geografia::dificil
+�Qu� mascotas fueron escogidas para los juegos paral�mpicos 2014?	Rayo de sol y mu�eco de nieve	atenea::deportes::facil
+¿Qué estudia la micología?	Los hongos	atenea::terminologia::dificil
+¿Cuál es el registro vocal femenino más agudo?	Soprano	atenea::musica::media
+La capital de Costa de Marfil es...	Yamusukro	atenea::geografia::facil
+�Qu� rey Borb�n promulg� el edicto de Nantes en 1598, que favorec�a la tolerancia hacia los hugonotes o protestantes?	Enrique IV	atenea::historia_universal::facil
+¿Cómo se llama la teoría de Platón sobre las realidades perfectas e inmutables?	Teoría de las Ideas (o de las Formas)	atenea::filosofia::media
+En la serie Hora De Aventuras �Como se llama el episodio donde Jake conoce a los padres de Lady Arco�ris?	Los suegros	atenea::otro::facil
+¿Qué tipo de molécula son las enzimas?	Proteínas	atenea::ciencia::media
+La gravedad es una de las "fuerzas fundamentales" que considera la Física moderna. ¿Cuantas son en total?	4	atenea::ciencia::facil
+¿Qué instrumento se usa para medir ángulos en topografía y navegación?	Teodolito (o sextante en navegación)	atenea::terminologia::dificil
+¿Qué Papa convocó el Concilio Vaticano II?	Juan XXIII	atenea::otro::dificil
+¿Qué gas liberan las plantas durante la fotosíntesis?	Oxígeno	atenea::ciencia::facil
+¿Cuál es la unidad de medida de la corriente eléctrica?	Amperio	atenea::ciencia::media
+¿Cuál era el punto débil de Aquiles?	Su talón	atenea::mitologia::facil
+�Cu�l es el principal r�o de Hungr�a?	Tisza	atenea::geografia::facil
+En la serie Hora De Aventuras, cuando la princesa lodo le dice a Finn que quiere casarse con �l, �que le dice Jake para quitarle esa idea de la cabeza?	Que Finn se mea encima todo el rato	atenea::otro::facil
+¿Cuál es el río más largo de Europa?	Volga	atenea::geografia::media
+¿Qué mide el sismógrafo?	Movimientos sísmicos (terremotos)	atenea::ciencia::facil
+¿Qué teoría propuso Charles Darwin?	La teoría de la evolución por selección natural	atenea::ciencia::facil
+¿Quién inventó la bombilla eléctrica?	Thomas Edison	atenea::ciencia::facil
+�Cu�ntos animales fueron las mascotas en los Juegos de Pek�n 2008?	5	atenea::deportes::facil
+¿Qué estudia la heráldica?	Los escudos de armas y blasones	atenea::terminologia::media
+¿Cuántas cuerdas tiene una guitarra clásica?	6	atenea::musica::facil
+¿Que es el pistilo de una flor?	El verticilo fértil femenino	atenea::ciencia::facil
+¿Qué gas es esencial para la respiración humana?	Oxígeno	atenea::ciencia::facil
+¿Cuántos mandamientos recibió Moisés según la tradición judeocristiana?	10	atenea::otro::facil
+¿Que edad se calculo que presente nuestro planeta?	4.600 millones de años	atenea::ciencia::facil
+¿Quién escribió 'El amor en los tiempos del cólera'?	Gabriel García Márquez	atenea::literatura::facil
+En la serie Hora De Aventuras �Como se llama el coraz�n del Rey Helado?	Ricardio	atenea::otro::facil
+¿Cuanto tarda la Tierra en dar una vuelta completa alrededor del sol?	365 días	atenea::ciencia::facil
+¿Quién fue Eva Perón?	Esposa de Juan Domingo Perón y líder social, impulsora del voto femenino	atenea::historia_argentina::facil
+¿En qué año se produjo la Revolución Francesa?	1789	atenea::historia_universal::facil
+¿Qué estableció la reforma constitucional de 1994 respecto al presidente?	Mandato de 4 años con posibilidad de reelección inmediata por un período	atenea::historia_argentina::media
+¿Quién compuso la ópera 'La Flauta Mágica'?	Wolfgang Amadeus Mozart	atenea::musica::media
+¿Qué religión tiene la mayor cantidad de seguidores en el mundo?	Cristianismo	atenea::otro::facil
+¿Cuál es el símbolo químico de la plata?	Ag	atenea::ciencia::media
+¿Qué músico argentino fue el líder de la banda Soda Stereo?	Gustavo Cerati	atenea::historia_argentina::facil
+¿Quién era Gea en la mitología griega?	La diosa primordial de la Tierra	atenea::mitologia::media
+¿Quién fue el líder de la Alemania nazi?	Adolf Hitler	atenea::historia_universal::facil
+�C�mo se conoce a la persecuci�n sufrida por artistas norteamericanos por su posible afiliaci�n al partido comunista?	Caza de brujas	atenea::historia_universal::facil
+¿Quién fue Alejandro Magno?	Rey de Macedonia que conquistó un vasto imperio	atenea::historia_universal::facil
+¿Qué ácido nucleico lleva la información genética del núcleo al ribosoma?	ARN mensajero (ARNm)	atenea::ciencia::media
+�Cu�l es el mayor r�o que fluye por Brasil?	Amazonas	atenea::geografia::facil
+�Cu�l es la ciudad griega que dio inicio al transporte de la antorcha ol�mpica?	Olimpia	atenea::deportes::facil
+�Cu�nto debe pesar el disco en la disciplina ol�mpica de Lanzamiento de disco?	2	atenea::deportes::facil
+¿Qué abrió Pandora que liberó todos los males al mundo?	Una caja (o jarra/pithos)	atenea::mitologia::facil
+El elemento presente en todos los compuestos orgánicos es el...	Carbono	atenea::ciencia::facil
+¿Quién pintó 'La noche estrellada'?	Vincent van Gogh	atenea::arte::facil
+¿Quién compuso el 'Bolero'?	Maurice Ravel	atenea::musica::media
+¿Qué cantante argentino es conocido como 'El Flaco'?	Luis Alberto Spinetta	atenea::musica::media
+¿Quién fue Cleopatra?	Última reina del Antiguo Egipto (dinastía ptolemaica)	atenea::historia_universal::facil
+En el sistema de puntos ol�mpicos �cu�ntos puntos se concede por cada medalla de bronce obtenida en una prueba?	4	atenea::deportes::facil
+�C�mo se llamaba el personaje que interpretaba John Travolta en "Grease"?	Danny Zuko	atenea::otro::facil
+�Qui�nes eran los shogunes?	Dictadores militares en el Jap�n medieval	atenea::historia_universal::facil
+¿Qué tipo de estrella es el Sol?	Enana amarilla (tipo G)	atenea::ciencia::media
+¿Cuántos planetas tiene el Sistema Solar?	8	atenea::ciencia::facil
+¿Cuál es la capital de Canadá?	Ottawa	atenea::geografia::media
+¿Cuál es la capital de Vietnam?	Hanói	atenea::geografia::media
+¿En qué siglo se produjo el Renacimiento?	Siglos XV y XVI	atenea::historia_universal::media
+¿Quién escribió 'Guerra y paz'?	León Tolstói	atenea::literatura::media
+¿Cuál es el método filosófico asociado a Sócrates?	La mayéutica (diálogo e interrogación)	atenea::filosofia::media
+¿En qué año murió Eva Perón?	1952	atenea::historia_argentina::facil
+¿Que han de tener dos objetos para que entre ellos exista gravedad?	Masa	atenea::ciencia::facil
+La capital de Bulgaria es...	Sof�a	atenea::geografia::facil
+¿Cuál es la capital de Kazajistán?	Astaná	atenea::geografia::dificil
+¿Cuál es la función principal de los glóbulos rojos?	Transportar oxígeno	atenea::ciencia::facil
+De acuerdo al antiguo testamento �Cu�l es el nombre de la esposa de David y madre del rey Salom�n?	Betsab�	atenea::historia_universal::facil
+¿Qué evento histórico ocurrió el 11 de septiembre de 2001?	Atentados terroristas contra las Torres Gemelas	atenea::historia_universal::facil
+¿Qué instrumento tocaba Louis Armstrong?	Trompeta	atenea::musica::media
+¿Qué propiedad mide el pH?	La acidez o alcalinidad de una solución	atenea::ciencia::facil
+La capital de Cuba es...	Habana	atenea::geografia::facil
+¿Qué filósofo presocrático desarrolló la teoría atomista?	Demócrito (y Leucipo)	atenea::filosofia::media
+¿Cuál es la velocidad de la luz en el vacío (aproximadamente)?	300.000 km/s	atenea::ciencia::media
+¿Cuál es la unidad de medida de la frecuencia?	Hertz (Hz)	atenea::ciencia::facil
+¿Qué estudia la vexilología?	Las banderas	atenea::terminologia::dificil
+�E la m�sica de que compositor se bas� Disney para realizar la pel�cula El aprendiz de brujo?	Dukas	atenea::otro::facil
+¿Cuál es el deporte más popular en Argentina?	Fútbol	atenea::historia_argentina::facil
+¿Qué significa la palabra 'Islam'?	Sumisión (a Dios)	atenea::otro::media
+¿En qué país se encuentra el lago Titicaca además de Perú?	Bolivia	atenea::geografia::media
+¿Qué filósofo presocrático afirmó que 'todo fluye' (panta rei)?	Heráclito	atenea::filosofia::media
+En la serie de los Simpsons �cuantos hijos tienen Homer y Marge?	3	atenea::otro::facil
+¿En qué año renunció el presidente Fernando de la Rúa?	2001	atenea::historia_argentina::facil
+¿En qué continente se encuentra el desierto del Sahara?	África	atenea::geografia::facil
+De acuerdo a la historiograf�a alemana �qu� imperio desarrollado entre el 800 y 1806, equivaldr�a al I Reich?	Sacro imperio romano germ�nico	atenea::historia_universal::facil
+¿Qué instrumento se usa para medir la humedad relativa del aire?	Higrómetro	atenea::terminologia::media
+¿Cuál es el símbolo químico del hierro?	Fe	atenea::ciencia::media
+¿Cuál es la capital de Afganistán?	Kabul	atenea::geografia::media
+�C�mo se llamaba el �guila que fue mascota en los Juegos Ol�mpicos de Los �ngeles 1984?	Sam	atenea::deportes::facil
+En la serie Hora De Aventuras �en que pa�s viven los protagonistas?	En el pa�s de Ooo	atenea::otro::facil
+¿Cual de los siguientes recursos energéticos no tiene por origen exclusivo la radiación solar?	La energía nuclear	atenea::ciencia::facil
+¿Qué criatura mitológica es mitad hombre mitad caballo?	Centauro	atenea::mitologia::facil
+�Qu� rey cre� la Inquisici�n?	Los reyes cat�licos	atenea::historia_universal::facil
+¿Qué imperio construyó el Coliseo de Roma?	Imperio Romano	atenea::historia_universal::facil
+El oxigeno es el comburente mas habitual, ¿Que porcentaje hay de este en el aire?	21%	atenea::ciencia::facil
+�En qu� mes se han celebrado normalmente los Juegos Ol�mpicos de Invierno, hasta 1994?	Febrero	atenea::deportes::facil
+¿En qué año se produjo la Revolución Cubana?	1959	atenea::historia_universal::media
+¿Cuál es el planeta más grande del Sistema Solar?	Júpiter	atenea::ciencia::facil
+¿Qué planeta tiene la Gran Mancha Roja?	Júpiter	atenea::ciencia::media
+¿En qué batalla Urquiza derrotó a Rosas?	Batalla de Caseros (1852)	atenea::historia_argentina::media
+�Qui�n es Bella en la saga �Crep�sculo�?	Kristen Stewart	atenea::otro::facil
+¿Que son plantas monoicas?	Las que tienen flores masculinas y femeninas	atenea::ciencia::facil
+¿Quién descubrió la estructura del ADN (doble hélice)?	Watson y Crick (con aportes de Rosalind Franklin)	atenea::ciencia::media
+¿Cuál es la fórmula del ácido sulfúrico?	H₂SO₄	atenea::ciencia::media
+¿Como se llama la primera capa de las meninges?	Duramadre	atenea::ciencia::facil
+¿Qué presidente fue elegido gracias a la Ley Sáenz Peña por primera vez?	Hipólito Yrigoyen (1916)	atenea::historia_argentina::media
+¿Cómo se llama la afición de coleccionar llaveros?	Copoclefilia	atenea::terminologia::dificil
+�Qu� duraci�n tienen los Juegos de la Juventud de verano?	12 d�as	atenea::deportes::facil
+¿Qué país es conocido como la Tierra del Sol Naciente?	Japón	atenea::geografia::facil
+¿Qué filósofo escribió 'Leviatán' y defendió el absolutismo?	Thomas Hobbes	atenea::filosofia::media
+¿Quién fue Juan Bautista Alberdi?	Jurista, autor de 'Bases y puntos de partida para la organización política de la Confederación Argentina'	atenea::historia_argentina::media
+¿Quién escribió 'Ulises'?	James Joyce	atenea::literatura::media
+�De qu� origen era el rey de Babilonia, Nabopolasar?	Caldeo	atenea::historia_universal::facil
+¿Cuanto pesa el cerebro de un ser humano adulto?	1 Kg	atenea::ciencia::facil
+¿Qué bebida tradicional argentina se toma en una calabaza con una bombilla?	Mate	atenea::historia_argentina::facil
+¿En que año se publicó "El origen de las especies" de Charles Darwin?	1859	atenea::ciencia::facil
+¿Cómo se llama a los habitantes de Jerusalén?	Jerosolimitanos	atenea::geografia::dificil
+¿Qué país insular del océano Índico es el cuarto más grande del mundo?	Madagascar	atenea::geografia::media
+¿Cuál es la capital de Marruecos?	Rabat	atenea::geografia::media
+�A qu� monta�a, la m�s elevada de �frica, pertenecen los picos volc�nicos Kibo y Mawensi?	Kilimanjaro	atenea::geografia::facil
+¿En qué país se encuentra Machu Picchu?	Perú	atenea::geografia::facil
+�En qu� a�o se incorpora el nado sincronizado como disciplina ol�mpica?	Los �ngeles 1984	atenea::deportes::facil
+�C�mo se llamaba el barco en el que los peregrinos (puritanos ingleses) escaparon al nuevo mundo en 1620?	Mayflower	atenea::historia_universal::facil
+Un triángulo equilátero se caracteriza por tener...	Sus tres lados son iguales	atenea::ciencia::facil
+¿Qué científico es famoso por su gato en un experimento mental?	Erwin Schrödinger	atenea::ciencia::media
+�En que n�mero del Paseo de la Fama de Hollywood tiene su huella Mickey Mouse?	6925	atenea::otro::facil
+¿Quién fue el primer presidente de facto de Argentina en el siglo XX?	José Félix Uriburu (1930)	atenea::historia_argentina::media
+¿En qué año comenzó la Primera Guerra Mundial?	1914	atenea::historia_universal::facil
+¿Cuántos países tiene África?	54	atenea::geografia::media
+¿Cuál es la capital de Irlanda?	Dublín	atenea::geografia::facil
+¿Cómo se llama el miedo a los espacios abiertos o multitudes?	Agorafobia	atenea::terminologia::media
+¿Qué estudia la ictiología?	Los peces	atenea::terminologia::dificil
+�En qu� edici�n de los Juegos Ol�mpicos participaron por primera vez las mujeres en Gimnasia Ol�mpica?	�msterdam 1928	atenea::deportes::facil
+�Cual es la profesi�n de Mario Bross?	Fontanero	atenea::otro::facil
+�A que pa�s pertenece al Ant�rtida?	A ninguno	atenea::geografia::facil
+¿En qué país se encuentra el Monte Fuji?	Japón	atenea::geografia::facil
+�Durante el gobierno de qu� monarca franc�s fue firmada la Paz de los Pirineos con Espa�a?	Luis XIV	atenea::historia_universal::facil
+¿Cuál es la capital de Tanzania?	Dodoma	atenea::geografia::dificil
+�C�mo se llamaba realmente el famoso nativo americano "Ger�nimo"?	Goyahkla	atenea::historia_universal::facil
+¿Cuál es el símbolo químico del antimonio?	Sb	atenea::ciencia::dificil
+¿Quién fue presidente durante la Guerra de Malvinas?	Leopoldo Galtieri	atenea::historia_argentina::media
+¿Cuántos huesos tiene el cuerpo humano adulto?	206	atenea::ciencia::media
+¿Qué religión tiene como texto sagrado los Vedas?	Hinduismo	atenea::otro::media
+¿Cuál es el país con más idiomas oficiales del mundo?	Sudáfrica (11 idiomas oficiales)	atenea::geografia::dificil
+¿Cuál es la isla más grande del mundo?	Groenlandia	atenea::geografia::media
+¿En qué año se abolió la esclavitud en Estados Unidos?	1865	atenea::historia_universal::media
+¿Que pierde el que sufre de anosmia?	Olfato	atenea::ciencia::facil
+¿Quién fue el primer emperador romano?	Augusto	atenea::historia_universal::media
+¿Cómo se llama el estudio y degustación de vinos?	Enología	atenea::terminologia::media
+¿Quién fue Nelson Mandela?	Líder anti-apartheid y primer presidente negro de Sudáfrica	atenea::historia_universal::facil
+¿Que son los hematíes?	Glóbulos rojos	atenea::ciencia::facil
+¿Qué estudia la espeleología?	Las cuevas y cavernas	atenea::terminologia::media
+¿Qué ley de Newton dice que toda acción tiene una reacción igual y opuesta?	Tercera ley de Newton	atenea::ciencia::media
+¿En qué país se encuentra el Lago Baikal, el más profundo del mundo?	Rusia	atenea::geografia::media
+¿Qué arquitecto diseñó la Sagrada Familia de Barcelona?	Antoni Gaudí	atenea::arte::facil
+¿Por que apagan el fuego los extintores?	Cortan el oxígeno del fuego	atenea::ciencia::facil
+¿Qué es el ADN?	Ácido desoxirribonucleico	atenea::ciencia::facil
+¿Cuál es la capital de Portugal?	Lisboa	atenea::geografia::facil
+¿Quién pintó 'Las meninas'?	Diego Velázquez	atenea::arte::media
+�Sobre qu� oc�ano se encuentran las islas Maldivas?	�ndico	atenea::geografia::facil
+�Cu�l es la capital de Irlanda?	Dubl�n	atenea::geografia::facil
+¿Quién pintó la Mona Lisa?	Leonardo da Vinci	atenea::arte::facil
+�Cu�l fue el primer pa�s asi�tico en que se realiz� una edici�n de los Juegos Ol�mpicos en 1968?	Jap�n	atenea::deportes::facil
+¿Quién escribió 'El proceso'?	Franz Kafka	atenea::literatura::media
+¿Cómo se llama la obra de Platón donde describe su Estado ideal?	La República	atenea::filosofia::media
+¿Quién compuso las 'Gymnopédies'?	Erik Satie	atenea::musica::dificil
+En la serie Hora De Aventuras �Como se llama el libro de los h�roes?	El Enchiridi�n	atenea::otro::facil
+¿Que pesa mas ¿el corazón de un hombre o el de una mujer?	El de un hombre	atenea::ciencia::facil
+¿Qué batalla definió la separación de Buenos Aires de la Confederación en 1861?	Batalla de Pavón	atenea::historia_argentina::dificil
+¿Quién pintó 'El Guernica'?	Pablo Picasso	atenea::arte::facil
+�Qu� papa presidi� el IV Concilio de Letr�n?	Inocencio III	atenea::historia_universal::facil
+En la serie de los Simpsons �a que juegan Homer y sus amigos cuando Marge es oficial de polic�a?	P�ker	atenea::otro::facil
+¿Qué concepto kantiano describe la ley moral universal que cada uno debe seguir?	Imperativo categórico	atenea::filosofia::media
+�Cual de estos deportes se practica dentro del agua?	Nataci�n	atenea::deportes::facil
+�Qu� grupo c�mico dobl� al espa�ol a los protagonistas de "Shrek"?	Cruz y Raya	atenea::otro::facil
+�En qu� pa�s de Europa se encuentra el misterioso Lago de Ness?	Escocia	atenea::geografia::facil
+�C�mo se llama el p�jaro s�mbolo de los Juegos del Hambre?	Sinsajo	atenea::otro::facil
+¿Quién compuso 'El lago de los cisnes'?	Piotr Chaikovski	atenea::musica::media
+�Cu�ntos pa�ses africanos eran independientes en el a�o 1900?	2	atenea::historia_universal::facil
+�Qu� mediofondista logr� la medalla de oro en los Juegos de M�xico 68 y en M�nich 72?	Kip Keino	atenea::deportes::facil
+¿Cuál es la ciudad más poblada del mundo?	Tokio (área metropolitana)	atenea::geografia::media
+¿De qué país es originaria la samba?	Brasil	atenea::musica::facil
+¿Qué país tiene la mayor cantidad de islas en el mundo?	Suecia	atenea::geografia::dificil
+¿Como se llaman los gametos masculinos en un rosal?	Núcleos espermáticos	atenea::ciencia::facil
+¿Qué concepto de Sartre significa que 'la existencia precede a la esencia'?	Existencialismo (libertad radical del ser humano)	atenea::filosofia::media
+¿Quién escribió 'Hamlet'?	William Shakespeare	atenea::literatura::facil
+¿Qué religión practica el Dalái Lama?	Budismo tibetano	atenea::otro::facil
+�Cu�l de estas ciudades fue designada capital de la colonia francesa en el territorio americano en 1722?	Nueva Orleans	atenea::historia_universal::facil
+¿Cuál es la capital de Sudáfrica (sede del gobierno)?	Pretoria	atenea::geografia::dificil
+¿Quién escribió 'Ficciones'?	Jorge Luis Borges	atenea::literatura::media
+¿Cuál es la unidad de medida de la energía en el SI?	Joule	atenea::ciencia::facil
+¿Cuál es el himno nacional más antiguo del mundo aún en uso?	Wilhelmus (Países Bajos)	atenea::musica::dificil
+�Cu�ntas islas componen el grupo de las Islas V�rgenes de los Estados Unidos?	3	atenea::geografia::facil
+¿Quién fue Marco Polo?	Explorador veneciano que viajó a China	atenea::historia_universal::facil
+¿Cómo se llama a los habitantes de Alcalá de Henares?	Complutenses	atenea::geografia::dificil
+�En que a�o se descubri� la m�scara de Agamen�n?	1876	atenea::historia_universal::facil
+¿Cuál es la capital de Kenia?	Nairobi	atenea::geografia::media
+¿Cuál es el equivalente romano de Poseidón?	Neptuno	atenea::mitologia::facil
+¿Cómo se llama la afición de coleccionar estampillas o sellos postales?	Filatelia	atenea::terminologia::media
+�Qu� equipo obtuvo la medalla de plata en baloncesto en los Juegos de Los �ngeles 1984?	Espa�a	atenea::deportes::facil
+¿Qué banda de rock argentino grabó el disco 'Artaud'?	Pescado Rabioso	atenea::musica::media
+¿Qué género musical se originó en Jamaica?	Reggae	atenea::musica::facil
+¿Que función tienen los marcapasos?	Acelerar el ritmo cardiaco	atenea::ciencia::facil
+¿Cuál es la capital de Pakistán?	Islamabad	atenea::geografia::dificil
+¿Cuál es el elemento químico más abundante en el universo?	Hidrógeno	atenea::ciencia::facil
+¿Qué imperio construyó la Gran Muralla China?	Varios (iniciada por Qin Shi Huang)	atenea::historia_universal::media
+¿Cuál es el equivalente romano de Hefesto?	Vulcano	atenea::mitologia::media
+¿Qué planeta gira sobre su eje en sentido contrario a los demás?	Venus	atenea::ciencia::dificil
+¿Qué filósofo existencialista escribió 'El ser y la nada'?	Jean-Paul Sartre	atenea::filosofia::media
+¿Quién creó la bandera argentina?	Manuel Belgrano	atenea::historia_argentina::facil
+¿Qué monstruo de múltiples cabezas fue vencido por Heracles?	Hidra de Lerna	atenea::mitologia::media
+La capital de Canad� es...	Ottawa	atenea::geografia::facil
+¿Cuál es la capital de Polonia?	Varsovia	atenea::geografia::facil
+¿Cuáles son los cinco pilares del Islam?	Shahada, oración, limosna, ayuno y peregrinación	atenea::otro::dificil
+�Cu�ntas fueron las mascotas de los Juegos Ol�mpicos de Londres 2012?	2	atenea::deportes::facil
+¿Quién esculpió 'El pensador'?	Auguste Rodin	atenea::arte::media
+¿Qué río pasa por París?	Sena	atenea::geografia::facil
+¿Cuál es el símbolo químico del oro?	Au	atenea::ciencia::facil
+¿En qué año se federalizó la ciudad de Buenos Aires?	1880	atenea::historia_argentina::dificil
+¿Quién escribió 'Cien años de soledad'?	Gabriel García Márquez	atenea::literatura::facil
+¿Qué filósofo empirista escribió 'Ensayo sobre el entendimiento humano'?	John Locke	atenea::filosofia::media
+¿Qué criatura mitológica tiene cabeza de mujer, cuerpo de león y alas de águila?	Esfinge	atenea::mitologia::media
+¿Qué instrumento musical tiene 88 teclas?	Piano	atenea::musica::facil
+¿Qué país es el mayor productor de café del mundo?	Brasil	atenea::geografia::media
+�Qu� animal fue la mascota ol�mpica de los Juegos de Mosc� de 1980?	Un oso	atenea::deportes::facil
+¿Quién escribió 'Rayuela'?	Julio Cortázar	atenea::literatura::facil
+¿Cuál es la capital de Argentina?	Buenos Aires	atenea::historia_argentina::facil
+�Qu� fue la niebla asesina?	Un producto de la contaminaci�n que mat� a 12.000 personas	atenea::historia_universal::facil
+�En qu� ciudad se celebraron los Juegos Ol�mpicos de 1984?	Los �ngeles	atenea::deportes::facil
+¿Cuántas sinfonías compuso Beethoven?	9	atenea::musica::media
+¿Cuántas lunas tiene Marte?	2 (Fobos y Deimos)	atenea::ciencia::media
+¿Cuál es la capital de Belice?	Belmopán	atenea::geografia::dificil
+¿Quién era Cronos en la mitología griega?	Titán padre de Zeus, dios del tiempo	atenea::mitologia::media
+�Cu�l es la cima m�s elevada de las antiguas rep�blicas sovi�ticas?	Ismail Samani	atenea::geografia::facil
+�Cual de estos r�os europeos no desemboca en la vertiente atl�ntica?	Danubio	atenea::geografia::facil
+¿Quién formuló las leyes de la herencia genética?	Gregor Mendel	atenea::ciencia::media
+¿Cuál es la capital de Noruega?	Oslo	atenea::geografia::facil
+¿Qué científico formuló la ley de gravitación universal?	Isaac Newton	atenea::ciencia::facil
+�Cu�nto duran los juegos ol�mpicos para la juventud de invierno?	9 d�as	atenea::deportes::facil
+¿Qué filósofo empirista negó la existencia de la causalidad necesaria?	David Hume	atenea::filosofia::dificil
+�Que tipo de climas predominan en el norte del continente americano?	Templados	atenea::geografia::facil
+¿Qué filósofo consideró al agua como el principio de todas las cosas (arjé)?	Tales de Mileto	atenea::filosofia::media
+¿En qué año se independizó la India de Gran Bretaña?	1947	atenea::historia_universal::media
+¿Qué estrecho separa Asia de América del Norte?	Estrecho de Bering	atenea::geografia::media
+¿Dónde realizan las plantas la fotosíntesis?	En las hojas	atenea::ciencia::facil
+¿Cuál es el equivalente romano de Ares?	Marte	atenea::mitologia::facil
+¿Cuál es la capital de Italia?	Roma	atenea::geografia::facil
+¿Qué revolución industrial comenzó en Inglaterra en el siglo XVIII?	La Primera Revolución Industrial	atenea::historia_universal::facil
+¿Qué género musical nació en Nueva Orleans a principios del siglo XX?	Jazz	atenea::musica::facil
+¿Cuál es el río más largo del mundo?	Nilo (o Amazonas según mediciones recientes)	atenea::geografia::facil
+¿Cuál es el símbolo químico del mercurio?	Hg	atenea::ciencia::media
+¿Quién fue Carlos Gardel?	Cantante y compositor de tango	atenea::musica::facil
+¿Cuál es la capital de Nigeria?	Abuya	atenea::geografia::dificil
+¿Qué estrecho separa Europa de África?	Estrecho de Gibraltar	atenea::geografia::facil
+¿En qué año se sancionó el voto femenino en Argentina?	1947	atenea::historia_argentina::media
+¿Cuál es el equivalente romano de Hades?	Plutón	atenea::mitologia::media
+¿Qué río atraviesa la ciudad de Londres?	Támesis	atenea::geografia::facil
+�Cu�ntas personas fueron ejecutadas en los juicios de Salem en 1692?	20	atenea::historia_universal::facil
+¿Cuántas cámaras tiene el corazón humano?	4	atenea::ciencia::facil
+¿Cuantos huesos hay en el cuerpo humano?	206	atenea::ciencia::facil
+¿Cuál es el animal más grande que ha existido?	Ballena azul	atenea::ciencia::facil
+¿Qué filósofo medieval unificó la filosofía aristotélica con la teología cristiana?	Santo Tomás de Aquino	atenea::filosofia::media
+¿Qué significa 'forte' en terminología musical?	Fuerte (tocar con intensidad)	atenea::musica::media
+¿Cuál es el volcán más alto del mundo?	Ojos del Salado	atenea::geografia::dificil
+�Qu� te�logo y fraile alem�n fue el principal l�der de la reforma protestante?	Mat�n Lutero	atenea::historia_universal::facil
+¿Qué país tiene la mayor biodiversidad del mundo?	Brasil	atenea::geografia::media
+�Qu� atleta estadounidense fue el primer campe�n ol�mpico de la historia?	James Connolly	atenea::deportes::facil
+�Qu� rey de Babilonia entre el 605 y 562 a.C.es conocido como el gran constructor de las principales ciudades de Babilonia?	Nabucodonosor II	atenea::historia_universal::facil
+�Cu�l fue el invento fundamental con el que el hombre pudo transportar sus implementos de un lugar a otro?	La rueda	atenea::historia_universal::facil
+¿Qué teoría describe el origen del universo a partir de una gran explosión?	Big Bang	atenea::ciencia::facil
+�De qu� oc�ano forma parte el mar de Bering?	Pac�fico	atenea::geografia::facil
+¿Qué canal conecta el Océano Atlántico con el Pacífico?	Canal de Panamá	atenea::geografia::facil
+¿Cuál es el equivalente romano de Zeus?	Júpiter	atenea::mitologia::facil
+¿Cuantas veces se calcula que latirá el corazón a lo largo de toda la vida de un humano?	3.000 millones de veces	atenea::ciencia::facil
+¿Cual es la intensidad de la gravedad en la Tierra a nivel del mar?	9,8 m/s2	atenea::ciencia::facil
+�Qu� zar ruso orden� la edificaci�n de la catedral San Basilio en 1555 para conmemorar la victoria sobre los t�rtaros?	Iv�n IV, el terrible	atenea::historia_universal::facil
+¿Cuál es el metal más abundante en la corteza terrestre?	Aluminio	atenea::ciencia::media
+�Cual es el r�o mas largo del Asia?	Yangts�	atenea::geografia::facil
+¿Qué banda británica lideró la 'invasión británica' en los años 60?	The Beatles	atenea::musica::facil
+¿Cómo se llama el miedo a la oscuridad?	Nictofobia (o escotofobia)	atenea::terminologia::media
+�Cu�l es la capital de la Rep�blica Isl�mica de Mauritania?	Roma	atenea::geografia::facil
+¿Cuantos dientes permanentes tiene un ser humano adulto?	32	atenea::ciencia::facil
+En la serie de Pokemon �cual es el pokemon que siempre acompa�a a Ash en todos sus episodios?	Pikachu	atenea::otro::facil
+¿Cuál es la capital de Malaisia?	Kuala Lumpur	atenea::geografia::media
+�Qui�n fue la primera cient�fica de la historia?.	Agnocide	atenea::historia_universal::facil
+¿Qué imperio controló gran parte de Sudamérica antes de la conquista española?	Imperio Inca	atenea::historia_universal::facil
+�C�mo se llama el actor protagonista de "Solo en casa"?	Macaulay Culkin	atenea::otro::facil
+¿Qué movimiento artístico lideró Claude Monet?	Impresionismo	atenea::arte::facil
+¿Quién lideró la revolución rusa de 1917?	Vladimir Lenin	atenea::historia_universal::media
+�Cu�l es la cima m�s alta en la cordillera centroeuropea Sudetes?	Sriezka	atenea::geografia::facil
+La capital de Corea del sur es...	Se�l	atenea::geografia::facil
+¿Qué país tiene la mayor superficie del mundo?	Rusia	atenea::geografia::facil
+�En qu� continente nunca se ha realizado una edici�n de los Juegos Ol�mpicos?	�frica	atenea::deportes::facil
+¿Quién cruzó los Andes para liberar Chile y Perú?	José de San Martín	atenea::historia_argentina::facil
+¿Quién lideró el Ejército del Norte en las batallas de Tucumán y Salta?	Manuel Belgrano	atenea::historia_argentina::facil
+¿En qué siglo se inventó la imprenta de tipos móviles en Europa?	Siglo XV	atenea::historia_universal::media
+¿Qué civilización precolombina habitaba en el actual México central?	Azteca (o Mexica)	atenea::historia_universal::media
+¿Cuál es la montaña más alta de Europa?	Elbrus	atenea::geografia::media
+�Qu� esquiador sueco gan� dos medallas de oro en los Juegos Ol�mpicos de Invierno de 1890 en Lake Placid?	Ingemar Stenmark	atenea::deportes::facil
+Si un avión se estrella justo en la frontera entre Argentina y Chile, ¿dónde se entierran los sobrevivientes?	Los sobrevivientes no se entierran	atenea::logica::facil
+¿Qué número sigue en la secuencia: 1, 1, 2, 3, 5, 8, ...?	13 (secuencia de Fibonacci)	atenea::logica::facil
+¿Qué pesa más: un kilo de plomo o un kilo de plumas?	Pesan lo mismo: un kilogramo	atenea::logica::facil
+Si tenés 3 manzanas y te sacan 2, ¿cuántas manzanas tenés?	2 (las que te sacaron las tenés vos)	atenea::logica::facil
+¿Cuántos meses del año tienen 28 días?	Todos (los 12 meses tienen al menos 28 días)	atenea::logica::facil
+Un granjero tiene 17 ovejas y se le mueren todas menos 9, ¿cuántas le quedan?	9	atenea::logica::facil
+¿Cuántas veces se puede restar 5 de 25?	Una sola vez (después ya no es 25)	atenea::logica::facil
+Si un médico te da 3 pastillas y te dice que tomes una cada media hora, ¿en cuánto tiempo se terminan?	En 1 hora (0 min la primera; 30 min la segunda; 60 min la tercera)	atenea::logica::facil
+¿Qué se moja más cuanto más seca?	La toalla	atenea::logica::facil
+El padre de María tiene 5 hijas: Nana, Nene, Nini, Nono. ¿Cómo se llama la quinta?	María	atenea::logica::facil
+¿Qué es lo que se rompe sin que nadie lo toque, sin manos y sin fuerza?	Una promesa	atenea::logica::facil
+¿Cuál es el animal que camina con las patas en la cabeza?	El piojo	atenea::logica::facil
+Si un pastor tiene 15 ovejas y un rayo mata a todas menos 9, ¿cuántas ovejas vivas quedan?	9	atenea::logica::facil
+Dos padres y dos hijos van a pescar. Cada uno pesca un pez, pero solo traen 3 peces. ¿Cómo es posible?	Son tres personas: abuelo, padre e hijo	atenea::logica::facil
+Antes del Monte Everest, ¿cuál era la montaña más alta del mundo?	El Everest (ya existía aunque no se hubiera descubierto)	atenea::logica::facil
+¿Qué número sigue en la secuencia: 2, 6, 12, 20, 30, ...?	42 (n×(n+1): diferencias crecientes de 4+2n)	atenea::logica::media
+Tenés una vela, un fósforo y un diario. ¿Qué encendés primero?	El fósforo	atenea::logica::media
+En una carrera, si adelantás al que va segundo, ¿en qué posición quedás?	Segundo	atenea::logica::media
+¿Qué número sigue: 1, 4, 9, 16, 25, ...?	36 (cuadrados perfectos)	atenea::logica::media
+¿Cuántos cuadrados hay en un tablero de ajedrez?	204 (cuadrados de todos los tamaños posibles)	atenea::logica::media
+Si 5 máquinas tardan 5 minutos en hacer 5 piezas, ¿cuánto tardan 100 máquinas en hacer 100 piezas?	5 minutos	atenea::logica::media
+Un ladrillo pesa 1 kg más medio ladrillo. ¿Cuánto pesa el ladrillo?	2 kg	atenea::logica::media
+Un reloj de campanadas tarda 5 segundos en dar 6 campanadas. ¿Cuánto tarda en dar 12?	11 segundos (el tiempo es entre campanadas: 5 intervalos en 5 s = 1 s cada uno; 11 intervalos = 11 s)	atenea::logica::media
+¿Qué número sigue: 1, 11, 21, 1211, 111221, ...?	312211 (secuencia 'look and say')	atenea::logica::media
+Si tenés un cubo de 3×3×3 formado por 27 cubitos, y pintás todas las caras externas, ¿cuántos cubitos no tienen pintura en ninguna cara?	1 (el del centro)	atenea::logica::media
+Tres interruptores en una habitación controlan tres lámparas en otra. Solo podés entrar una vez a la habitación de las lámparas. ¿Cómo sabés cuál interruptor va con cada lámpara?	Encendés uno 10 min, lo apagás, encendés otro, y entrás: la caliente apagada es el primero, la encendida el segundo, la fría apagada el tercero	atenea::logica::media
+¿Qué número sigue: 0, 1, 1, 2, 4, 7, 13, ...?	24 (tribonacci: cada número es la suma de los tres anteriores)	atenea::logica::media
+En una isla hay dos tribus: una siempre dice la verdad y otra siempre miente. ¿Qué pregunta le harías a cualquiera para saber cuál es el camino correcto?	'Si le preguntara a alguien de la otra tribu cuál es el camino correcto, ¿qué me diría?' — y tomás el camino contrario	atenea::logica::media
+¿Cuántos triángulos hay en un pentágono con todas sus diagonales dibujadas?	35	atenea::logica::media
+Un barco tiene una escalera de 10 peldaños separados por 30 cm. El agua cubre 2 peldaños. Si la marea sube 1 metro, ¿cuántos peldaños quedan cubiertos?	2 (el barco sube con la marea)	atenea::logica::media
+¿Qué número sigue: 3, 3, 5, 4, 4, 3, 5, 5, 4, ...?	3 (número de letras de uno, dos, tres, cuatro...)	atenea::logica::media
+Si tenés 9 monedas iguales y una es más liviana, ¿cuántas pesadas en balanza necesitás como mínimo para encontrarla?	2 (dividís en 3 grupos de 3, pesás dos grupos)	atenea::logica::media
+¿Cuántas caras tiene un icosaedro?	20	atenea::logica::media
+Tres cajas: una tiene manzanas, otra naranjas, otra ambas. Las etiquetas están todas MAL. Sacás UNA fruta de UNA caja. ¿Podés etiquetar todas correctamente?	Sí: sacás de la caja etiquetada 'ambas' (como está mal, tiene solo un tipo), y deducís las otras	atenea::logica::media
+Estás en una habitación con dos puertas: una lleva a la libertad y otra a la muerte. Hay dos guardias: uno siempre miente y otro siempre dice la verdad. Podés hacer UNA pregunta a UNO. ¿Qué preguntás?	'Si le preguntara al otro guardia cuál es la puerta a la libertad, ¿qué me diría?' — y elegís la puerta contraria	atenea::logica::dificil
+¿Cuál es el menor número de cortes para dividir un cubo en 27 cubitos iguales, si podés reacomodar piezas entre cortes?	6 (se necesitan 6 cortes sin importar el reacomodo)	atenea::logica::dificil
+Tenés 12 monedas idénticas y una es diferente (no sabés si pesa más o menos). Con una balanza de dos platillos y solo 3 pesadas, ¿podés identificar la moneda falsa y si pesa más o menos?	Sí, dividiendo en grupos de 4 y usando un esquema lógico de descarte	atenea::logica::dificil
+¿Cuántos ceros tiene al final el factorial de 100 (100!)?	24	atenea::logica::dificil
+Cinco piratas deben repartir 100 monedas de oro. El más veterano propone un reparto y todos votan. Si no se aprueba por mayoría (incluyendo su voto), lo tiran al mar y el siguiente propone. ¿Qué propone el pirata más veterano para maximizar su ganancia?	98 para él, 0 para el segundo, 1 para el tercero, 0 para el cuarto, 1 para el quinto	atenea::logica::dificil
+¿Cuántos apretones de mano se dan si 10 personas se saludan todas entre sí?	45 (combinaciones de 10 tomados de a 2)	atenea::logica::dificil
+La paradoja del barbero: en un pueblo, el barbero afeita a todos los que no se afeitan a sí mismos. ¿Quién afeita al barbero?	Es una paradoja sin solución (formulada por Bertrand Russell)	atenea::logica::dificil
+¿Cuántos números primos hay entre 1 y 100?	25	atenea::logica::dificil
+Tenés 8 bolas de billar idénticas y una pesa un poco más. ¿Cuál es el mínimo de pesadas en una balanza de platillos para encontrarla?	2	atenea::logica::dificil
+En el problema de Monty Hall, si elegís una puerta y el presentador abre otra mostrando una cabra, ¿conviene cambiar de puerta?	Sí, cambiar da 2/3 de probabilidad de ganar	atenea::logica::dificil
+¿Qué número sigue: 1, 2, 4, 8, 16, 32, ...?	64 (potencias de 2)	atenea::logica::media
+Dos trenes separados por 200 km van uno hacia el otro a 100 km/h cada uno. Una mosca vuela entre ambos a 150 km/h. ¿Cuánto recorre la mosca antes de que choquen?	150 km (los trenes se encuentran en 1 hora)	atenea::logica::dificil
+¿Cuántas diagonales tiene un decágono (polígono de 10 lados)?	35	atenea::logica::dificil
+Si lanzás dos dados, ¿cuál es la probabilidad de que la suma sea 7?	1/6 (6 combinaciones favorables de 36 posibles)	atenea::logica::dificil
+La paradoja de Zenón de Aquiles y la tortuga plantea que Aquiles nunca alcanza a la tortuga. ¿Por qué es una paradoja y no un hecho?	Porque la suma infinita de intervalos converge a un valor finito, por lo que Aquiles sí la alcanza	atenea::logica::dificil
+Un caracol sube 3 metros de día y baja 2 metros de noche por una pared de 10 metros. ¿Cuántos días tarda en llegar arriba?	8 días (al séptimo día está a 7 m; al octavo día sube 3 y llega a 10)	atenea::logica::dificil
+¿Qué movimiento artístico se caracteriza por el uso de la perspectiva y el redescubrimiento de la antigüedad clásica?	Renacimiento	atenea::arte::facil
+¿En qué museo se encuentra la Mona Lisa?	Museo del Louvre (París)	atenea::arte::facil
+¿Qué artista es famoso por sus pinturas de latas de sopa Campbell?	Andy Warhol	atenea::arte::facil
+¿Quién esculpió el David de mármol expuesto en Florencia?	Miguel Ángel	atenea::arte::facil
+¿Qué pintor holandés se cortó parte de la oreja?	Vincent van Gogh	atenea::arte::facil
+¿Qué artista mexicana es conocida por sus autorretratos y sus cejas unidas?	Frida Kahlo	atenea::arte::facil
+¿Qué movimiento artístico representa la obra 'Impresión: sol naciente' de Monet?	Impresionismo	atenea::arte::facil
+¿Quién diseñó la cúpula de la Catedral de Florencia (Santa María del Fiore)?	Filippo Brunelleschi	atenea::arte::facil
+¿Qué técnica pictórica usa pequeños puntos de color para formar una imagen, típica de Seurat?	Puntillismo	atenea::arte::media
+¿Qué pintor argentino es famoso por su serie 'Juanito Laguna'?	Antonio Berni	atenea::arte::media
+¿Qué movimiento artístico lideró André Breton y se basa en el subconsciente y los sueños?	Surrealismo	atenea::arte::media
+¿Quién pintó 'La joven de la perla', también conocida como la 'Mona Lisa del Norte'?	Johannes Vermeer	atenea::arte::media
+¿Qué movimiento artístico se caracteriza por formas geométricas y múltiples perspectivas simultáneas?	Cubismo	atenea::arte::media
+¿Quién pintó los famosos murales del Palacio Nacional de México sobre la historia mexicana?	Diego Rivera	atenea::arte::media
+¿Qué arquitecto diseñó el Museo Guggenheim de Nueva York?	Frank Lloyd Wright	atenea::arte::media
+¿Qué pintor es autor de 'El jardín de las delicias'?	El Bosco (Hieronymus Bosch)	atenea::arte::media
+¿Qué artista argentino es conocido por sus pinturas neocriollas y sus escrituras inventadas?	Xul Solar	atenea::arte::media
+¿Qué técnica usaba Leonardo da Vinci para lograr transiciones suaves entre colores y tonos?	Sfumato	atenea::arte::media
+¿Qué movimiento artístico de principios del siglo XX se caracteriza por el uso de colores intensos y puros?	Fauvismo	atenea::arte::media
+¿Quién diseñó el edificio de la Ópera de Sídney?	Jørn Utzon	atenea::arte::media
+¿En qué ciudad está el museo El Prado, donde se exhibe 'Las meninas' de Velázquez?	Madrid	atenea::arte::media
+¿Qué escultor colombiano es famoso por sus figuras voluminosas y redondeadas?	Fernando Botero	atenea::arte::media
+¿Quién pintó 'La ronda nocturna'?	Rembrandt	atenea::arte::dificil
+¿Qué movimiento artístico italiano de principios del siglo XX exaltaba la velocidad y la tecnología?	Futurismo	atenea::arte::dificil
+¿Qué pintor español es autor de 'El entierro del Conde de Orgaz'?	El Greco	atenea::arte::dificil
+¿Qué artista es conocido por envolver edificios y paisajes con tela?	Christo (y Jeanne-Claude)	atenea::arte::dificil
+¿Quién pintó el tríptico 'Tres estudios de Lucian Freud' que se vendió por más de 142 millones de dólares?	Francis Bacon	atenea::arte::dificil
+¿Qué arquitecto brasileño diseñó los principales edificios de Brasilia?	Oscar Niemeyer	atenea::arte::dificil
+¿Qué movimiento artístico abstracto lideró Piet Mondrian con líneas rectas y colores primarios?	Neoplasticismo (o De Stijl)	atenea::arte::dificil
+¿Qué pintor renacentista es autor de 'La escuela de Atenas' en el Vaticano?	Rafael Sanzio	atenea::arte::dificil
+¿Qué premio Nobel de Literatura ganó Gabriel García Márquez?	El de 1982	atenea::literatura::facil
+¿Quién escribió 'El túnel'?	Ernesto Sábato	atenea::literatura::facil
+¿De qué nacionalidad era el poeta Pablo Neruda?	Chilena	atenea::literatura::facil
+¿Quién es el autor de 'El Aleph' y 'El jardín de senderos que se bifurcan'?	Jorge Luis Borges	atenea::literatura::facil
+¿Qué obra literaria argentina es considerada la principal del género gauchesco?	Martín Fierro (de José Hernández)	atenea::literatura::facil
+¿Quién escribió 'Veinte poemas de amor y una canción desesperada'?	Pablo Neruda	atenea::literatura::media
+¿Qué movimiento literario latinoamericano de los años 60 incluye a García Márquez y Cortázar?	El Boom latinoamericano	atenea::literatura::media
+¿Quién escribió 'La invención de Morel', obra que influyó en Borges y en la serie Lost?	Adolfo Bioy Casares	atenea::literatura::media
+¿Qué poetisa argentina escribió 'Voy a dormir' antes de suicidarse en Mar del Plata?	Alfonsina Storni	atenea::literatura::media
+¿Qué autor argentino escribió 'Operación Masacre' como pionero del periodismo narrativo?	Rodolfo Walsh	atenea::literatura::media
+¿Quién ganó el Premio Nobel de Literatura en 2010 siendo el primer latinoamericano en 20 años?	Mario Vargas Llosa	atenea::literatura::media
+¿Qué autora chilena escribió 'La casa de los espíritus'?	Isabel Allende	atenea::literatura::media
+¿Qué escritor argentino es autor de 'Los siete locos' y 'El juguete rabioso'?	Roberto Arlt	atenea::literatura::media
+¿Qué técnica literaria caracteriza a 'Cien años de soledad' mezclando lo fantástico con lo cotidiano?	Realismo mágico	atenea::literatura::media
+¿Quién fue la primera mujer latinoamericana en ganar el Nobel de Literatura (1945)?	Gabriela Mistral	atenea::literatura::media
+¿Qué poeta mexicano ganó el Nobel de Literatura en 1990 y escribió 'El laberinto de la soledad'?	Octavio Paz	atenea::literatura::dificil
+¿Qué escritora argentina fue esposa de Bioy Casares y autora de 'La furia' y 'Cornelia frente al espejo'?	Silvina Ocampo	atenea::literatura::dificil
+¿Qué autor uruguayo escribió 'Las venas abiertas de América Latina'?	Eduardo Galeano	atenea::literatura::dificil
+¿Qué escritor español ganó el Nobel en 1989 y es autor de 'La familia de Pascual Duarte'?	Camilo José Cela	atenea::literatura::dificil
+¿Qué autor mexicano escribió 'Pedro Páramo' e influyó profundamente en el realismo mágico?	Juan Rulfo	atenea::literatura::dificil
