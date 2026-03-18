@@ -1,0 +1,670 @@
+id,pregunta,respuesta,categoria,dificultad,asignado_a,estado,notas,fecha_revision,fuente
+156,�En d�nde desemboca el r�o europeo Bug Meridional?,Mar Negro,geografia,facil,todos,no_sabia,,2026-03-17,trivial2b
+206,�Que tipo de gobierno se implanta en Francia en 1791 al comienzo de la revoluci�n francesa?,Monarqu�a Constitucional,historia_universal,facil,todos,no_sabia,,2026-03-17,trivial2b
+222,¿En qué provincia se encuentra la ciudad de Mar del Plata?,Buenos Aires,geografia,facil,todos,sabia,,2026-03-17,preguntados_utn
+317,¿Quién fue Julio César?,Dictador y general romano,historia_universal,facil,todos,sabia,,2026-03-17,opentriviaqa
+494,¿Cómo se llama a los habitantes de Buenos Aires (ciudad)?,Porteños,geografia,facil,todos,sabia,,2026-03-17,generada
+346,¿Quién formuló la teoría de la relatividad?,Albert Einstein,ciencia,facil,todos,sabia,,2026-03-17,opentriviaqa
+545,¿Qué instrumento se usa para medir la presión atmosférica?,Barómetro,terminologia,media,santiago,sabia,,2026-03-17,generada
+338,¿Cuál fue la primera civilización de Mesopotamia?,Sumeria,historia_universal,media,marcos,sabia,,2026-03-17,opentriviaqa
+40,¿Cual de estos compuestos orgánicos NO es oxigenado?,Aminas,ciencia,facil,todos,no_sabia,,2026-03-17,trivial2b
+231,¿Qué famoso autor argentino escribió 'El Aleph'?,Jorge Luis Borges,historia_argentina,facil,todos,sabia,,2026-03-17,preguntados_utn
+305,¿Quién fue Napoleón Bonaparte?,Emperador de Francia,historia_universal,facil,todos,sabia,,2026-03-17,opentriviaqa
+129,�A qui�n se considera el Rey del Pop?,Michael Jackson,otro,facil,todos,sabia,,2026-03-17,trivial2b
+462,"¿Qué ciudad es sagrada para el judaísmo, el cristianismo y el Islam?",Jerusalén,otro,facil,todos,sabia,,2026-03-17,opentriviaqa
+396,¿De qué país era originario Mozart?,Austria (Salzburgo),musica,facil,todos,sabia,,2026-03-17,opentriviaqa
+504,¿Cómo se llama el mar interior entre Europa y África?,Mar Mediterráneo,geografia,facil,todos,sabia,,2026-03-17,generada
+286,¿Qué mar baña las costas de Croacia?,Mar Adriático,geografia,media,tiziano,no_sabia,,2026-03-17,opentriviaqa
+308,¿Qué tratado puso fin a la Primera Guerra Mundial?,Tratado de Versalles,historia_universal,media,marcos,no_sabia,,2026-03-17,opentriviaqa
+638,¿Qué filósofo declaró que 'Dios ha muerto'?,Friedrich Nietzsche,filosofia,facil,todos,no_sabia,,2026-03-17,generada
+282,¿Cuál es la capital de Irak?,Bagdad,geografia,media,tiziano,no_sabia,,2026-03-17,opentriviaqa
+464,¿Quién fue Mahoma?,Profeta fundador del Islam,otro,facil,todos,no_sabia,,2026-03-17,opentriviaqa
+669,¿Quién era Urano en la mitología griega?,"El dios primordial del cielo, esposo de Gea",mitologia,media,marcos,no_sabia,,2026-03-17,generada
+400,¿En qué ciudad se originó el tango?,Buenos Aires (y Montevideo),musica,facil,todos,no_sabia,,2026-03-17,opentriviaqa
+580,¿Quién propuso el principio de incertidumbre?,Werner Heisenberg,ciencia,dificil,santiago,no_sabia,,2026-03-17,generada
+223,¿En qué ciudad se celebra anualmente el Festival Nacional de la Vendimia?,Mendoza,geografia,facil,todos,no_sabia,,2026-03-17,preguntados_utn
+434,¿Quién escribió 'La Divina Comedia'?,Dante Alighieri,literatura,facil,todos,no_sabia,,2026-03-17,opentriviaqa
+469,¿En qué país se originó el budismo?,India (actual Nepal/India),otro,media,todos,no_sabia,,2026-03-17,opentriviaqa
+83,"�De qu� jugador de f�tbol el ex velocista Ben Johnson fue entrenador personal, en 1997?",Maradona,deportes,facil,todos,nueva,,,trivial2b
+123,"�En qu� a�o se estren� la pel�cula de Disney ""Pinocho""?",1940,otro,facil,todos,nueva,,,trivial2b
+42,¿De que tipo de reptiles surgieron los mamíferos?,Terápsidos,ciencia,facil,todos,nueva,,,trivial2b
+536,¿Qué estudia la entomología?,Los insectos,terminologia,media,santiago,nueva,,,generada
+503,¿Qué estrecho separa la isla de Gran Bretaña del continente europeo?,Estrecho de Dover (Paso de Calais),geografia,media,tiziano,nueva,,,generada
+340,¿En qué año fue asesinado John F. Kennedy?,1963,historia_universal,media,marcos,nueva,,,opentriviaqa
+68,�Qu� selecci�n latinoamericana de Hockey sobre c�sped femenino obtuvo medallas en las �ltimas 4 olimpiadas?,Argentina,deportes,facil,todos,nueva,,,trivial2b
+29,¿Cual es el hueso mas largo en el cuerpo humano?,Fémur,ciencia,facil,todos,nueva,,,trivial2b
+393,¿Qué científico propuso el modelo heliocéntrico del universo?,Nicolás Copérnico,ciencia,media,santiago,nueva,,,opentriviaqa
+380,¿Cuántos litros de sangre tiene aproximadamente un adulto?,5 litros,ciencia,media,santiago,nueva,,,opentriviaqa
+447,¿Quién pintó el techo de la Capilla Sixtina?,Miguel Ángel,arte,facil,todos,nueva,,,opentriviaqa
+76,�Qui�n fund� en 1960 los juegos Paral�mpicos?,Ludwig Guttmann,deportes,facil,todos,nueva,,,trivial2b
+518,¿Cuál es el único país de Centroamérica cuya lengua oficial es el inglés?,Belice,geografia,media,tiziano,nueva,,,generada
+35,¿El corazón es miogenético ¿que significa eso?,Que se excita a si mismo,ciencia,facil,todos,nueva,,,trivial2b
+332,¿Quién fue Martín Lutero?,Reformador religioso que inició la Reforma Protestante,historia_universal,media,marcos,nueva,,,opentriviaqa
+212,Napole�n Bonaparte nombr� a su hermano Jos� I rey �de qu� pa�s?,Espa�a,historia_universal,facil,todos,nueva,,,trivial2b
+232,¿En qué ciudad se encuentra el Obelisco?,Buenos Aires,geografia,facil,todos,sabia,,2026-03-17,preguntados_utn
+560,¿Qué glándula regula el metabolismo mediante hormonas tiroideas?,Tiroides,ciencia,media,santiago,nueva,,,generada
+298,¿En qué año terminó la Segunda Guerra Mundial?,1945,historia_universal,facil,todos,nueva,,,opentriviaqa
+170,�En qu� continente se encuentra el r�o Tocantins?,Am�rica,geografia,facil,todos,nueva,,,trivial2b
+382,¿Cuál es la partícula fundamental de la luz?,Fotón,ciencia,media,santiago,sabia,,2026-03-17,opentriviaqa
+205,�Qui�n fue el primer emperador del Sacro Imperio Romano Germ�nico?,Carlomagno,historia_universal,facil,todos,nueva,,,trivial2b
+91,Qui�n es el creador y cual fue la fecha de lanzamiento de Hora De Aventuras,"Pendleton Ward, 2010",otro,facil,todos,nueva,,,trivial2b
+48,Kyong-go es un t�rmino utilizado en Taekwondo. �Qu� denomina?,Un tipo de penalizaci�n,deportes,facil,todos,nueva,,,trivial2b
+491,¿Cuál es la montaña más alta del mundo?,Everest,geografia,facil,todos,nueva,,,generada
+467,¿Cuál es el símbolo del judaísmo?,Estrella de David,otro,facil,todos,nueva,,,opentriviaqa
+337,¿Qué faraón egipcio es famoso por su tumba descubierta intacta en 1922?,Tutankamón,historia_universal,facil,todos,nueva,,,opentriviaqa
+425,¿Quién escribió 'Don Quijote de la Mancha'?,Miguel de Cervantes,literatura,facil,todos,nueva,,,opentriviaqa
+328,¿Qué civilización inventó la escritura cuneiforme?,Sumeria,historia_universal,dificil,marcos,sabia,,2026-03-17,opentriviaqa
+265,¿Cuál es la capital de Egipto?,El Cairo,geografia,facil,todos,nueva,,,opentriviaqa
+290,¿Cuál es la capital de Finlandia?,Helsinki,geografia,media,tiziano,nueva,,,opentriviaqa
+525,¿Cómo se llama la afición de coleccionar posavasos?,Tegestofilia,terminologia,dificil,santiago,nueva,,,generada
+310,¿Qué imperio dominó gran parte del Medio Oriente hasta 1922?,Imperio Otomano,historia_universal,media,marcos,sabia,,2026-03-17,opentriviaqa
+413,¿Qué compositor quedó completamente sordo y siguió componiendo?,Ludwig van Beethoven,musica,facil,todos,nueva,,,opentriviaqa
+442,¿Quién escribió 'La metamorfosis'?,Franz Kafka,literatura,facil,todos,nueva,,,opentriviaqa
+145,�Cual es la cadena monta�osa considerada m�s antigua y de menor relieve de entre las siguientes?,C�ucaso,geografia,facil,todos,nueva,,,trivial2b
+366,¿Qué gas forma la mayor parte de la atmósfera terrestre?,Nitrógeno,ciencia,media,santiago,nueva,,,opentriviaqa
+649,¿Cuál es el equivalente romano de Hermes?,Mercurio,mitologia,facil,todos,nueva,,,generada
+120,�Como se llama el perro de Mickey Mouse?,Pluto,otro,facil,todos,nueva,,,trivial2b
+473,¿Cuál es la sede de gobierno de Bolivia (capital de facto)?,La Paz,geografia,media,tiziano,nueva,,,generada
+359,¿Cuál es la fórmula química del agua?,H₂O,ciencia,facil,todos,nueva,,,opentriviaqa
+276,¿Qué país europeo tiene más habitantes?,Rusia,geografia,media,tiziano,sabia,,2026-03-17,opentriviaqa
+350,¿Cuántos cromosomas tiene una célula humana?,46,ciencia,media,santiago,nueva,,,opentriviaqa
+572,¿Cuál es la segunda ley de Kepler?,Los planetas barren áreas iguales en tiempos iguales (ley de las áreas),ciencia,dificil,santiago,no_sabia,,2026-03-17,generada
+236,¿Cuál es la capital de Australia?,Canberra,geografia,facil,todos,nueva,,,opentriviaqa
+98,En la serie Hora De Aventuras �cuantos a�os tiene Finn?,13,otro,facil,todos,nueva,,,trivial2b
+148,�Cu�l de estos tipos de climas no se encuentra entre los m�s habituales en Europa?,Ecuatorial,geografia,facil,todos,nueva,,,trivial2b
+267,¿Cuál es el punto más profundo del océano?,Fosa de las Marianas,geografia,media,tiziano,nueva,,,opentriviaqa
+180,�Cu�ntos a�os duro la guerra de los 100 a�os?,116 a�os,historia_universal,facil,todos,nueva,,,trivial2b
+459,¿Cuál es el libro sagrado del Islam?,Corán,otro,facil,todos,nueva,,,opentriviaqa
+164,�Qu� sistema monta�oso se extiende a lo largo de la frontera septentrional de la Rep�blica Checa?,Sudetes,geografia,facil,todos,nueva,,,trivial2b
+61,�Cu�l es la primera naci�n que debe ingresar en el estadio en la ceremonia de apertura de cada edici�n de los Juegos Ol�mpicos?,Grecia,deportes,facil,todos,nueva,,,trivial2b
+323,¿Qué imperio fue derrotado en la Batalla de Waterloo?,El Imperio francés de Napoleón,historia_universal,facil,todos,nueva,,,opentriviaqa
+295,¿En qué año cayó el Muro de Berlín?,1989,historia_universal,facil,todos,nueva,,,opentriviaqa
+663,¿Cómo se llamaba la esposa de Odiseo que lo esperó 20 años?,Penélope,mitologia,media,marcos,nueva,,,generada
+220,¿Quién fue el primer presidente de Argentina?,Bernardino Rivadavia,historia_argentina,facil,todos,nueva,,,preguntados_utn
+421,¿Qué tipo de voz masculina es la más grave?,Bajo,musica,media,tiziano,nueva,,,opentriviaqa
+601,¿En qué batalla San Martín derrotó a los realistas en Chile?,Batalla de Maipú (1818),historia_argentina,media,todos,nueva,,,generada
+6,Aproximadamente ¿cuántos pelos tenemos en la cabeza?,Entre 100.000 y 200.000,ciencia,facil,todos,nueva,,,trivial2b
+616,¿Qué presidente privatizó la mayoría de las empresas estatales en los 90?,Carlos Menem,historia_argentina,facil,todos,nueva,,,generada
+629,¿Qué filósofo fue maestro de Alejandro Magno?,Aristóteles,filosofia,facil,todos,nueva,,,generada
+167,�Cu�les son los colores de la bandera de Letonia?,Rojo y blanco,geografia,facil,todos,nueva,,,trivial2b
+397,¿Quién compuso la Novena Sinfonía con el 'Himno a la Alegría'?,Ludwig van Beethoven,musica,facil,todos,sabia,,2026-03-17,opentriviaqa
+365,¿Qué tipo de animal es una ballena?,Mamífero,ciencia,facil,todos,nueva,,,opentriviaqa
+33,¿Como se llama la arteria mas grande del cuerpo humano?,Aorta,ciencia,facil,todos,nueva,,,trivial2b
+376,¿Cuál es la temperatura de ebullición del agua al nivel del mar?,100 °C,ciencia,facil,todos,nueva,,,opentriviaqa
+287,¿Cuál es la capital de Hungría?,Budapest,geografia,facil,todos,nueva,,,opentriviaqa
+196,�De qu� color era la cinta de cuero que ataba las varas de los fasces romanos?,Rojo,historia_universal,facil,todos,nueva,,,trivial2b
+237,¿Cuál es la capital de Bélgica?,Bruselas,geografia,facil,todos,nueva,,,opentriviaqa
+522,¿Cómo se llama la afición de coleccionar libros (especialmente raros)?,Bibliofilia,terminologia,media,santiago,no_sabia,,2026-03-17,generada
+139,La capital del Congo es...,Kinshasa,geografia,facil,todos,nueva,,,trivial2b
+304,¿Qué civilización construyó las pirámides de Giza?,Egipcia,historia_universal,facil,todos,nueva,,,opentriviaqa
+240,¿Cuál es la capital de Japón?,Tokio,geografia,facil,todos,nueva,,,opentriviaqa
+150,�Cual de estos r�os americanos desemboca en el �rtico?,Yuk�n,geografia,facil,todos,no_sabia,,2026-03-17,trivial2b
+356,¿Qué órgano produce la insulina?,Páncreas,ciencia,media,santiago,nueva,,,opentriviaqa
+529,¿Cómo se llama el miedo a las alturas?,Acrofobia,terminologia,facil,todos,no_sabia,,2026-03-17,generada
+3,Las estrellas agrupadas forman...,Constelaciones,ciencia,facil,todos,nueva,,,trivial2b
+443,¿Quién escribió 'Las flores del mal'?,Charles Baudelaire,literatura,media,marcos,nueva,,,opentriviaqa
+334,¿Qué potencias formaron el Eje en la Segunda Guerra Mundial?,"Alemania, Italia y Japón",historia_universal,media,marcos,no_sabia,,2026-03-17,opentriviaqa
+570,¿Qué establece la primera ley de la termodinámica?,"La energía no se crea ni se destruye, solo se transforma",ciencia,media,santiago,nueva,,,generada
+476,¿Cuál es la capital de Bután?,Timbu,geografia,dificil,tiziano,nueva,,,generada
+257,¿Cuál es la montaña más alta de África?,Kilimanjaro,geografia,media,tiziano,nueva,,,opentriviaqa
+635,¿Qué filósofo escribió la 'Crítica de la razón pura'?,Immanuel Kant,filosofia,media,marcos,nueva,,,generada
+650,¿Cuál es el equivalente romano de Atenea?,Minerva,mitologia,media,marcos,nueva,,,generada
+202,�A qu� general independentista cedi� el mando de sus tropas Manuel Belgrano en 1814?,Jos� de San Mart�n,historia_universal,facil,todos,nueva,,,trivial2b
+70,"�De qu� pa�s es originario el Curling, practicado en los Juegos Ol�mpicos de Invierno?",Escocia y Pa�ses Bajos,deportes,facil,todos,nueva,,,trivial2b
+439,¿Quién escribió 'Martín Fierro'?,José Hernández,literatura,facil,todos,nueva,,,opentriviaqa
+209,"�Qui�n lider� la resistencia que derrot� al ej�rcito chino en 1428, restaurando la independencia de Vietnam?",Le Loi,historia_universal,facil,todos,no_sabia,,2026-03-17,trivial2b
+368,¿Cuál es el órgano más grande del cuerpo humano?,La piel,ciencia,facil,todos,nueva,,,opentriviaqa
+7,¿Cuantos metros miden los intestinos?,Entre 8 y 9,ciencia,facil,todos,nueva,,,trivial2b
+584,¿Cuántos estados de la materia existen clásicamente?,"3 (sólido, líquido, gaseoso); 4 si se cuenta el plasma",ciencia,facil,todos,nueva,,,generada
+102,En la serie de los Simpsons �que est� escrito en las escaleras de la comisar�a?,El Barto,otro,facil,todos,nueva,,,trivial2b
+423,¿Quién fue Astor Piazzolla?,Compositor y bandoneonista argentino de tango nuevo,musica,facil,todos,nueva,,,opentriviaqa
+314,¿Qué país lanzó las bombas atómicas sobre Hiroshima y Nagasaki?,Estados Unidos,historia_universal,facil,todos,sabia,,2026-03-17,opentriviaqa
+659,¿Cuántos trabajos tuvo que completar Heracles (Hércules)?,12,mitologia,facil,todos,nueva,,,generada
+573,¿Qué molécula es la principal fuente de energía celular?,ATP (adenosín trifosfato),ciencia,media,santiago,nueva,,,generada
+311,¿Quién fue el primer presidente de los Estados Unidos?,George Washington,historia_universal,facil,todos,nueva,,,opentriviaqa
+67,"Despu�s de Estados Unidos, �qu� selecci�n se encuentra segunda en el medallero ol�mpico de Baloncesto?",Uni�n Sovi�tica,deportes,facil,todos,nueva,,,trivial2b
+389,¿Qué invento se atribuye a Nikola Tesla?,La corriente alterna,ciencia,media,santiago,nueva,,,opentriviaqa
+535,¿Cómo se llama el miedo a hablar en público?,Glosofobia,terminologia,dificil,santiago,nueva,,,generada
+596,¿Qué presidente asumió tras la caída de la dictadura en 1983?,Raúl Alfonsín,historia_argentina,facil,todos,nueva,,,generada
+114,"�Qui�n es Luigi, el personaje que siempre acompa�a a Mario Bross en casi todas sus aventuras?",Su hermano,otro,facil,todos,nueva,,,trivial2b
+321,¿En qué siglo se produjeron las Cruzadas?,Siglos XI al XIII,historia_universal,media,marcos,nueva,,,opentriviaqa
+592,¿Qué presidente argentino impulsó la 'Conquista del Desierto'?,Julio Argentino Roca,historia_argentina,media,todos,nueva,,,generada
+188,�Cuando termin� la segunda guerra mundial?,1945,historia_universal,facil,todos,nueva,,,trivial2b
+651,¿Cuál es el equivalente romano de Artemisa?,Diana,mitologia,media,marcos,nueva,,,generada
+642,¿Qué filósofo escribió 'Ser y tiempo'?,Martin Heidegger,filosofia,dificil,marcos,nueva,,,generada
+218,"De estas formas de gobierno, �en cual de estas el poder lo comparten cuatro personas?",Tetrarqu�a,historia_universal,facil,todos,nueva,,,trivial2b
+174,�Cu�l es el r�o m�s largo de Lituania?,Niemen,geografia,facil,todos,nueva,,,trivial2b
+138,La capital de Colombia es...,Bogot�,geografia,facil,todos,nueva,,,trivial2b
+354,¿Quién es considerado el padre de la computación moderna?,Alan Turing,ciencia,media,santiago,sabia,,2026-03-17,opentriviaqa
+58,�Qui�n dirigi� la ceremonia de apertura de los Juegos Ol�mpicos de Londres 2012?,Danny Boyle,deportes,facil,todos,nueva,,,trivial2b
+21,¿En donde se encuentra el gametofito en la amapola?,En el interior del óvulo,ciencia,facil,todos,nueva,,,trivial2b
+471,¿Cuál es la capital de Sri Lanka?,Sri Jayawardenepura Kotte,geografia,dificil,tiziano,nueva,,,generada
+661,¿Qué héroe griego ideó el caballo de Troya?,Odiseo (Ulises),mitologia,media,marcos,nueva,,,generada
+266,¿Qué cordillera separa Europa de Asia?,Montes Urales,geografia,media,tiziano,nueva,,,opentriviaqa
+200,�C�mo se llamaban en la mitolog�a griega las divinidades inspiradoras de las artes?,Musas,historia_universal,facil,todos,nueva,,,trivial2b
+39,¿Cual de estos compuestos tiene una menos cantidad de átomos de carbono?,Hexano,ciencia,facil,todos,nueva,,,trivial2b
+168,�En qu� pa�s nace el r�o Kabul?,Afganist�n,geografia,facil,todos,nueva,,,trivial2b
+344,¿Qué país fue el primero en usar armas nucleares en un conflicto bélico?,Estados Unidos,historia_universal,facil,todos,nueva,,,opentriviaqa
+597,¿En qué año se libró la Batalla de San Lorenzo?,1813,historia_argentina,media,todos,nueva,,,generada
+152,�A qu� pa�s pertenece la isla de Eubea?,Grecia,geografia,facil,todos,nueva,,,trivial2b
+576,¿Qué científico descubrió los rayos X?,Wilhelm Röntgen,ciencia,media,santiago,nueva,,,generada
+1,¿Cual es el planeta mas grande del sistema solar?,Júpiter,ciencia,facil,todos,nueva,,,trivial2b
+128,�C�mo se llama el protagonista de la saga Indiana Jones?,Harrison Ford,otro,facil,todos,nueva,,,trivial2b
+342,¿Quién fue Gengis Kan?,Fundador y primer emperador del Imperio Mongol,historia_universal,media,marcos,sabia,,2026-03-17,opentriviaqa
+486,¿Cuál es el río más largo de Oceanía?,Murray,geografia,dificil,tiziano,no_sabia,,2026-03-17,generada
+207,�C�mo se llama el libro sagrado propio de la tradici�n cat�lica?,La Biblia,historia_universal,facil,todos,nueva,,,trivial2b
+57,�Cu�l es el �nico deporte acu�tico que estuvo presente en todos los Juegos Ol�mpicos?,Nataci�n,deportes,facil,todos,nueva,,,trivial2b
+106,�Como se llama el mat�n de Phineas y Ferb?,Buford,otro,facil,todos,nueva,,,trivial2b
+256,¿Cuál es el país más pequeño del mundo?,Ciudad del Vaticano,geografia,facil,todos,nueva,,,opentriviaqa
+92,En la serie Hora De Aventuras �Como se llama la princesa chicle?,Bonibelle,otro,facil,todos,nueva,,,trivial2b
+78,"�De qu� nacionalidad es el campe�n ol�mpico de esqu�, en 1972, Gustavo Thoeni?",Italiano,deportes,facil,todos,nueva,,,trivial2b
+253,¿Cuál es el lago más grande del mundo por superficie?,Mar Caspio,geografia,media,tiziano,sabia,,2026-03-17,opentriviaqa
+555,¿Cuál es el símbolo químico del plomo?,Pb,ciencia,media,santiago,no_sabia,,2026-03-17,generada
+122,�En que a�o apareci� el libro de Heidi?,1880,otro,facil,todos,no_sabia,,2026-03-17,trivial2b
+405,¿De qué país es originario el flamenco?,España,musica,facil,todos,nueva,,,opentriviaqa
+526,¿Cómo se llama la afición de coleccionar cajas de fósforos?,Filumenia,terminologia,dificil,santiago,nueva,,,generada
+195,"�Qu� papa confirm� la creaci�n de la Orden de Santa Mar�a de la Merced, para la redenci�n de los cautivos?",Gregorio IX,historia_universal,facil,todos,nueva,,,trivial2b
+105,En la serie de los Simpsons �como se apellida el tabernero Moe?,Sislark,otro,facil,todos,nueva,,,trivial2b
+552,¿Cuál es el símbolo químico del sodio?,Na,ciencia,media,santiago,sabia,,2026-03-17,generada
+277,¿Cuál es la capital de Filipinas?,Manila,geografia,media,tiziano,nueva,,,opentriviaqa
+173,�En qu� pa�s se encuentra la ciudad de Avi��n?,Francia,geografia,facil,todos,nueva,,,trivial2b
+249,¿Cuál es la capital de Brasil?,Brasilia,geografia,facil,todos,nueva,,,opentriviaqa
+355,¿Cuál es la unidad de medida de la fuerza en el SI?,Newton,ciencia,facil,todos,nueva,,,opentriviaqa
+74,�Cu�les fueron los primeros Juegos Ol�mpicos en ser transmitidos por televisi�n?,Berl�n 1936,deportes,facil,todos,nueva,,,trivial2b
+519,¿Cuál es el punto más bajo de la superficie terrestre?,Orilla del Mar Muerto,geografia,media,tiziano,no_sabia,,2026-03-17,generada
+507,¿Qué país tiene la frontera terrestre más larga del mundo?,Canadá (con Estados Unidos) o China (por número de vecinos: 14),geografia,dificil,tiziano,nueva,,,generada
+430,¿Quién escribió 'El Principito'?,Antoine de Saint-Exupéry,literatura,facil,todos,nueva,,,opentriviaqa
+499,¿Cómo se llama a los habitantes de Mónaco?,Monegascos,geografia,media,tiziano,nueva,,,generada
+472,¿Cuál es la capital constitucional de Bolivia?,Sucre,geografia,dificil,tiziano,nueva,,,generada
+46,�C�mo se llama la jugadora de v�ley cubana que obtuvo m�s medallas ol�mpicas?,Ana Ibis Fern�ndez,deportes,facil,todos,nueva,,,trivial2b
+263,¿En qué continente se encuentra el río Amazonas?,América del Sur,geografia,facil,todos,nueva,,,opentriviaqa
+72,"�Qui�n obtuvo la medalla de oro en ciclismo en los juegos de Atlanta 1996, en la prueba contrarreloj individual?",Miguel Indur�in,deportes,facil,todos,no_sabia,,2026-03-17,trivial2b
+630,¿Qué filósofo medieval escribió 'La ciudad de Dios'?,San Agustín de Hipona,filosofia,media,marcos,no_sabia,,2026-03-17,generada
+589,¿Cuál es la constante gravitacional universal expresada con la letra?,G,ciencia,media,santiago,sabia,,2026-03-17,generada
+585,¿Qué fuerza mantiene a los planetas en órbita alrededor del Sol?,Fuerza gravitatoria,ciencia,facil,todos,nueva,,,generada
+419,¿Qué instrumento es el 'rey de los instrumentos'?,Órgano,musica,media,tiziano,nueva,,,opentriviaqa
+509,¿Qué país africano tiene forma de cuerno?,Somalia (Cuerno de África),geografia,media,tiziano,nueva,,,generada
+90,En la serie Hora De Aventuras �Cuantas veces muri� Jake?,1,otro,facil,todos,nueva,,,trivial2b
+531,¿Cómo se llama el miedo al agua?,Hidrofobia,terminologia,media,santiago,nueva,,,generada
+59,"�Cu�ntos a�os ten�a la gimnasta Nadia Comaneci cuando encant� al mundo en los Juegos Ol�mpicos de Canad�, en 1976?",14,deportes,facil,todos,nueva,,,trivial2b
+244,¿Cuál es la capital de Suecia?,Estocolmo,geografia,facil,todos,nueva,,,opentriviaqa
+647,¿Cuál es el equivalente romano de Afrodita?,Venus,mitologia,facil,todos,nueva,,,generada
+192,�C�mo se llamaba en la Espa�a del 1400 a los jud�os que por coerci�n o presi�n social se hab�an convertido al cristianismo?,Marranos,historia_universal,facil,todos,nueva,,,trivial2b
+79,�C�mo se llama la deportista que obtuvo m�s medallas ol�mpicas en la disciplina Ciclismo de ruta?,Leontien Van Moorsel,deportes,facil,todos,nueva,,,trivial2b
+245,¿Cuál es la capital de Tailandia?,Bangkok,geografia,media,tiziano,sabia,,2026-03-17,opentriviaqa
+615,¿En qué año se produjo la crisis conocida como 'el Rodrigazo'?,1975,historia_argentina,dificil,todos,nueva,,,generada
+234,¿Quién escribió el poema épico 'Martín Fierro'?,José Hernández,historia_argentina,facil,todos,nueva,,,preguntados_utn
+307,¿Quién fue Mahatma Gandhi?,Líder independentista de la India,historia_universal,facil,todos,nueva,,,opentriviaqa
+484,¿Cuál es el río más largo de América del Sur?,Amazonas,geografia,facil,todos,nueva,,,generada
+548,¿Qué instrumento óptico se usa para observar objetos muy pequeños?,Microscopio,terminologia,facil,todos,nueva,,,generada
+657,¿Qué gorgona convertía en piedra a quien la mirara?,Medusa,mitologia,facil,todos,nueva,,,generada
+352,¿Cuál es el hueso más largo del cuerpo humano?,Fémur,ciencia,facil,todos,nueva,,,opentriviaqa
+309,¿En qué año se firmó la Carta Magna en Inglaterra?,1215,historia_universal,media,marcos,no_sabia,,2026-03-17,opentriviaqa
+567,¿Cuál es el satélite natural más grande de Júpiter?,Ganímedes,ciencia,dificil,santiago,no_sabia,,2026-03-17,generada
+375,¿Qué enfermedad causa el virus VIH?,SIDA,ciencia,facil,todos,nueva,,,opentriviaqa
+294,¿Cuál es la capital de Etiopía?,Adís Abeba,geografia,dificil,tiziano,nueva,,,opentriviaqa
+533,¿Cómo se llama el miedo a volar?,Aerofobia,terminologia,media,santiago,sabia,,2026-03-17,generada
+349,¿Quién descubrió la penicilina?,Alexander Fleming,ciencia,facil,todos,nueva,,,opentriviaqa
+508,¿Qué país tiene forma de chile (ají)?,Chile,geografia,facil,todos,nueva,,,generada
+217,"�Cu�l era el nombre del d�cimo fara�n de la dinast�a XVIII de Egipto, esposo de Nefertiti?",Akenat�n,historia_universal,facil,todos,nueva,,,trivial2b
+292,¿Cuál es la capital de Rumania?,Bucarest,geografia,media,tiziano,nueva,,,opentriviaqa
+590,¿Quién fue el primer presidente constitucional de Argentina?,Bartolomé Mitre (1862); Justo José de Urquiza fue el primero de la Confederación (1854),historia_argentina,media,todos,sabia,,2026-03-17,generada
+221,"¿Qué famosa cantante argentina es conocida como ""La Voz del Tango""?",Libertad Lamarque,musica,facil,todos,nueva,,,preguntados_utn
+204,"�Qu� actual territorio fue tomado por Pedro �lvarez Cabral en el 1500, en nombre del rey Manuel de Portugal?",Bah�a,historia_universal,facil,todos,nueva,,,trivial2b
+63,�Cu�l de los siguientes deportes NO se disputa en los Juegos Ol�mpicos?,Hockey sobre hielo,deportes,facil,todos,nueva,,,trivial2b
+87,�Qu� deporte debut� como deporte ol�mpico en los Juegos de Berl�n 1936?,Balonmano,deportes,facil,todos,nueva,,,trivial2b
+343,¿En qué siglo vivió Leonardo da Vinci?,Siglo XV (1452-1519),historia_universal,media,marcos,nueva,,,opentriviaqa
+553,¿Cuál es el símbolo químico del potasio?,K,ciencia,media,santiago,sabia,,2026-03-17,generada
+562,¿Qué órgano filtra la sangre y produce orina?,Riñón,ciencia,facil,todos,nueva,,,generada
+175,�En qu� continente se encuentra el r�o Kasai?,�frica,geografia,facil,todos,nueva,,,trivial2b
+186,�Quien cre� el primer coche del mundo?.,Karl Benz,historia_universal,facil,todos,nueva,,,trivial2b
+564,¿Qué proteína transporta oxígeno en la sangre?,Hemoglobina,ciencia,media,santiago,sabia,,2026-03-17,generada
+293,¿En qué país se encuentra Angkor Wat?,Camboya,geografia,media,tiziano,no_sabia,,2026-03-17,opentriviaqa
+358,¿Qué científico formuló las leyes del movimiento planetario?,Johannes Kepler,ciencia,media,santiago,sabia,,2026-03-17,opentriviaqa
+465,¿Qué concepto budista significa 'liberación del ciclo de reencarnaciones'?,Nirvana,otro,media,todos,no_sabia,,2026-03-17,opentriviaqa
+364,¿Cuál es el planeta más cercano al Sol?,Mercurio,ciencia,facil,todos,nueva,,,opentriviaqa
+457,¿Quién fue Buda?,"Siddhartha Gautama, fundador del budismo",otro,facil,todos,nueva,,,opentriviaqa
+541,¿Qué estudia la oología?,Los huevos (especialmente de aves),terminologia,dificil,santiago,sabia,,2026-03-17,generada
+189,�Qui�n fue el m�s poderoso rey de la tribu de los Hunos?,Atila,historia_universal,facil,todos,nueva,,,trivial2b
+101,En la serie Hora De Aventuras �como se llama la consola de Finn y Jake?,Bmo,otro,facil,todos,nueva,,,trivial2b
+154,"�Qu� r�o Europeo al final de su recorrido, forma la frontera entre Austria y Alemania?",Inn,geografia,facil,todos,nueva,,,trivial2b
+392,¿Cuál es el elemento más pesado que se encuentra naturalmente?,Uranio,ciencia,dificil,santiago,no_sabia,,2026-03-17,opentriviaqa
+603,¿Qué se conmemora el 9 de julio en Argentina?,La Declaración de Independencia (1816),historia_argentina,facil,todos,nueva,,,generada
+579,¿Quién inventó la tabla periódica de los elementos?,Dmitri Mendeléyev,ciencia,media,santiago,nueva,,,generada
+22,¿Que función tiene la semilla de una planta?,La dispersión y nacimiento de la futura planta,ciencia,facil,todos,nueva,,,trivial2b
+214,�Qui�n fue el primer soberano germ�nico de la pen�nsula it�lica?,Constantino I,historia_universal,facil,todos,nueva,,,trivial2b
+520,¿Cómo se llama la afición de coleccionar monedas?,Numismática,terminologia,media,santiago,no_sabia,,2026-03-17,generada
+284,¿Cuál es la capital de Corea del Sur?,Seúl,geografia,facil,todos,nueva,,,opentriviaqa
+319,¿Qué guerra enfrentó al Norte y al Sur de Estados Unidos?,Guerra Civil (o Guerra de Secesión),historia_universal,facil,todos,nueva,,,opentriviaqa
+492,¿Cuál es la montaña más alta de la Antártida?,Macizo Vinson,geografia,dificil,tiziano,no_sabia,,2026-03-17,generada
+632,"¿Qué filósofo dijo 'Pienso, luego existo' (Cogito ergo sum)?",René Descartes,filosofia,facil,todos,nueva,,,generada
+539,¿Qué estudia la herpetología?,Los reptiles y anfibios,terminologia,dificil,santiago,no_sabia,,2026-03-17,generada
+550,¿Cuál es el símbolo químico del tungsteno?,W,ciencia,dificil,santiago,nueva,,,generada
+351,¿Qué partícula subatómica tiene carga negativa?,Electrón,ciencia,facil,todos,nueva,,,opentriviaqa
+135,La capital de Camer�n es...,Yaund�,geografia,facil,todos,nueva,,,trivial2b
+113,�Que pasa si Mario Bross coge una flor roja?,Lanza bolas de fuego,otro,facil,todos,nueva,,,trivial2b
+377,¿Qué proceso usan las plantas para convertir luz solar en energía?,Fotosíntesis,ciencia,facil,todos,nueva,,,opentriviaqa
+515,¿Qué río forma gran parte de la frontera entre Estados Unidos y México?,Río Bravo (o Río Grande),geografia,media,tiziano,nueva,,,generada
+299,¿Quién descubrió América en 1492?,Cristóbal Colón,historia_universal,facil,todos,nueva,,,opentriviaqa
+449,¿Quién pintó 'La persistencia de la memoria' (los relojes blandos)?,Salvador Dalí,arte,facil,todos,nueva,,,opentriviaqa
+32,¿Que tipo de musculo es el bíceps?,Esquelético estriado,ciencia,facil,todos,nueva,,,trivial2b
+330,¿En qué año se disolvió la Unión Soviética?,1991,historia_universal,media,marcos,nueva,,,opentriviaqa
+15,"¿Que pasó con la primera edición de ""El origen de las especies"", en el que Darwin explicaba su teoría de la evolución?",Se agotó el primer día,ciencia,facil,todos,nueva,,,trivial2b
+528,¿Cómo se llama el miedo a los espacios cerrados?,Claustrofobia,terminologia,facil,todos,nueva,,,generada
+497,¿Cómo se llama a los habitantes de La Haya?,Hagueños,geografia,dificil,tiziano,nueva,,,generada
+56,�Qu� patinador art�stico obtuvo la medalla de oro en los Juegos Ol�mpicos de Invierno celebrados en Calgary en 1988?,Brian Boitano,deportes,facil,todos,nueva,,,trivial2b
+610,¿Quién fue Domingo Faustino Sarmiento?,Presidente y promotor de la educación pública,historia_argentina,facil,todos,nueva,,,generada
+480,¿Cuál es la capital de Costa de Marfil?,Yamusukro,geografia,dificil,tiziano,nueva,,,generada
+260,¿Cuál es el desierto más grande del mundo?,Sahara,geografia,facil,todos,nueva,,,opentriviaqa
+155,�Cu�l es la capital de la Rep�blica Centroafricana?,Bangui,geografia,facil,todos,nueva,,,trivial2b
+452,¿Quién pintó 'El grito'?,Edvard Munch,arte,facil,todos,nueva,,,opentriviaqa
+374,¿Cuál es el componente principal de los huesos?,Calcio (fosfato de calcio),ciencia,media,santiago,sabia,,2026-03-17,opentriviaqa
+109,En la serie de Pokemon �como se llama el protagonista principal?,Ash,otro,facil,todos,nueva,,,trivial2b
+326,¿Qué país fue dividido en dos por el paralelo 38?,Corea,historia_universal,media,marcos,nueva,,,opentriviaqa
+498,¿Cómo se llama a los habitantes de Chipre?,Chipriotas,geografia,media,tiziano,no_sabia,,2026-03-17,generada
+474,¿Cuál es la capital de Mongolia?,Ulán Bator,geografia,dificil,tiziano,no_sabia,,2026-03-17,generada
+111,"En el juego de Mario Bross �como se llama, en ingles, la princesa que ha de rescatar el jugador que controla a Mario?",Melocot�n,otro,facil,todos,nueva,,,trivial2b
+85,"En los Juegos de Los �ngeles, en 1984, �cu�ntos pa�ses del bloque sovi�tico no participaron en las competencias?",15,deportes,facil,todos,nueva,,,trivial2b
+483,¿Cuál es la capital de Suiza?,Berna,geografia,media,tiziano,sabia,,2026-03-17,generada
+604,¿Qué se conmemora el 20 de junio en Argentina?,Día de la Bandera (fallecimiento de Manuel Belgrano),historia_argentina,facil,todos,nueva,,,generada
+571,¿Qué establece la primera ley de Newton (ley de inercia)?,Un cuerpo permanece en reposo o movimiento rectilíneo uniforme si no actúa una fuerza externa,ciencia,media,santiago,nueva,,,generada
+658,¿Qué héroe mató al Minotauro en el laberinto?,Teseo,mitologia,media,marcos,nueva,,,generada
+225,¿En qué año se declaró la independencia de Argentina?,1816,historia_argentina,facil,todos,nueva,,,preguntados_utn
+477,¿Cuál es la capital de Laos?,Vientián,geografia,dificil,tiziano,nueva,,,generada
+278,¿En qué país se encuentra la Gran Barrera de Coral?,Australia,geografia,facil,todos,nueva,,,opentriviaqa
+12,¿Que es la sucesión ecológica?,La maduración del ecosistema,ciencia,facil,todos,nueva,,,trivial2b
+429,¿Quién escribió 'La Odisea'?,Homero,literatura,facil,todos,sabia,,2026-03-17,opentriviaqa
+609,¿Quién fue Mariano Moreno?,Secretario de la Primera Junta y fundador de la Gazeta de Buenos Aires,historia_argentina,media,todos,nueva,,,generada
+386,¿Qué tipo de enlace químico comparten los átomos de una molécula de agua?,Enlace covalente,ciencia,media,santiago,sabia,,2026-03-17,opentriviaqa
+640,¿Qué filósofo del lenguaje escribió el 'Tractatus Logico-Philosophicus'?,Ludwig Wittgenstein,filosofia,media,marcos,nueva,,,generada
+303,¿En qué año llegó el hombre a la Luna?,1969,historia_universal,facil,todos,nueva,,,opentriviaqa
+318,¿En qué año Constantinopla cayó en manos de los otomanos?,1453,historia_universal,media,marcos,nueva,,,opentriviaqa
+199,�Qui�n fue el primer presidente que present� una dimisi�n de la historia de Estados Unidos?,Richard Nixon,historia_universal,facil,todos,nueva,,,trivial2b
+246,¿Cuál es la capital de Turquía?,Ankara,geografia,media,tiziano,sabia,,2026-03-17,opentriviaqa
+565,¿Cuál es el planeta más pequeño del Sistema Solar?,Mercurio,ciencia,media,santiago,sabia,,2026-03-17,generada
+133,La capital de Brasil es ...,Brasilia,geografia,facil,todos,nueva,,,trivial2b
+587,¿Qué elemento químico tiene el número atómico 1?,Hidrógeno,ciencia,facil,todos,nueva,,,generada
+51,"�En qu� edici�n de los Juegos Ol�mpicos obtuvo la medalla de oro en 400 m vallas, el dominicano F�lix S�nchez?",Atenas 2004,deportes,facil,todos,nueva,,,trivial2b
+506,¿Qué dos países europeos son completamente rodeados por otro país?,San Marino y Ciudad del Vaticano (por Italia),geografia,dificil,tiziano,sabia,,2026-03-17,generada
+315,¿En qué año comenzó la Guerra Fría?,1947,historia_universal,media,marcos,nueva,,,opentriviaqa
+112,�Qui�n es Koji Kondo en relaci�n a S�per Mario Bross?,El creador de la BSO,otro,facil,todos,nueva,,,trivial2b
+654,¿Qué titán robó el fuego de los dioses para dárselo a los humanos?,Prometeo,mitologia,facil,todos,nueva,,,generada
+427,¿Quién escribió '1984'?,George Orwell,literatura,facil,todos,nueva,,,opentriviaqa
+121,En la serie de animada de Heidi �de que raza de pero es Niebla?,San Bernardo,otro,facil,todos,nueva,,,trivial2b
+395,¿Quién compuso las Cuatro Estaciones?,Antonio Vivaldi,musica,facil,todos,nueva,,,opentriviaqa
+96,En la serie Hora De Aventuras �como se llama Marseline cuando se convierte en chico?,Marshall Lee,otro,facil,todos,nueva,,,trivial2b
+485,¿Cuál es el río más largo de América del Norte?,Misisipi-Misuri,geografia,media,tiziano,nueva,,,generada
+431,¿Quién escribió 'Crimen y castigo'?,Fiódor Dostoyevski,literatura,media,marcos,nueva,,,opentriviaqa
+444,¿Quién escribió 'Fausto'?,Johann Wolfgang von Goethe,literatura,media,marcos,no_sabia,,2026-03-17,opentriviaqa
+605,¿Qué se conmemora el 17 de agosto en Argentina?,Paso a la Inmortalidad del General José de San Martín,historia_argentina,facil,todos,nueva,,,generada
+624,¿Qué filósofo dijo que el arjé era el aire?,Anaxímenes,filosofia,dificil,marcos,nueva,,,generada
+527,¿Cómo se llama el miedo irracional a las arañas?,Aracnofobia,terminologia,facil,todos,nueva,,,generada
+432,¿Quién escribió 'El Aleph'?,Jorge Luis Borges,literatura,facil,todos,nueva,,,opentriviaqa
+556,¿Cuál es el símbolo químico del estaño?,Sn,ciencia,dificil,santiago,nueva,,,generada
+226,¿Cuál es la montaña más alta de Argentina?,Aconcagua,historia_argentina,facil,todos,nueva,,,preguntados_utn
+602,¿Qué se conmemora el 25 de mayo en Argentina?,La Revolución de Mayo de 1810 (Primer Gobierno Patrio),historia_argentina,facil,todos,nueva,,,generada
+379,¿Qué estructura celular contiene el material genético?,Núcleo,ciencia,facil,todos,nueva,,,opentriviaqa
+514,¿Qué país centroamericano es el más grande en superficie?,Nicaragua,geografia,dificil,tiziano,nueva,,,generada
+269,¿Cuál es el río más largo de Asia?,Yangtsé,geografia,media,tiziano,nueva,,,opentriviaqa
+11,¿Que es la biodiversidad o riqueza de un ecosistema?,El número de especies,ciencia,facil,todos,nueva,,,trivial2b
+559,¿Cuál es el símbolo químico del cobre?,Cu,ciencia,media,santiago,no_sabia,,2026-03-17,generada
+353,¿Qué planeta es conocido como el planeta rojo?,Marte,ciencia,facil,todos,nueva,,,opentriviaqa
+534,¿Cómo se llama el miedo a los payasos?,Coulrofobia,terminologia,media,santiago,sabia,,2026-03-17,generada
+384,¿Qué planeta tiene los anillos más visibles del Sistema Solar?,Saturno,ciencia,facil,todos,nueva,,,opentriviaqa
+27,¿En que lugar de la Tierra se ha de estar para no verse influido por la fuerza gravitacional?,En el centro,ciencia,facil,todos,nueva,,,trivial2b
+238,¿Cuál es la capital de Grecia?,Atenas,geografia,facil,todos,nueva,,,opentriviaqa
+288,¿Cuál es el río más largo de África?,Nilo,geografia,facil,todos,nueva,,,opentriviaqa
+127,"�A qu� pel�cula de Disney pertenece la canci�n ""Un mundo ideal""?",Aladd�n,otro,facil,todos,nueva,,,trivial2b
+639,¿Qué filósofo escribió 'El Capital'?,Karl Marx,filosofia,facil,todos,nueva,,,generada
+115,�?Como se llama el reino por el que se mueven Mario Bross y sus amigos?,Reino Champi��n,otro,facil,todos,nueva,,,trivial2b
+166,�En qu� pa�s se encuentra el r�o Arkansas?,Estados Unidos,geografia,facil,todos,nueva,,,trivial2b
+153,�Sobre qu� mar tiene sus costas N�ger?,Ninguno,geografia,facil,todos,nueva,,,trivial2b
+171,�Cu�l es el pa�s m�s peque�o de Centroam�rica?,El Salvador,geografia,facil,todos,nueva,,,trivial2b
+94,En la serie Hora De Aventuras �De qui�n est� enamorado Finn?,Princesa Llama,otro,facil,todos,nueva,,,trivial2b
+82,"�Qu� atleta italiano gan� la medalla de oro en los 200 metros llanos, en los Juegos Ol�mpicos de Roma de 1960?",Livio Berruti,deportes,facil,todos,nueva,,,trivial2b
+581,¿Qué número atómico tiene el carbono?,6,ciencia,media,santiago,sabia,,2026-03-17,generada
+107,En la serie de Phineas y Ferb que construyen en el primer d�a de vacaciones?,Una monta�a rusa,otro,facil,todos,no_sabia,,2026-03-17,trivial2b
+137,La capital de Chile es...,Santiago,geografia,facil,todos,nueva,,,trivial2b
+435,¿Quién escribió 'Madame Bovary'?,Gustave Flaubert,literatura,media,marcos,nueva,,,opentriviaqa
+656,¿Qué criatura mitad hombre mitad toro vivía en el laberinto de Creta?,Minotauro,mitologia,facil,todos,nueva,,,generada
+119,�Qui�n puso la voz de Mickey Mouse los primeros a�os de vida del personaje?,Walt Disney,otro,facil,todos,nueva,,,trivial2b
+493,¿Cómo se llama a los habitantes de Río de Janeiro?,Cariocas,geografia,media,tiziano,nueva,,,generada
+460,¿Qué religión celebra el Hanukkah?,Judaísmo,otro,facil,todos,nueva,,,opentriviaqa
+215,"�Qu� emperador romano convoc� al concilio de Nicea, en el a�o 325?",Odoacro,historia_universal,facil,todos,nueva,,,trivial2b
+178,�Cuanto lleg� a medir el gigante de Altzo?,2.4 metros,historia_universal,facil,todos,nueva,,,trivial2b
+142,La capital de Croacia es...,Zagreb,geografia,facil,todos,nueva,,,trivial2b
+224,"¿Quién es considerado el ""Padre de la Patria"" en Argentina?",José de San Martín,historia_argentina,facil,todos,nueva,,,preguntados_utn
+99,En la serie Hora De Aventuras �que otro animal sale en todos los cap�tulos aparte de Jake?,Un caracol saludando,otro,facil,todos,nueva,,,trivial2b
+644,¿Qué filósofo desarrolló el concepto de 'superhombre' (Übermensch)?,Friedrich Nietzsche,filosofia,media,marcos,nueva,,,generada
+108,En la serie de Pokemon �a que pokemon evoluciona Dratini?,Dragonair,otro,facil,todos,nueva,,,trivial2b
+66,�Con qu� nombre es conocido el Himno Paral�mpico?,Himno del futuro,deportes,facil,todos,nueva,,,trivial2b
+490,¿Cuál es la montaña más alta de Oceanía?,Puncak Jaya,geografia,dificil,tiziano,nueva,,,generada
+125,�Qui�n es la mascota de SEGA?,Sonic,otro,facil,todos,nueva,,,trivial2b
+401,¿Quién es conocido como el 'Rey del Pop'?,Michael Jackson,musica,facil,todos,nueva,,,opentriviaqa
+488,¿Cuál es la montaña más alta de América?,Aconcagua,geografia,facil,todos,nueva,,,generada
+537,¿Qué estudia la ornitología?,Las aves,terminologia,media,santiago,nueva,,,generada
+612,¿En qué año se sancionó la primera Constitución Nacional Argentina?,1853,historia_argentina,media,todos,nueva,,,generada
+255,¿En qué océano se encuentra Madagascar?,Océano Índico,geografia,media,tiziano,nueva,,,opentriviaqa
+291,¿Cuál es la capital de Dinamarca?,Copenhague,geografia,facil,todos,nueva,,,opentriviaqa
+271,¿Cuál es la capital de Nueva Zelanda?,Wellington,geografia,media,tiziano,nueva,,,opentriviaqa
+363,¿Qué científica descubrió la radiactividad junto con su esposo Pierre?,Marie Curie,ciencia,facil,todos,nueva,,,opentriviaqa
+622,¿Qué filósofo presocrático propuso que la realidad es inmutable y el cambio es ilusión?,Parménides,filosofia,media,marcos,nueva,,,generada
+387,¿Cuál es la galaxia más cercana a la Vía Láctea (de gran tamaño)?,Andrómeda,ciencia,media,santiago,sabia,,2026-03-17,opentriviaqa
+501,¿Qué canal conecta el Mar Mediterráneo con el Mar Rojo?,Canal de Suez,geografia,facil,todos,no_sabia,,2026-03-17,generada
+420,¿Quién compuso 'La consagración de la primavera'?,Ígor Stravinski,musica,dificil,tiziano,nueva,,,opentriviaqa
+505,¿Qué país de América del Sur no tiene salida al mar además de Bolivia?,Paraguay,geografia,media,tiziano,nueva,,,generada
+26,"¿Debajo de que árbol se encontraba Newton cuando, según la leyenda, descubrió la ley de la gravedad?",Manzano,ciencia,facil,todos,nueva,,,trivial2b
+412,¿Quién fue el vocalista de Queen?,Freddie Mercury,musica,facil,todos,nueva,,,opentriviaqa
+88,En la serie Hora De Aventuras �Cuantos hijos tiene Jake?,Ninguna es correcta,otro,facil,todos,nueva,,,trivial2b
+210,�Cu�l de estos pa�ses NO firm� la Paz de Breda en 1667?,Grecia,historia_universal,facil,todos,nueva,,,trivial2b
+44,¿Como se formó la Tierra?,Por un proceso de acreción gravitatoria,ciencia,facil,todos,nueva,,,trivial2b
+327,¿En qué año Colón llegó a América?,1492,historia_universal,facil,todos,nueva,,,opentriviaqa
+606,¿Qué se conmemora el 2 de abril en Argentina?,Día del Veterano y de los Caídos en la Guerra de Malvinas,historia_argentina,facil,todos,nueva,,,generada
+547,¿Qué instrumento se usa para medir la velocidad del viento?,Anemómetro,terminologia,media,santiago,nueva,,,generada
+254,¿Qué país tiene forma de bota?,Italia,geografia,facil,todos,nueva,,,opentriviaqa
+627,¿Qué filósofo distinguió entre acto y potencia?,Aristóteles,filosofia,media,marcos,sabia,,2026-03-17,generada
+593,"¿Qué presidente argentino creó el voto secreto, universal y obligatorio?","Roque Sáenz Peña (Ley Sáenz Peña, 1912)",historia_argentina,media,todos,nueva,,,generada
+361,¿Qué vitamina produce el cuerpo al exponerse al sol?,Vitamina D,ciencia,media,santiago,sabia,,2026-03-17,opentriviaqa
+502,¿Qué estrecho conecta el Mar Negro con el Mar de Mármara?,Estrecho del Bósforo,geografia,media,tiziano,nueva,,,generada
+662,¿Qué héroe mató a Medusa?,Perseo,mitologia,media,marcos,nueva,,,generada
+37,¿Que instrumento mide la presión atmosférica?,Barómetro,ciencia,facil,todos,sabia,,2026-03-17,trivial2b
+146,�En que cordillera se encuentra el monte Everest?,Himalaya,geografia,facil,todos,nueva,,,trivial2b
+470,¿Cuál es la capital de Myanmar (Birmania)?,Naipyidó (Naypyidaw),geografia,dificil,tiziano,nueva,,,generada
+81,�Qu� mascotas fueron escogidas para los juegos paral�mpicos 2014?,Rayo de sol y mu�eco de nieve,deportes,facil,todos,nueva,,,trivial2b
+540,¿Qué estudia la micología?,Los hongos,terminologia,dificil,santiago,no_sabia,,2026-03-17,generada
+407,¿Cuál es el registro vocal femenino más agudo?,Soprano,musica,media,tiziano,sabia,,2026-03-17,opentriviaqa
+141,La capital de Costa de Marfil es...,Yamusukro,geografia,facil,todos,nueva,,,trivial2b
+219,"�Qu� rey Borb�n promulg� el edicto de Nantes en 1598, que favorec�a la tolerancia hacia los hugonotes o protestantes?",Enrique IV,historia_universal,facil,todos,nueva,,,trivial2b
+626,¿Cómo se llama la teoría de Platón sobre las realidades perfectas e inmutables?,Teoría de las Ideas (o de las Formas),filosofia,media,marcos,nueva,,,generada
+93,En la serie Hora De Aventuras �Como se llama el episodio donde Jake conoce a los padres de Lady Arco�ris?,Los suegros,otro,facil,todos,nueva,,,trivial2b
+575,¿Qué tipo de molécula son las enzimas?,Proteínas,ciencia,media,santiago,nueva,,,generada
+28,"La gravedad es una de las ""fuerzas fundamentales"" que considera la Física moderna. ¿Cuantas son en total?",4,ciencia,facil,todos,nueva,,,trivial2b
+549,¿Qué instrumento se usa para medir ángulos en topografía y navegación?,Teodolito (o sextante en navegación),terminologia,dificil,santiago,nueva,,,generada
+466,¿Qué Papa convocó el Concilio Vaticano II?,Juan XXIII,otro,dificil,todos,nueva,,,opentriviaqa
+388,¿Qué gas liberan las plantas durante la fotosíntesis?,Oxígeno,ciencia,facil,todos,nueva,,,opentriviaqa
+394,¿Cuál es la unidad de medida de la corriente eléctrica?,Amperio,ciencia,media,santiago,sabia,,2026-03-17,opentriviaqa
+660,¿Cuál era el punto débil de Aquiles?,Su talón,mitologia,facil,todos,nueva,,,generada
+157,�Cu�l es el principal r�o de Hungr�a?,Tisza,geografia,facil,todos,nueva,,,trivial2b
+97,"En la serie Hora De Aventuras, cuando la princesa lodo le dice a Finn que quiere casarse con �l, �que le dice Jake para quitarle esa idea de la cabeza?",Que Finn se mea encima todo el rato,otro,facil,todos,nueva,,,trivial2b
+251,¿Cuál es el río más largo de Europa?,Volga,geografia,media,tiziano,no_sabia,,2026-03-17,opentriviaqa
+391,¿Qué mide el sismógrafo?,Movimientos sísmicos (terremotos),ciencia,facil,todos,nueva,,,opentriviaqa
+369,¿Qué teoría propuso Charles Darwin?,La teoría de la evolución por selección natural,ciencia,facil,todos,nueva,,,opentriviaqa
+367,¿Quién inventó la bombilla eléctrica?,Thomas Edison,ciencia,facil,todos,nueva,,,opentriviaqa
+50,�Cu�ntos animales fueron las mascotas en los Juegos de Pek�n 2008?,5,deportes,facil,todos,nueva,,,trivial2b
+544,¿Qué estudia la heráldica?,Los escudos de armas y blasones,terminologia,media,santiago,nueva,,,generada
+398,¿Cuántas cuerdas tiene una guitarra clásica?,6,musica,facil,todos,nueva,,,opentriviaqa
+18,¿Que es el pistilo de una flor?,El verticilo fértil femenino,ciencia,facil,todos,nueva,,,trivial2b
+348,¿Qué gas es esencial para la respiración humana?,Oxígeno,ciencia,facil,todos,nueva,,,opentriviaqa
+461,¿Cuántos mandamientos recibió Moisés según la tradición judeocristiana?,10,otro,facil,todos,nueva,,,opentriviaqa
+43,¿Que edad se calculo que presente nuestro planeta?,4.600 millones de años,ciencia,facil,todos,sabia,,2026-03-17,trivial2b
+441,¿Quién escribió 'El amor en los tiempos del cólera'?,Gabriel García Márquez,literatura,facil,todos,nueva,,,opentriviaqa
+89,En la serie Hora De Aventuras �Como se llama el coraz�n del Rey Helado?,Ricardio,otro,facil,todos,nueva,,,trivial2b
+2,¿Cuanto tarda la Tierra en dar una vuelta completa alrededor del sol?,365 días,ciencia,facil,todos,sabia,,2026-03-17,trivial2b
+618,¿Quién fue Eva Perón?,"Esposa de Juan Domingo Perón y líder social, impulsora del voto femenino",historia_argentina,facil,todos,nueva,,,generada
+300,¿En qué año se produjo la Revolución Francesa?,1789,historia_universal,facil,todos,nueva,,,opentriviaqa
+614,¿Qué estableció la reforma constitucional de 1994 respecto al presidente?,Mandato de 4 años con posibilidad de reelección inmediata por un período,historia_argentina,media,todos,nueva,,,generada
+403,¿Quién compuso la ópera 'La Flauta Mágica'?,Wolfgang Amadeus Mozart,musica,media,tiziano,no_sabia,,2026-03-17,opentriviaqa
+463,¿Qué religión tiene la mayor cantidad de seguidores en el mundo?,Cristianismo,otro,facil,todos,nueva,,,opentriviaqa
+557,¿Cuál es el símbolo químico de la plata?,Ag,ciencia,media,santiago,no_sabia,,2026-03-17,generada
+228,¿Qué músico argentino fue el líder de la banda Soda Stereo?,Gustavo Cerati,historia_argentina,facil,todos,nueva,,,preguntados_utn
+668,¿Quién era Gea en la mitología griega?,La diosa primordial de la Tierra,mitologia,media,marcos,sabia,,2026-03-17,generada
+302,¿Quién fue el líder de la Alemania nazi?,Adolf Hitler,historia_universal,facil,todos,sabia,,2026-03-17,opentriviaqa
+194,�C�mo se conoce a la persecuci�n sufrida por artistas norteamericanos por su posible afiliaci�n al partido comunista?,Caza de brujas,historia_universal,facil,todos,nueva,,,trivial2b
+329,¿Quién fue Alejandro Magno?,Rey de Macedonia que conquistó un vasto imperio,historia_universal,facil,todos,nueva,,,opentriviaqa
+574,¿Qué ácido nucleico lleva la información genética del núcleo al ribosoma?,ARN mensajero (ARNm),ciencia,media,santiago,sabia,,2026-03-17,generada
+161,�Cu�l es el mayor r�o que fluye por Brasil?,Amazonas,geografia,facil,todos,nueva,,,trivial2b
+65,�Cu�l es la ciudad griega que dio inicio al transporte de la antorcha ol�mpica?,Olimpia,deportes,facil,todos,nueva,,,trivial2b
+77,�Cu�nto debe pesar el disco en la disciplina ol�mpica de Lanzamiento de disco?,2,deportes,facil,todos,nueva,,,trivial2b
+655,¿Qué abrió Pandora que liberó todos los males al mundo?,Una caja (o jarra/pithos),mitologia,facil,todos,nueva,,,generada
+41,El elemento presente en todos los compuestos orgánicos es el...,Carbono,ciencia,facil,todos,nueva,,,trivial2b
+446,¿Quién pintó 'La noche estrellada'?,Vincent van Gogh,arte,facil,todos,nueva,,,opentriviaqa
+410,¿Quién compuso el 'Bolero'?,Maurice Ravel,musica,media,tiziano,nueva,,,opentriviaqa
+408,¿Qué cantante argentino es conocido como 'El Flaco'?,Luis Alberto Spinetta,musica,media,tiziano,sabia,,2026-03-17,opentriviaqa
+320,¿Quién fue Cleopatra?,Última reina del Antiguo Egipto (dinastía ptolemaica),historia_universal,facil,todos,nueva,,,opentriviaqa
+47,En el sistema de puntos ol�mpicos �cu�ntos puntos se concede por cada medalla de bronce obtenida en una prueba?,4,deportes,facil,todos,nueva,,,trivial2b
+124,"�C�mo se llamaba el personaje que interpretaba John Travolta en ""Grease""?",Danny Zuko,otro,facil,todos,nueva,,,trivial2b
+183,�Qui�nes eran los shogunes?,Dictadores militares en el Jap�n medieval,historia_universal,facil,todos,nueva,,,trivial2b
+371,¿Qué tipo de estrella es el Sol?,Enana amarilla (tipo G),ciencia,media,santiago,no_sabia,,2026-03-17,opentriviaqa
+370,¿Cuántos planetas tiene el Sistema Solar?,8,ciencia,facil,todos,nueva,,,opentriviaqa
+248,¿Cuál es la capital de Canadá?,Ottawa,geografia,media,tiziano,nueva,,,opentriviaqa
+247,¿Cuál es la capital de Vietnam?,Hanói,geografia,media,tiziano,no_sabia,,2026-03-17,opentriviaqa
+333,¿En qué siglo se produjo el Renacimiento?,Siglos XV y XVI,historia_universal,media,marcos,nueva,,,opentriviaqa
+438,¿Quién escribió 'Guerra y paz'?,León Tolstói,literatura,media,marcos,nueva,,,opentriviaqa
+625,¿Cuál es el método filosófico asociado a Sócrates?,La mayéutica (diálogo e interrogación),filosofia,media,marcos,sabia,,2026-03-17,generada
+227,¿En qué año murió Eva Perón?,1952,historia_argentina,facil,todos,nueva,,,preguntados_utn
+24,¿Que han de tener dos objetos para que entre ellos exista gravedad?,Masa,ciencia,facil,todos,nueva,,,trivial2b
+134,La capital de Bulgaria es...,Sof�a,geografia,facil,todos,nueva,,,trivial2b
+475,¿Cuál es la capital de Kazajistán?,Astaná,geografia,dificil,tiziano,nueva,,,generada
+561,¿Cuál es la función principal de los glóbulos rojos?,Transportar oxígeno,ciencia,facil,todos,sabia,,2026-03-17,generada
+197,De acuerdo al antiguo testamento �Cu�l es el nombre de la esposa de David y madre del rey Salom�n?,Betsab�,historia_universal,facil,todos,no_sabia,,2026-03-17,trivial2b
+313,¿Qué evento histórico ocurrió el 11 de septiembre de 2001?,Atentados terroristas contra las Torres Gemelas,historia_universal,facil,todos,nueva,,,opentriviaqa
+399,¿Qué instrumento tocaba Louis Armstrong?,Trompeta,musica,media,tiziano,nueva,,,opentriviaqa
+583,¿Qué propiedad mide el pH?,La acidez o alcalinidad de una solución,ciencia,facil,todos,nueva,,,generada
+143,La capital de Cuba es...,Habana,geografia,facil,todos,nueva,,,trivial2b
+623,¿Qué filósofo presocrático desarrolló la teoría atomista?,Demócrito (y Leucipo),filosofia,media,marcos,sabia,,2026-03-17,generada
+347,¿Cuál es la velocidad de la luz en el vacío (aproximadamente)?,300.000 km/s,ciencia,media,santiago,nueva,,,opentriviaqa
+586,¿Cuál es la unidad de medida de la frecuencia?,Hertz (Hz),ciencia,facil,todos,nueva,,,generada
+543,¿Qué estudia la vexilología?,Las banderas,terminologia,dificil,santiago,nueva,,,generada
+117,�E la m�sica de que compositor se bas� Disney para realizar la pel�cula El aprendiz de brujo?,Dukas,otro,facil,todos,nueva,,,trivial2b
+229,¿Cuál es el deporte más popular en Argentina?,Fútbol,historia_argentina,facil,todos,nueva,,,preguntados_utn
+468,¿Qué significa la palabra 'Islam'?,Sumisión (a Dios),otro,media,todos,nueva,,,opentriviaqa
+274,¿En qué país se encuentra el lago Titicaca además de Perú?,Bolivia,geografia,media,tiziano,nueva,,,opentriviaqa
+620,¿Qué filósofo presocrático afirmó que 'todo fluye' (panta rei)?,Heráclito,filosofia,media,marcos,sabia,,2026-03-17,generada
+104,En la serie de los Simpsons �cuantos hijos tienen Homer y Marge?,3,otro,facil,todos,sabia,,2026-03-17,trivial2b
+617,¿En qué año renunció el presidente Fernando de la Rúa?,2001,historia_argentina,facil,todos,nueva,,,generada
+250,¿En qué continente se encuentra el desierto del Sahara?,África,geografia,facil,todos,nueva,,,opentriviaqa
+201,"De acuerdo a la historiograf�a alemana �qu� imperio desarrollado entre el 800 y 1806, equivaldr�a al I Reich?",Sacro imperio romano germ�nico,historia_universal,facil,todos,nueva,,,trivial2b
+546,¿Qué instrumento se usa para medir la humedad relativa del aire?,Higrómetro,terminologia,media,santiago,nueva,,,generada
+554,¿Cuál es el símbolo químico del hierro?,Fe,ciencia,media,santiago,nueva,,,generada
+235,¿Cuál es la capital de Afganistán?,Kabul,geografia,media,tiziano,nueva,,,opentriviaqa
+64,�C�mo se llamaba el �guila que fue mascota en los Juegos Ol�mpicos de Los �ngeles 1984?,Sam,deportes,facil,todos,nueva,,,trivial2b
+100,En la serie Hora De Aventuras �en que pa�s viven los protagonistas?,En el pa�s de Ooo,otro,facil,todos,nueva,,,trivial2b
+13,¿Cual de los siguientes recursos energéticos no tiene por origen exclusivo la radiación solar?,La energía nuclear,ciencia,facil,todos,nueva,,,trivial2b
+666,¿Qué criatura mitológica es mitad hombre mitad caballo?,Centauro,mitologia,facil,todos,nueva,,,generada
+185,�Qu� rey cre� la Inquisici�n?,Los reyes cat�licos,historia_universal,facil,todos,nueva,,,trivial2b
+301,¿Qué imperio construyó el Coliseo de Roma?,Imperio Romano,historia_universal,facil,todos,nueva,,,opentriviaqa
+16,"El oxigeno es el comburente mas habitual, ¿Que porcentaje hay de este en el aire?",21%,ciencia,facil,todos,no_sabia,,2026-03-17,trivial2b
+62,"�En qu� mes se han celebrado normalmente los Juegos Ol�mpicos de Invierno, hasta 1994?",Febrero,deportes,facil,todos,nueva,,,trivial2b
+336,¿En qué año se produjo la Revolución Cubana?,1959,historia_universal,media,marcos,no_sabia,,2026-03-17,opentriviaqa
+378,¿Cuál es el planeta más grande del Sistema Solar?,Júpiter,ciencia,facil,todos,nueva,,,opentriviaqa
+566,¿Qué planeta tiene la Gran Mancha Roja?,Júpiter,ciencia,media,santiago,sabia,,2026-03-17,generada
+599,¿En qué batalla Urquiza derrotó a Rosas?,Batalla de Caseros (1852),historia_argentina,media,todos,sabia,,2026-03-17,generada
+126,�Qui�n es Bella en la saga �Crep�sculo�?,Kristen Stewart,otro,facil,todos,nueva,,,trivial2b
+20,¿Que son plantas monoicas?,Las que tienen flores masculinas y femeninas,ciencia,facil,todos,sabia,,2026-03-17,trivial2b
+578,¿Quién descubrió la estructura del ADN (doble hélice)?,Watson y Crick (con aportes de Rosalind Franklin),ciencia,media,santiago,sabia,,2026-03-17,generada
+582,¿Cuál es la fórmula del ácido sulfúrico?,H₂SO₄,ciencia,media,santiago,no_sabia,,2026-03-17,generada
+31,¿Como se llama la primera capa de las meninges?,Duramadre,ciencia,facil,todos,nueva,,,trivial2b
+594,¿Qué presidente fue elegido gracias a la Ley Sáenz Peña por primera vez?,Hipólito Yrigoyen (1916),historia_argentina,media,todos,nueva,,,generada
+524,¿Cómo se llama la afición de coleccionar llaveros?,Copoclefilia,terminologia,dificil,santiago,no_sabia,,2026-03-17,generada
+54,�Qu� duraci�n tienen los Juegos de la Juventud de verano?,12 d�as,deportes,facil,todos,nueva,,,trivial2b
+264,¿Qué país es conocido como la Tierra del Sol Naciente?,Japón,geografia,facil,todos,nueva,,,opentriviaqa
+634,¿Qué filósofo escribió 'Leviatán' y defendió el absolutismo?,Thomas Hobbes,filosofia,media,marcos,nueva,,,generada
+611,¿Quién fue Juan Bautista Alberdi?,"Jurista, autor de 'Bases y puntos de partida para la organización política de la Confederación Argentina'",historia_argentina,media,todos,nueva,,,generada
+436,¿Quién escribió 'Ulises'?,James Joyce,literatura,media,marcos,no_sabia,,2026-03-17,opentriviaqa
+198,"�De qu� origen era el rey de Babilonia, Nabopolasar?",Caldeo,historia_universal,facil,todos,nueva,,,trivial2b
+4,¿Cuanto pesa el cerebro de un ser humano adulto?,1 Kg,ciencia,facil,todos,nueva,,,trivial2b
+233,¿Qué bebida tradicional argentina se toma en una calabaza con una bombilla?,Mate,historia_argentina,facil,todos,sabia,,2026-03-17,preguntados_utn
+14,"¿En que año se publicó ""El origen de las especies"" de Charles Darwin?",1859,ciencia,facil,todos,nueva,,,trivial2b
+495,¿Cómo se llama a los habitantes de Jerusalén?,Jerosolimitanos,geografia,dificil,tiziano,no_sabia,,2026-03-17,generada
+517,¿Qué país insular del océano Índico es el cuarto más grande del mundo?,Madagascar,geografia,media,tiziano,nueva,,,generada
+279,¿Cuál es la capital de Marruecos?,Rabat,geografia,media,tiziano,no_sabia,,2026-03-17,opentriviaqa
+159,"�A qu� monta�a, la m�s elevada de �frica, pertenecen los picos volc�nicos Kibo y Mawensi?",Kilimanjaro,geografia,facil,todos,nueva,,,trivial2b
+268,¿En qué país se encuentra Machu Picchu?,Perú,geografia,facil,todos,nueva,,,opentriviaqa
+45,�En qu� a�o se incorpora el nado sincronizado como disciplina ol�mpica?,Los �ngeles 1984,deportes,facil,todos,nueva,,,trivial2b
+193,�C�mo se llamaba el barco en el que los peregrinos (puritanos ingleses) escaparon al nuevo mundo en 1620?,Mayflower,historia_universal,facil,todos,nueva,,,trivial2b
+23,Un triángulo equilátero se caracteriza por tener...,Sus tres lados son iguales,ciencia,facil,todos,sabia,,2026-03-17,trivial2b
+381,¿Qué científico es famoso por su gato en un experimento mental?,Erwin Schrödinger,ciencia,media,santiago,nueva,,,opentriviaqa
+118,�En que n�mero del Paseo de la Fama de Hollywood tiene su huella Mickey Mouse?,6925,otro,facil,todos,nueva,,,trivial2b
+591,¿Quién fue el primer presidente de facto de Argentina en el siglo XX?,José Félix Uriburu (1930),historia_argentina,media,todos,nueva,,,generada
+297,¿En qué año comenzó la Primera Guerra Mundial?,1914,historia_universal,facil,todos,nueva,,,opentriviaqa
+513,¿Cuántos países tiene África?,54,geografia,media,tiziano,nueva,,,generada
+289,¿Cuál es la capital de Irlanda?,Dublín,geografia,facil,todos,nueva,,,opentriviaqa
+530,¿Cómo se llama el miedo a los espacios abiertos o multitudes?,Agorafobia,terminologia,media,santiago,sabia,,2026-03-17,generada
+538,¿Qué estudia la ictiología?,Los peces,terminologia,dificil,santiago,nueva,,,generada
+75,�En qu� edici�n de los Juegos Ol�mpicos participaron por primera vez las mujeres en Gimnasia Ol�mpica?,�msterdam 1928,deportes,facil,todos,nueva,,,trivial2b
+116,�Cual es la profesi�n de Mario Bross?,Fontanero,otro,facil,todos,nueva,,,trivial2b
+147,�A que pa�s pertenece al Ant�rtida?,A ninguno,geografia,facil,todos,nueva,,,trivial2b
+259,¿En qué país se encuentra el Monte Fuji?,Japón,geografia,facil,todos,nueva,,,opentriviaqa
+216,�Durante el gobierno de qu� monarca franc�s fue firmada la Paz de los Pirineos con Espa�a?,Luis XIV,historia_universal,facil,todos,nueva,,,trivial2b
+479,¿Cuál es la capital de Tanzania?,Dodoma,geografia,dificil,tiziano,nueva,,,generada
+177,"�C�mo se llamaba realmente el famoso nativo americano ""Ger�nimo""?",Goyahkla,historia_universal,facil,todos,nueva,,,trivial2b
+551,¿Cuál es el símbolo químico del antimonio?,Sb,ciencia,dificil,santiago,no_sabia,,2026-03-17,generada
+595,¿Quién fue presidente durante la Guerra de Malvinas?,Leopoldo Galtieri,historia_argentina,media,todos,nueva,,,generada
+362,¿Cuántos huesos tiene el cuerpo humano adulto?,206,ciencia,media,santiago,sabia,,2026-03-17,opentriviaqa
+456,¿Qué religión tiene como texto sagrado los Vedas?,Hinduismo,otro,media,todos,nueva,,,opentriviaqa
+510,¿Cuál es el país con más idiomas oficiales del mundo?,Sudáfrica (11 idiomas oficiales),geografia,dificil,tiziano,nueva,,,generada
+262,¿Cuál es la isla más grande del mundo?,Groenlandia,geografia,media,tiziano,no_sabia,,2026-03-17,opentriviaqa
+312,¿En qué año se abolió la esclavitud en Estados Unidos?,1865,historia_universal,media,marcos,no_sabia,,2026-03-17,opentriviaqa
+38,¿Que pierde el que sufre de anosmia?,Olfato,ciencia,facil,todos,nueva,,,trivial2b
+296,¿Quién fue el primer emperador romano?,Augusto,historia_universal,media,marcos,no_sabia,,2026-03-17,opentriviaqa
+523,¿Cómo se llama el estudio y degustación de vinos?,Enología,terminologia,media,santiago,nueva,,,generada
+339,¿Quién fue Nelson Mandela?,Líder anti-apartheid y primer presidente negro de Sudáfrica,historia_universal,facil,todos,nueva,,,opentriviaqa
+30,¿Que son los hematíes?,Glóbulos rojos,ciencia,facil,todos,nueva,,,trivial2b
+542,¿Qué estudia la espeleología?,Las cuevas y cavernas,terminologia,media,santiago,nueva,,,generada
+383,¿Qué ley de Newton dice que toda acción tiene una reacción igual y opuesta?,Tercera ley de Newton,ciencia,media,santiago,no_sabia,,2026-03-17,opentriviaqa
+516,"¿En qué país se encuentra el Lago Baikal, el más profundo del mundo?",Rusia,geografia,media,tiziano,no_sabia,,2026-03-17,generada
+454,¿Qué arquitecto diseñó la Sagrada Familia de Barcelona?,Antoni Gaudí,arte,facil,todos,nueva,,,opentriviaqa
+17,¿Por que apagan el fuego los extintores?,Cortan el oxígeno del fuego,ciencia,facil,todos,nueva,,,trivial2b
+360,¿Qué es el ADN?,Ácido desoxirribonucleico,ciencia,facil,todos,nueva,,,opentriviaqa
+243,¿Cuál es la capital de Portugal?,Lisboa,geografia,facil,todos,nueva,,,opentriviaqa
+453,¿Quién pintó 'Las meninas'?,Diego Velázquez,arte,media,marcos,nueva,,,opentriviaqa
+176,�Sobre qu� oc�ano se encuentran las islas Maldivas?,�ndico,geografia,facil,todos,sabia,,2026-03-17,trivial2b
+162,�Cu�l es la capital de Irlanda?,Dubl�n,geografia,facil,todos,nueva,,,trivial2b
+445,¿Quién pintó la Mona Lisa?,Leonardo da Vinci,arte,facil,todos,nueva,,,opentriviaqa
+69,�Cu�l fue el primer pa�s asi�tico en que se realiz� una edici�n de los Juegos Ol�mpicos en 1968?,Jap�n,deportes,facil,todos,nueva,,,trivial2b
+437,¿Quién escribió 'El proceso'?,Franz Kafka,literatura,media,marcos,nueva,,,opentriviaqa
+628,¿Cómo se llama la obra de Platón donde describe su Estado ideal?,La República,filosofia,media,marcos,nueva,,,generada
+417,¿Quién compuso las 'Gymnopédies'?,Erik Satie,musica,dificil,tiziano,nueva,,,opentriviaqa
+95,En la serie Hora De Aventuras �Como se llama el libro de los h�roes?,El Enchiridi�n,otro,facil,todos,nueva,,,trivial2b
+36,¿Que pesa mas ¿el corazón de un hombre o el de una mujer?,El de un hombre,ciencia,facil,todos,nueva,,,trivial2b
+600,¿Qué batalla definió la separación de Buenos Aires de la Confederación en 1861?,Batalla de Pavón,historia_argentina,dificil,todos,nueva,,,generada
+448,¿Quién pintó 'El Guernica'?,Pablo Picasso,arte,facil,todos,nueva,,,opentriviaqa
+191,�Qu� papa presidi� el IV Concilio de Letr�n?,Inocencio III,historia_universal,facil,todos,nueva,,,trivial2b
+103,En la serie de los Simpsons �a que juegan Homer y sus amigos cuando Marge es oficial de polic�a?,P�ker,otro,facil,todos,nueva,,,trivial2b
+637,¿Qué concepto kantiano describe la ley moral universal que cada uno debe seguir?,Imperativo categórico,filosofia,media,marcos,nueva,,,generada
+84,�Cual de estos deportes se practica dentro del agua?,Nataci�n,deportes,facil,todos,nueva,,,trivial2b
+132,"�Qu� grupo c�mico dobl� al espa�ol a los protagonistas de ""Shrek""?",Cruz y Raya,otro,facil,todos,nueva,,,trivial2b
+172,�En qu� pa�s de Europa se encuentra el misterioso Lago de Ness?,Escocia,geografia,facil,todos,nueva,,,trivial2b
+131,�C�mo se llama el p�jaro s�mbolo de los Juegos del Hambre?,Sinsajo,otro,facil,todos,nueva,,,trivial2b
+406,¿Quién compuso 'El lago de los cisnes'?,Piotr Chaikovski,musica,media,tiziano,nueva,,,opentriviaqa
+181,�Cu�ntos pa�ses africanos eran independientes en el a�o 1900?,2,historia_universal,facil,todos,nueva,,,trivial2b
+55,�Qu� mediofondista logr� la medalla de oro en los Juegos de M�xico 68 y en M�nich 72?,Kip Keino,deportes,facil,todos,nueva,,,trivial2b
+511,¿Cuál es la ciudad más poblada del mundo?,Tokio (área metropolitana),geografia,media,tiziano,nueva,,,generada
+422,¿De qué país es originaria la samba?,Brasil,musica,facil,todos,nueva,,,opentriviaqa
+252,¿Qué país tiene la mayor cantidad de islas en el mundo?,Suecia,geografia,dificil,tiziano,nueva,,,opentriviaqa
+19,¿Como se llaman los gametos masculinos en un rosal?,Núcleos espermáticos,ciencia,facil,todos,nueva,,,trivial2b
+643,¿Qué concepto de Sartre significa que 'la existencia precede a la esencia'?,Existencialismo (libertad radical del ser humano),filosofia,media,marcos,nueva,,,generada
+426,¿Quién escribió 'Hamlet'?,William Shakespeare,literatura,facil,todos,nueva,,,opentriviaqa
+458,¿Qué religión practica el Dalái Lama?,Budismo tibetano,otro,facil,todos,sabia,,2026-03-17,opentriviaqa
+190,�Cu�l de estas ciudades fue designada capital de la colonia francesa en el territorio americano en 1722?,Nueva Orleans,historia_universal,facil,todos,nueva,,,trivial2b
+272,¿Cuál es la capital de Sudáfrica (sede del gobierno)?,Pretoria,geografia,dificil,tiziano,nueva,,,opentriviaqa
+440,¿Quién escribió 'Ficciones'?,Jorge Luis Borges,literatura,media,marcos,sabia,,2026-03-17,opentriviaqa
+372,¿Cuál es la unidad de medida de la energía en el SI?,Joule,ciencia,facil,todos,nueva,,,opentriviaqa
+414,¿Cuál es el himno nacional más antiguo del mundo aún en uso?,Wilhelmus (Países Bajos),musica,dificil,tiziano,nueva,,,opentriviaqa
+169,�Cu�ntas islas componen el grupo de las Islas V�rgenes de los Estados Unidos?,3,geografia,facil,todos,nueva,,,trivial2b
+335,¿Quién fue Marco Polo?,Explorador veneciano que viajó a China,historia_universal,facil,todos,nueva,,,opentriviaqa
+496,¿Cómo se llama a los habitantes de Alcalá de Henares?,Complutenses,geografia,dificil,tiziano,nueva,,,generada
+187,�En que a�o se descubri� la m�scara de Agamen�n?,1876,historia_universal,facil,todos,nueva,,,trivial2b
+241,¿Cuál es la capital de Kenia?,Nairobi,geografia,media,tiziano,sabia,,2026-03-17,opentriviaqa
+648,¿Cuál es el equivalente romano de Poseidón?,Neptuno,mitologia,facil,todos,nueva,,,generada
+521,¿Cómo se llama la afición de coleccionar estampillas o sellos postales?,Filatelia,terminologia,media,santiago,nueva,,,generada
+49,�Qu� equipo obtuvo la medalla de plata en baloncesto en los Juegos de Los �ngeles 1984?,Espa�a,deportes,facil,todos,nueva,,,trivial2b
+409,¿Qué banda de rock argentino grabó el disco 'Artaud'?,Pescado Rabioso,musica,media,tiziano,nueva,,,opentriviaqa
+411,¿Qué género musical se originó en Jamaica?,Reggae,musica,facil,todos,nueva,,,opentriviaqa
+34,¿Que función tienen los marcapasos?,Acelerar el ritmo cardiaco,ciencia,facil,todos,nueva,,,trivial2b
+280,¿Cuál es la capital de Pakistán?,Islamabad,geografia,dificil,tiziano,nueva,,,opentriviaqa
+345,¿Cuál es el elemento químico más abundante en el universo?,Hidrógeno,ciencia,facil,todos,nueva,,,opentriviaqa
+331,¿Qué imperio construyó la Gran Muralla China?,Varios (iniciada por Qin Shi Huang),historia_universal,media,marcos,no_sabia,,2026-03-17,opentriviaqa
+652,¿Cuál es el equivalente romano de Hefesto?,Vulcano,mitologia,media,marcos,nueva,,,generada
+568,¿Qué planeta gira sobre su eje en sentido contrario a los demás?,Venus,ciencia,dificil,santiago,sabia,,2026-03-17,generada
+641,¿Qué filósofo existencialista escribió 'El ser y la nada'?,Jean-Paul Sartre,filosofia,media,marcos,nueva,,,generada
+607,¿Quién creó la bandera argentina?,Manuel Belgrano,historia_argentina,facil,todos,nueva,,,generada
+665,¿Qué monstruo de múltiples cabezas fue vencido por Heracles?,Hidra de Lerna,mitologia,media,marcos,nueva,,,generada
+136,La capital de Canad� es...,Ottawa,geografia,facil,todos,nueva,,,trivial2b
+285,¿Cuál es la capital de Polonia?,Varsovia,geografia,facil,todos,nueva,,,opentriviaqa
+455,¿Cuáles son los cinco pilares del Islam?,"Shahada, oración, limosna, ayuno y peregrinación",otro,dificil,todos,nueva,,,opentriviaqa
+53,�Cu�ntas fueron las mascotas de los Juegos Ol�mpicos de Londres 2012?,2,deportes,facil,todos,nueva,,,trivial2b
+450,¿Quién esculpió 'El pensador'?,Auguste Rodin,arte,media,marcos,no_sabia,,2026-03-17,opentriviaqa
+281,¿Qué río pasa por París?,Sena,geografia,facil,todos,nueva,,,opentriviaqa
+385,¿Cuál es el símbolo químico del oro?,Au,ciencia,facil,todos,nueva,,,opentriviaqa
+613,¿En qué año se federalizó la ciudad de Buenos Aires?,1880,historia_argentina,dificil,todos,nueva,,,generada
+428,¿Quién escribió 'Cien años de soledad'?,Gabriel García Márquez,literatura,facil,todos,nueva,,,opentriviaqa
+633,¿Qué filósofo empirista escribió 'Ensayo sobre el entendimiento humano'?,John Locke,filosofia,media,marcos,nueva,,,generada
+664,"¿Qué criatura mitológica tiene cabeza de mujer, cuerpo de león y alas de águila?",Esfinge,mitologia,media,marcos,nueva,,,generada
+404,¿Qué instrumento musical tiene 88 teclas?,Piano,musica,facil,todos,nueva,,,opentriviaqa
+283,¿Qué país es el mayor productor de café del mundo?,Brasil,geografia,media,tiziano,nueva,,,opentriviaqa
+60,�Qu� animal fue la mascota ol�mpica de los Juegos de Mosc� de 1980?,Un oso,deportes,facil,todos,nueva,,,trivial2b
+433,¿Quién escribió 'Rayuela'?,Julio Cortázar,literatura,facil,todos,nueva,,,opentriviaqa
+230,¿Cuál es la capital de Argentina?,Buenos Aires,historia_argentina,facil,todos,nueva,,,preguntados_utn
+182,�Qu� fue la niebla asesina?,Un producto de la contaminaci�n que mat� a 12.000 personas,historia_universal,facil,todos,nueva,,,trivial2b
+86,�En qu� ciudad se celebraron los Juegos Ol�mpicos de 1984?,Los �ngeles,deportes,facil,todos,nueva,,,trivial2b
+418,¿Cuántas sinfonías compuso Beethoven?,9,musica,media,tiziano,no_sabia,,2026-03-17,opentriviaqa
+569,¿Cuántas lunas tiene Marte?,2 (Fobos y Deimos),ciencia,media,santiago,nueva,,,generada
+481,¿Cuál es la capital de Belice?,Belmopán,geografia,dificil,tiziano,nueva,,,generada
+667,¿Quién era Cronos en la mitología griega?,"Titán padre de Zeus, dios del tiempo",mitologia,media,marcos,sabia,,2026-03-17,generada
+163,�Cu�l es la cima m�s elevada de las antiguas rep�blicas sovi�ticas?,Ismail Samani,geografia,facil,todos,nueva,,,trivial2b
+151,�Cual de estos r�os europeos no desemboca en la vertiente atl�ntica?,Danubio,geografia,facil,todos,nueva,,,trivial2b
+577,¿Quién formuló las leyes de la herencia genética?,Gregor Mendel,ciencia,media,santiago,sabia,,2026-03-17,generada
+242,¿Cuál es la capital de Noruega?,Oslo,geografia,facil,todos,nueva,,,opentriviaqa
+373,¿Qué científico formuló la ley de gravitación universal?,Isaac Newton,ciencia,facil,todos,nueva,,,opentriviaqa
+52,�Cu�nto duran los juegos ol�mpicos para la juventud de invierno?,9 d�as,deportes,facil,todos,nueva,,,trivial2b
+636,¿Qué filósofo empirista negó la existencia de la causalidad necesaria?,David Hume,filosofia,dificil,marcos,nueva,,,generada
+149,�Que tipo de climas predominan en el norte del continente americano?,Templados,geografia,facil,todos,nueva,,,trivial2b
+621,¿Qué filósofo consideró al agua como el principio de todas las cosas (arjé)?,Tales de Mileto,filosofia,media,marcos,nueva,,,generada
+324,¿En qué año se independizó la India de Gran Bretaña?,1947,historia_universal,media,marcos,no_sabia,,2026-03-17,opentriviaqa
+500,¿Qué estrecho separa Asia de América del Norte?,Estrecho de Bering,geografia,media,tiziano,nueva,,,generada
+10,¿Dónde realizan las plantas la fotosíntesis?,En las hojas,ciencia,facil,todos,nueva,,,trivial2b
+646,¿Cuál es el equivalente romano de Ares?,Marte,mitologia,facil,todos,nueva,,,generada
+239,¿Cuál es la capital de Italia?,Roma,geografia,facil,todos,nueva,,,opentriviaqa
+316,¿Qué revolución industrial comenzó en Inglaterra en el siglo XVIII?,La Primera Revolución Industrial,historia_universal,facil,todos,nueva,,,opentriviaqa
+416,¿Qué género musical nació en Nueva Orleans a principios del siglo XX?,Jazz,musica,facil,todos,nueva,,,opentriviaqa
+487,¿Cuál es el río más largo del mundo?,Nilo (o Amazonas según mediciones recientes),geografia,facil,todos,nueva,,,generada
+558,¿Cuál es el símbolo químico del mercurio?,Hg,ciencia,media,santiago,no_sabia,,2026-03-17,generada
+415,¿Quién fue Carlos Gardel?,Cantante y compositor de tango,musica,facil,todos,sabia,,2026-03-17,opentriviaqa
+478,¿Cuál es la capital de Nigeria?,Abuya,geografia,dificil,tiziano,no_sabia,,2026-03-17,generada
+258,¿Qué estrecho separa Europa de África?,Estrecho de Gibraltar,geografia,facil,todos,sabia,,2026-03-17,opentriviaqa
+619,¿En qué año se sancionó el voto femenino en Argentina?,1947,historia_argentina,media,todos,no_sabia,,2026-03-17,generada
+653,¿Cuál es el equivalente romano de Hades?,Plutón,mitologia,media,marcos,nueva,,,generada
+261,¿Qué río atraviesa la ciudad de Londres?,Támesis,geografia,facil,todos,nueva,,,opentriviaqa
+184,�Cu�ntas personas fueron ejecutadas en los juicios de Salem en 1692?,20,historia_universal,facil,todos,nueva,,,trivial2b
+563,¿Cuántas cámaras tiene el corazón humano?,4,ciencia,facil,todos,nueva,,,generada
+8,¿Cuantos huesos hay en el cuerpo humano?,206,ciencia,facil,todos,nueva,,,trivial2b
+390,¿Cuál es el animal más grande que ha existido?,Ballena azul,ciencia,facil,todos,nueva,,,opentriviaqa
+631,¿Qué filósofo medieval unificó la filosofía aristotélica con la teología cristiana?,Santo Tomás de Aquino,filosofia,media,marcos,nueva,,,generada
+424,¿Qué significa 'forte' en terminología musical?,Fuerte (tocar con intensidad),musica,media,tiziano,no_sabia,,2026-03-17,opentriviaqa
+275,¿Cuál es el volcán más alto del mundo?,Ojos del Salado,geografia,dificil,tiziano,nueva,,,opentriviaqa
+208,�Qu� te�logo y fraile alem�n fue el principal l�der de la reforma protestante?,Mat�n Lutero,historia_universal,facil,todos,sabia,,2026-03-17,trivial2b
+512,¿Qué país tiene la mayor biodiversidad del mundo?,Brasil,geografia,media,tiziano,nueva,,,generada
+73,�Qu� atleta estadounidense fue el primer campe�n ol�mpico de la historia?,James Connolly,deportes,facil,todos,nueva,,,trivial2b
+211,�Qu� rey de Babilonia entre el 605 y 562 a.C.es conocido como el gran constructor de las principales ciudades de Babilonia?,Nabucodonosor II,historia_universal,facil,todos,nueva,,,trivial2b
+213,�Cu�l fue el invento fundamental con el que el hombre pudo transportar sus implementos de un lugar a otro?,La rueda,historia_universal,facil,todos,nueva,,,trivial2b
+588,¿Qué teoría describe el origen del universo a partir de una gran explosión?,Big Bang,ciencia,facil,todos,nueva,,,generada
+160,�De qu� oc�ano forma parte el mar de Bering?,Pac�fico,geografia,facil,todos,sabia,,2026-03-17,trivial2b
+273,¿Qué canal conecta el Océano Atlántico con el Pacífico?,Canal de Panamá,geografia,facil,todos,nueva,,,opentriviaqa
+645,¿Cuál es el equivalente romano de Zeus?,Júpiter,mitologia,facil,todos,nueva,,,generada
+9,¿Cuantas veces se calcula que latirá el corazón a lo largo de toda la vida de un humano?,3.000 millones de veces,ciencia,facil,todos,nueva,,,trivial2b
+25,¿Cual es la intensidad de la gravedad en la Tierra a nivel del mar?,"9,8 m/s2",ciencia,facil,todos,nueva,,,trivial2b
+203,�Qu� zar ruso orden� la edificaci�n de la catedral San Basilio en 1555 para conmemorar la victoria sobre los t�rtaros?,"Iv�n IV, el terrible",historia_universal,facil,todos,nueva,,,trivial2b
+357,¿Cuál es el metal más abundante en la corteza terrestre?,Aluminio,ciencia,media,santiago,sabia,,2026-03-17,opentriviaqa
+144,�Cual es el r�o mas largo del Asia?,Yangts�,geografia,facil,todos,nueva,,,trivial2b
+402,¿Qué banda británica lideró la 'invasión británica' en los años 60?,The Beatles,musica,facil,todos,nueva,,,opentriviaqa
+532,¿Cómo se llama el miedo a la oscuridad?,Nictofobia (o escotofobia),terminologia,media,santiago,nueva,,,generada
+158,�Cu�l es la capital de la Rep�blica Isl�mica de Mauritania?,Roma,geografia,facil,todos,nueva,,,trivial2b
+5,¿Cuantos dientes permanentes tiene un ser humano adulto?,32,ciencia,facil,todos,nueva,,,trivial2b
+110,En la serie de Pokemon �cual es el pokemon que siempre acompa�a a Ash en todos sus episodios?,Pikachu,otro,facil,todos,nueva,,,trivial2b
+482,¿Cuál es la capital de Malaisia?,Kuala Lumpur,geografia,media,tiziano,sabia,,2026-03-17,generada
+179,�Qui�n fue la primera cient�fica de la historia?.,Agnocide,historia_universal,facil,todos,nueva,,,trivial2b
+341,¿Qué imperio controló gran parte de Sudamérica antes de la conquista española?,Imperio Inca,historia_universal,facil,todos,nueva,,,opentriviaqa
+130,"�C�mo se llama el actor protagonista de ""Solo en casa""?",Macaulay Culkin,otro,facil,todos,nueva,,,trivial2b
+451,¿Qué movimiento artístico lideró Claude Monet?,Impresionismo,arte,facil,todos,nueva,,,opentriviaqa
+325,¿Quién lideró la revolución rusa de 1917?,Vladimir Lenin,historia_universal,media,marcos,nueva,,,opentriviaqa
+165,�Cu�l es la cima m�s alta en la cordillera centroeuropea Sudetes?,Sriezka,geografia,facil,todos,no_sabia,,2026-03-17,trivial2b
+140,La capital de Corea del sur es...,Se�l,geografia,facil,todos,nueva,,,trivial2b
+270,¿Qué país tiene la mayor superficie del mundo?,Rusia,geografia,facil,todos,nueva,,,opentriviaqa
+71,�En qu� continente nunca se ha realizado una edici�n de los Juegos Ol�mpicos?,�frica,deportes,facil,todos,nueva,,,trivial2b
+608,¿Quién cruzó los Andes para liberar Chile y Perú?,José de San Martín,historia_argentina,facil,todos,nueva,,,generada
+598,¿Quién lideró el Ejército del Norte en las batallas de Tucumán y Salta?,Manuel Belgrano,historia_argentina,facil,todos,nueva,,,generada
+306,¿En qué siglo se inventó la imprenta de tipos móviles en Europa?,Siglo XV,historia_universal,media,marcos,no_sabia,,2026-03-17,opentriviaqa
+322,¿Qué civilización precolombina habitaba en el actual México central?,Azteca (o Mexica),historia_universal,media,marcos,nueva,,,opentriviaqa
+489,¿Cuál es la montaña más alta de Europa?,Elbrus,geografia,media,tiziano,no_sabia,,2026-03-17,generada
+80,�Qu� esquiador sueco gan� dos medallas de oro en los Juegos Ol�mpicos de Invierno de 1890 en Lake Placid?,Ingemar Stenmark,deportes,facil,todos,nueva,,,trivial2b
